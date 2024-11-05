@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Atlantis">
+<test name= "CreateConversation">
+    <classes>
+        <class name="WebBrowser.Atlantis_Test"/>
+        <methods>
+            <include name = "Create_Conversation_Patient1" priority="1" />
+        </methods>
+    </classes>
+</test>
+</suite>

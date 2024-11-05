@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test DataRepositories">
+    <test name= "UploadFolder">
+        <classes>
+            <class name="WebBrowser.DataRepositories_Test"/>
+            <methods>
+                <include name = "UploadFoler_Patient1" priority="1" />
+<!--                <include name = "UploadFoler_Patient2" priority="2" />-->
+<!--                <include name = "UploadFoler_Patient3" priority="3" />-->
+            </methods>
+        </classes>
+    </test>
+</suite>

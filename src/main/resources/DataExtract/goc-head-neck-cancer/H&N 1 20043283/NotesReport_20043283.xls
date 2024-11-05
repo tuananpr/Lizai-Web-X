@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>21570</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R3C1:R3C4"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="61" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="3"/>
+   <Row ss:Height="20.25">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Notes Report</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-06-14T08:37:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C6D8 Gemcitabine (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ. Εκ του ε/ε: Hb 8,7 WBC 4.57 Neu# 3.4 PLT 120 Ur 44.2 Cr 1.18  Εξήλθε χωρίς άμεσες επιπλοκές. FBC 21/06 CT BNCAP 19/08  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-06-07T11:44:34.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C6D1 Carboplatin Gemcitabine Pembrolizumab (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ. Hb 9.6 WBC 10.07 Neu 8.27 PLT 199 Ur 59 Cr 1.43 LDH 271 θύρεο κφ Χορηγήθηκαν 500 N/S 0.9%, παρακολούθηση νεφρικής λειτουργίας. Δόθηκε θεραπευτικό πλάνο (GCSF 0.48 Day 3-5) (Με οδηγίες Δρ.Τσαβαρή να μην λαμβάνει κορτιζόνη πλέον στο πλάνο του) Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-06-03T14:07:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής με προγραμματισμένη θεραπεία με Gemcitabine στις 05/06 σε ε/ε παρουσίασε ουδετεροπενία  ( WBC 1.82 , NEU 0.86) . Δώθηκαν οδηγίες για 2 GCSF (acc 48) και επαναπρογραμματισμός της θεραπείας της στις 07/06 με νέο ε/ε την ίδια ημέρα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">call communication</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-22T09:32:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C5D8 Gemcitabine (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ. Εκ του ε/ε: Hb 9,2 WBC 10.36 Neu# 8.73 PLT 235 Ur 48.7 Cr 1.15 LDH 335 AST 38 ALT 81 ALP 126  Δόθηκε θεραπευτικό πλάνο (GCSF acc. 48 day 3-5) Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-15T09:57:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C5D1 Carboplatin Gemcitabine Pembrolizumab (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ.  Hb 9.5 WBC 16.19 Neu 11.94 PLT 421 Ur 40 Cr 1.26  Χορηγήθηκαν 250 N/S 0.9% + 16mmol MgSO4 Δόθηκε θεραπευτικό πλάνο (GCSF 0.48 Day 3-5) (Με οδηγίες Δρ.Τσαβαρή να μην λαβμάνει κορτζιόνη πλεον στο πλάνο του) Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/ Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-14T10:37:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ΑΣΘΕΝΗΣ ΣΕ ΠΟΛΥ ΚΑΛΗ ΓΕΝΙΚΗ ΚΑΤΑΣΤΑΣΗ (PS 0) -ΚΑΡΚΙΝΟΣ ΚΕΦΑΛΗΣ ΤΡΑΧΗΛΟΥ (ΜΥΟΕΠΙΘΗΛΙΑΚΟ-ΕΠΙΘΗΛΙΑΚΟ ΚΑΡΚΙΝΩΜΑ ΣΙΕΛΟΓΩΝΩΝ ΑΔΕΝΩΝ) ΜΕ  ΠΝΕΥΜΟΝΙΚΕΣ ΠΛΕΟΝ ΜΕΤΑΣΤΑΣΕΙΣ  ΥΠΟ CARBOPLATIN-GEMCITABINE-PEMBOLIZUMAB  ΑΠΟ ΤΟ ΜΟΡΙΑΚΟ ΕΛΕΓΧΟ ΣΤΟ ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΛΕΥΚΩΣΙΑΣ: 1.Απουσία μεταλλάξεων στα γονίδια που εξετάστηκαν με το κιτ Oncomine Focus assay 52* 2. Απουσία αναδιατάξεων (fusion negative) 3&gt;CPS SCORE&lt;1%  AΠΟ ΤΟΝ ΑΠΕΙΚΟΝΙΣΤΙΚΟ ΕΛΕΓΧΟ: No evidence of significant differentiation compared to the previous exam PET-CT scan dated 12/01/2024, as described above. Clinical correlation is advisable.   ΣΥΝΕΧΙΣΗ ΤΗΣ ΙΔΙΑΣ ΑΓΩΓΗΣ ΕΠΟΜΕΝΟΣ ΑΠΕΙΚΟΝΙΣΤΙΚΟΣ ΕΛΕΓΧΟΣ ΣΕ 3 ΜΗΝΕΣ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medical Note</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-10T14:01:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η σημερινή θεραπεία ακυρώθηκε λόγω ουδετεροπενίας. Ειναι απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση .  Εκ του ε/ε: Hb 9,7 WBC 2.41 Neu 1.14 PLT 255 Μετά από επικοινωνία με τον Δρ Βορριά, δόθηκαν οδηγίες να βαλει 3 GCSF (10-12/05). E/E: 13/05 και θεραπεία στις 15/05.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cancelled Therapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-19T10:56:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C4D8 Gemcitabine (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ.  Έγινε επίσκεψη σε ΩΡΛ όπου αφαιρέθηκε ορώδες υγρό εκ του ωτός και πλέον η ακοή του έχει βελτιωθεί Εκ του ε/ε: Hb 9,2 WBC 8,88 Neu# 7,41 PLT 234 Ur 68 Cr 1.19 LDH 359   Δόθηκε θεραπευτικό πλάνο (GCSF acc. 48 day 3-4)  Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-12T12:38:46.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C4D1 Carboplatin Gemcitabine Pembrolizumab (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ.  **Αναφέρει από 2 εβδομάδες ότι έχει μειωμένη ακοή στο αριστερό του αυτί. Την επόμενη Πέμπτη 18/04  θα επισκεφθεί Ωτορινολαργινολόγο. !Επόμενη θεραπεία ρωτήστε για το ΩΡΛ. Εκ του ε/ε 12/04: Hb 9.9 WBC 2.68 Neu 1.67 PLT 118 Ur 50 Cr 1.2 Mg 1.2 Ca 8.4 Ελαβε MgSO4 8mmol + 0.9% N/S 100ml.  Δόθηκε θεραπευτικό πλάνο (GCSF 0.48 Day 3-4) (14-15/04) ε/ε 17/04 Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/ Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-11T12:28:28.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Εστάλη αίτημα συνεχίσης φαρμάκου PEMBOLIZUMAB</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΕΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-08T14:33:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Σε ε/ε PLT 65.000. Ακυρώθηκε η αυριανή θεραπεία λόγω θρομβοπενίας και επαναπρογραμματισμό στις 12/04</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">update</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-26T15:13:10.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C3D8 Gemcitabine (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ. Εμφανίζει ερυθρότητα ΑΡ οφθαλμού και θόλωση όρασης. Ενημερώθηκε ο Δρ. Τσαβαρής και δόθηκε θεραπεία. Έγινε παραπομπή σε Οφθαλμίατρο. Εκ του ε/ε: Hb 7,7 WBC 8,74 Neu# 7,89 PLT 287 Ur 69 Cr 1.20 (μεταγγίστηκε 23/03 με 1ΜΣΕ) Νέα FBC σήμερα: Hb 10.8 WBC 7.34 Neu 6.14 PLT 201  Δόθηκε θεραπευτικό πλάνο (GCSF acc. 48 day 3-4) (28-29/03) ε/ε 30/3 Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemptherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-23T18:15:52.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Σε ε/ε σε εξωτερικό χημείο ανευρέθηκε αναιμία με Hb 7.7. Έγινε μετάγγιση με 1ΜΣΕ και ο ασθενής εξήλθε χωρίς επιπλοκές</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">blood transfusion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-19T10:45:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C3D1 Carboplatin + Gemcitabine + Pembrolizumab (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ και ΑΝΘ. Απουσία συμπτωματολογίας ! Εκ του ε/ε: Hb 8,7 WBC 2.49 Neu# 1.58 PLT 148 Ur 52.6 Cr 1.16  Δόθηκε θεραπευτικό πλάνο (GCSF acc. 48 day 3-4) 21-22/3 ε/ε 23/3 Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-16T10:37:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε για εργαστηριακό επανέλεγχο μετά από ανάδειξη θρομβοπενίας σε ε/ε  στις 15/03 ( Hb: 8.1, WBC:2.89k #Neu:2.08 Plts49k (από 149). Εκ του νέου εργαστηριακού ελέγχου 16/03: Hb:8.7, WBC:3.42 #Neu:2.36  Plts:59k.  Επόμενος επανέλεγχος στις 19/03  πριν από την προγραμματισμένη θεραπεία. Εξέρχεται με οδηγίες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Εργαστηριακός επανέλεγχος</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-13T14:39:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">13/3/2024: Επανεκτίμηση Δεν αναφέρει συμπτωματολογία από το αναπνευστικό. SpO2: 97% (FiO2 21%), 87bpm αψ: μείωση ΔΕ βάση παρασπονδυλικά πιθανά λόγω της ολισθαίνουσας διαφραγματοκήλης PFTs: FVC: 3.07lt, 79%pred, FEV1: 1.95lt, 65%, FEV1/FVC: 63%, FEF25-75: 44%, PEF 60% Χωρίς μεταβολή με την προηγούμενη σπιρομέτρηση. Σύσταση για συνέχιση αγωγής με Anoro Ellipta S: 1x1 και επανεκτίμηση σε 6 μήνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow Up Pulmonology, Dr. Andreas Photiades</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-05T10:08:05.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C2D8 Gemcitabine (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hb 8,8 WBC 17.21 Neu# 14.82 PLT 391 Ur 57.9 Cr 1.27 (έλαβε GCSF)  Δόθηκε θεραπευτικό πλάνο. Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-27T13:38:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C2D1 Carboplatin + Gemcitabine + Pembrolizumab (Ca βάσης γλώσσας) Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ και ΑΝΘ. Απουσία συμπτωματολογίας ! Εκ του ε/ε: Hb 8,8 WBC 2.71 Neu# 1.17 PLT 193 Ur 56.5 Cr 1.24  Μετά από οδηγίες Δρ. Τσαβαρή δόθηκε θεραπεία και accofil. Δόθηκε θεραπευτικό πλάνο (GCSF acc. 48 day 3-5) Εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-20T15:15:28.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής απύρετος αναφέρει αδυναμία, χωρίς άλλα συμπτώματα. Εκ του ε/ε: Hb 9.1 WBC 1.89 Neu 1.21 PLT 55 [πλακάκι] Ur 49 Cr 1.13 Δόθησαν οδηγίες για GCSF αύριο και μεθαύριο Θα κάνει ξανά αναλύσεις 26/2 και θεραπεία 27/2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">call communication</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-15T15:39:01.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ε/ε 15/2 U 107 Creat 1.26      (13/2 U 71  Creat 1.43       12/2 U 71  Creat 1.18         6/2 U 49  Creat 0.98) Δόθηκαν οδηγίες για αύξηση της λήψης υγρών και με οδηγίες Δρ Ασημίνας επαναληπτικός εργαστηριακός έλεγχος 20/02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-15T14:41:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Προσέρχεται λόγω θωρακαλγίας από μηνός, υφέθηκε τις τελευταίες μέρες.  Α/Α: ΟΕΜ 2010, αιμορραγικό εγκεφαλικό 2010, Ca ρίζας γλώσσας RT και ΧΜΘ, ΑΥ, ΔΛΔ πρώην καπνιστής (δ/πη προ 22ετών, 35 έτη x 60 τσιγάρα, 105p/y), χωρίς αναφερόμενες αλλεργίες. προ 2ετίας επισκέφτηκε ιδιώτη πνευμονολόγο για διερεύνηση ΣΑΑΥ, διαπιστώθηκε αποφρακτική συνδρομή, δόθηκε βρογχοδιασταλτική αγωγή, τα διέκοψε μόνος του, δεν έγινε η μελέτη ύπνου. SpO2 100% (FiO2 21%), 69bpm αψ: ήπια μείωση αμφοτερόπλευρα καρδιά: S1, S2 Ε-Ρ χωρίς φυσήματα PFTs: PRE: FVC: 3.04lt, 78%pred, FEV1: 1.92lt, 64%pred, FEV1/FVC: 63%, FEF 25-75: 45% POST: FEV1: 2.03lt, ανταπόκριση 5,7% ή 110ml βελτίωση στην FEV1 Μικτό καθ' υπεροχήν αποφρακτικό σύνδρομο με μείωση της ροής στους μικρούς αεραγωγούς, χωρίς σημαντική ανταπόκριση στη βρογχοδιαστολή. Τελευταία απεικόνιση του θώρακα προ μηνός με PET/CT: ασβεστοποιός παχυπλευρίτιδα, οζίδια πνευμόνων αμφοτερόπλευρα, ευμεγέθης ολισθαίνουσα διαφραγματοκήλη. Σύσταση για έναρξη αγωγής με Anoro Ellipta S: 1x1 και επανεκτίμηση σε 1 μήνα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1st Consultation Pulmonology, Dr. Andreas Photiades</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-13T13:23:53.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C1D8  Gemcitabine (Ca βάσης γλώσσας)  Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός για ΧΜΘ. Αναφέρει επιδεινούμενο θωρακικό άλγχος και δύσπνοια  Εκ της κλινικής εξέτασης: Αναπνευστικό ψιθύρισμα: κφ, S1 S2: ΡΕ , χωρίς φυσήματα, απουσία οιδηματων , Κοιλία : ΜΕΑ Εντερικοί ήχοι: + Εκ του ε/ε: Hb 11.1 WBC 3.51 Neu# 2.72 PLT 179 Ur 70 Cr 1,18  Διενεργήθηκε ΗΚΓ: Xωρίς σημεία οξείας ισχαιμίας. Έγινε αξιολόγηση απο Δρ. Βορριά.  Με οδηγίες Δρ. Βορριά ζητήθηκε α/α θώρακος και καρδιολογική εκτίμηση.  Α/α θώρακος χωρίς παρουσία πλευριτικής συλλογής Ηχωκαρδιογραφική μελέτη χωρίς αξιόλογα παθολογικά ευρήματα. Αορτική σκλήρυνση Με οδηγίες Δρ.Τσαβαρή δόθηκε θεραπεία, συνταγογραφήθηκε ROLENIUM που θα λαμβάνει σε περίπτωση δύσπνοιας και διευθετήθηκε ραντεβού με πνευμονολόγο Πέμπτη 13/02.  15/02 ε/ε επανέλεγχος σημερα U 71 Creat 1.43 Με οδηγίες Δρ. Βορριά δόθηκαν οδηγίες για αύξηση της λήψης υγρών και επαναληπτικος βιοχημικός έλεγχος  Δόθηκε θεραπευτικό πλάνο εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες Εργαστηριακός επανέλεγχος 20/02/2024  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-13T12:58:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Όνομα:  ΧΑΡΑΛΑΜΠΟΥΣ        Επώνυμο: ΧΑΡΑΛΑΜΠΟΥΣ             Πατρώνυμο:                              Ηλικία: 67                                   HIS: 20043283                                 Date:  13-02-2024   Παρούσα νόσος:  άτυπο θωρακικό άλγος    Ατομικό αναμνηστικό: αναφερόμενο ΟΣΣ προ 15ετίας – αθηρωματικά αγγεία χωρίς σημαντικές στενώσεις, 02/2023  ca βάσης γλώσσας - ΠΡΟΟΔΟ ΤΗΣ ΝΟΣΟΥ ΣΤΟΥΣ ΠΝΕΥΜΟΝΕΣ,  ΑΥ ( + ), ΣΔ ( - ), δυσλιπιδαιμία (  + ), καπνός (- , διακοπή πρό 20ετίας   ), FH (  , για CVD ), αλλεργίες ( - ), αλκοόλ ( - ), θυρεοειδοπάθεια (- ), γλαύκωμα, διαφραγματοκήλη ,  AVM ενδοκράνια στερεοτακτική ακτινοχειρουργική (κεφαλαλγίες) – έκτοτε διακοπή αντιθρομβωτικών.   Φαρμακευτική αγωγή κατ΄οίκον: reprat , olartan , celmantin  Κλινική εξέταση:  Αναπνευστικό ψιθύρισμα: κφ                                       S1 S2: ΡΕ  Καρωτίδες: κφ                                    Σφαγίτιδες:  κφ                                         Ζωτικά σημεία:   BP:  98/68           mmHg         BPM:  77           /min             Spo2:  96     %          ΗΚΓ: SR Τροπονίνη και nt-pro BNP εφο  ΥΠΕΡΗΧΟΣ ΚΑΡΔΙΑΣ ΣΧΟΛΙΑ Εξέταση σε φλεβοκομβικό ρυθμό 77bpm , BP=98/68mmHg 1. Καρδιακές Κοιλότητες - Αριστερή κοιλία φυσιολογικών διαστάσεων με καλή συνολική συστολική απόδοση (ΚΕ: 60%) .Grade II διαστολική δυσλειτουργία.  - Δεξιά κοιλία φυσιολογικών διαστάσεων με καλή συστολική απόδοση.  - Αριστερός και δεξιός κόλπος φυσιολογικών διαστάσεων( εντύπωση πίεσης εκ των έξω του αριστερού κόλπου) 2. Καρδιακές Βαλβίδες - Αορτική βαλβίδα τρίπτυχη με εκφύλιση και σκλήρυνση των πτυχών.  - Κολποκοιλιακές βαλβίδες δομικά φυσιολογικές με καλή λειτουργικότητα. 3. Αορτή Αορτική ρίζα, ανιούσα αορτή εγγύς και αορτικό τόξο φυσιολογικών διαστάσεων  4. Περικάρδιο   Χωρίς περικαρδιακή συλλογή. 5. Doppler Μελέτη – Εκτίμηση Ενδοκοιλοτικών Πιέσεων - Χωρίς αξιόλογες παθολογικές ροές στις καρδιακές βαλβίδες,  - Πιέσεις πλήρωσης της αριστερής κοιλίας και πιέσεις πνευμονικής αρτηρίας φυσιολογικές. ΣΥΜΠΕΡΑΣΜΑ Ηχωκαρδιογραφική μελέτη χωρίς αξιόλογα παθολογικά ευρήματα. Αορτική  σκλήρυνση</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">άτυπο θωρακικό  άλγος</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-06T11:16:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C1D1 Carboplatin / Gemcitabine  Ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για ΧΜΘ. Εκ της κλινικής εξέτασης: Αναπνευστικό ψιθύρισμα: ομότιμο άμφω S1 S2: ΡΕ , χωρίς φυσήματα, απουσία οιδηματων , Κοιλία : ΜΕΑ Εντερικοί ήχοι: + Εκ του ε/ε: Hb 10.9 WBC 4.64 Neu# 2.87 PLT 263 Ur 49 Cr 0.98  Διενεργήθηκε ΗΚΓ: Brachycardia χωρίς σημεία οξείας ισχαιμίας. Δόθηκε θεραπευτικό πλάνο, checklist, consent form και εξήλθε χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα Εργαστηριακός επανέλεγχος 12/02/2024  **Στο Protocol ο ασθενής πρέπει να λάβει Pembrolizumab αλλά η έγκριση εκκρεμεί ακόμη.  Α/Α: SRT gamma-knife probably due to AVM, Arterial hypertension Φ/Α: Reprat 40mg od, Olarten 10mg od, Celmantin 20mg od Αλλεργίες: -</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-29T15:23:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα για περεταίρω διερεύνηση στο Ιστοπαθολογικό Τμήμα του Γενικού Νοσοκομείου Λευκωσίας- Δρ. Τσαβαρής</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ /ΙΣΤΟΠΑΘΟΛΟΓΙΚO ΤΜΗΜΑ ΛΕΥΚΩΣΙΑΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-29T14:11:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΒΑΣΕΙ PET/CT: ΠΡΟΟΔΟ ΤΗΣ ΝΟΣΟΥ ΣΤΟΥΣ ΠΝΕΥΜΟΝΕΣ.  -ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΓΙΑ ΕΝΑΡΞΗ 1HΣ ΓΡΑΜΜΗΣ ΘΕΡΑΠΕΙΑ ΜΕ: CARBOPLATIN+GEMCITABINE+PEMBOLIZUMAB  (PLATINUM SENSITIVE LAST CISPLATIN 05/05/2023)  ΖΗΤΗΘΗΚΑΝ: ΓΕΝΙΚΗ ΑΙΜΑΤΟΣ+ΒΙΟΧΗΜΙΚΑ  ΕΚΚΡΕΜΟΤΗΤΕΣ: -ΜΟΡΙΑΚΗ ΑΝΑΛΥΣΗ ΤΟΥ ΟΓΚΟΥ ΣΤΟ ΓΝ ΛΕΥΚΩΣΙΑΣ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Medical Note</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-25T08:30:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για έναρξη αγωγής με το φάρμακο PEMBROLIZUMAB - Δρ. Τσαβαρής</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Φαρμακευτικές Υπηρεσίες Λευκωσίας</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-19T13:50:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 19/01/24, 9 months after treatment    Patient in good condition. Has no complaints except to occasionally headache.  ECOG 0, VAS 0    Physical Examination:  No palpable findings    ENT examination: 01/24: Dr Thrasyvoulou: ok    Discussed the PET ct results and TB decision, he will be referred to continue with systemic treatment.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-16T09:20:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  01/24   PET CT: Progress of some pulmonary nodules seen on CT of 13/10/23 and detection of new lung s lesions presenting no to faint FDG-uptake.  Partial response of primary with residual activity of base of tongue left.  Remission of Rt cervical LN of level II.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-03T12:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 02/11/23, 6 months after treatment    Patient in good condition. Complains of xerostomia. ECOG 0, VAS 0 (occasional neck pain on the left)  EORTC H&amp;N 35 Questionnaire: 92%    Physical Examination:  Dry mouth, no radiodermatitis, no mucositis    Imaging studies:  10/23 MRI neck: further partial response of the Lt base of tongue lesion. Almost complete response of the small lesion at the Rt base of tongue.  10/23 CT chest: Bigger in dimension lung nodules (RUL: 7mm, was 4mm-RLL: 7mm and 6mm, were 4mm both) and new nodule of the RLL\R\ 3mm    ENT examination:  Nothing of note    Last blood test: on 10/23: nothing of note.  Medication: no    Next follow-up in 3 months with PET CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-03T12:40:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 02/11/23, 6 months after treatment    Patient in good condition. Complains of xerostomia. ECOG 0, VAS 0 (occasional neck pain on the left)  EORTC H&amp;N 35 Questionnaire: 92%    Physical Examination:  Dry mouth, no radiodermatitis, no mucositis    Imaging studies:  10/23  MRI neck: further partial response of the Lt base of tongue lesion. Almost complete response of the small lesion at the Rt base of tongue.  10/23  CT chest: Bigger in dimension lung nodules (RUL: 7mm, was 4mm-RLL: 7mm and 6mm, were 4mm both) and new nodule of the RLL\R\ 3mm    ENT examination:  Nothing of note    Last blood test: on 10/23: nothing of note.  Medication: no    Next follow-up in 3 months with PET CT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-21T12:21:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 21/07/23, 3 months after treatment    Patient in good condition. ECOG 0, VAS 0    Physical Examination:  No radiodermatitis, dry mouth, no mucositis, no palpable findings.    Imaging studies:  07/23 MRI neck: Partial response of the base of tongue lesion (was 50x22x20mm, now 42x16x15mm)    ENT examination: 07/23 Dr Thrasyvoulou: no findings    Last blood test: on 07/23: nothing of note.  Medication: no    Next follow-up in 3 months with MRI neck, CT chest and ENT examination.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-17T10:56:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 17/05/23, 3 weeks after treatment    Patient in good condition. Has no complaints, except of difficulty in using his false teeth, probably due to oedema. ECOG 0, VAS 0  EORTC H&amp;N 35 Questionnaire: yes    Physical Examination:  Hyperpigmentation, mild oedema. No palpable findings.  Mild dry mouth, no mycosis, no mucositis, no ulcers.    ENT examination: pending    Last blood test: on 10/05: Urea: 72,9, LDH: 282  Medication: no    Next follow-up in 2 months with MRI neck, ENT examination and blood test.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-15T14:21:46.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αφαίρεση γαστροστομίας (με κομβίο).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dr. M. Christoforou Notes-Gast-Endoscopy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-15T10:36:05.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής διασωληνώθηκε ινοπτικά χωρίς επιπλοκές. Η αφαίρεση PEG πραγματοποιήθηκε υπό γενική αναισθησία επίσης ανεπίπλεκτα. Ο ασθενής αφυπνιστηκε, παρέμεινε για ολιγόωρη παρακολούθηση και εξήλθε αιμοδυναμικά και αναπνευστικά σταθερός με καλό επίπεδο συνείδησης συνοδεία των οικείων του.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Προαναισθητική εκτίμηση και ινοπτική διασωλήνωση για αφαίρεση PEG</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-05T16:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3 D1-2 Cisplatin weekly (Oropharyngeal ca Initial diagnosis: 02/23) Ο ασθενής προσήλθε προγραμματισμένα για ΧΜΘ. Αιμοδυναμικά σταθερός, απύρετος, σε καλή κλινική κατάσταση. Εκ του ε/ε: Hb 13.1, WBC 4.59, Neu 3.09, PLts 372 Cr 1.09 U 42 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς άμεσες επιπλοκές. Eργαστηριακός έλεγχος 11/05 (έχει 2 GCSF αν χρειάζεται) Oλοκλήρωση ΧΜΘ.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-26T15:47:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Last fraction on 26/04/23    Patient in good condition. Has no complains, except to mild dysphagia.  ECOG 0, VAS 2 (when swallowing)    Examination:  Radiodermatitis grade I, Mucositis grade I  Did not use the PEG, an email was sent to gastroenterology department for PEG removal appointment in about 2 weeks.  Medication: Continue with Fluconazole 100mg    Letter to Dr Thrasyvoulou  Follow up GOC RT-Dr Thrasyvoulou  Follow up in our clinic to evaluate the radiotherapy related acute reactions in 4 weeks.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-24T16:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Interim consultation    Oral candidiasis and oral mucositis, no dysphagia    Medication: nystamysyn stop  fluconazole tb 100mg OD    Continue RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-20T16:46:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Interim consultation    Status idem    Continue RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-13T11:39:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Interim consultation    Mild dysphagia to solids, no xerostomia, no dysgeusia, no oral mucositis.  Patient does not need to use the PEG tube yet.  No dyspnea, no cough.  Radiodermatitis grade I    Medication: mystamysyn syrup 5ml 1-1-1  mouthwash 1-1-1  moisturizing cream 1-0-1    Continue RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-07T12:19:33.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2 D1-2 Cisplatin weekly (Oropharyngeal ca Initial diagnosis: 02/23) Ο ασθενής προσήλθε προγραμματισμένα για ΧΜΘ. Αιμοδυναμικά σταθερός, απύρετος, σε καλή κλινική κατάσταση. Εκ του ε/ε: Hb 12.2, WBC 2.7, Neu 1.6, PLts 218 Cr 0.97 U 47 Δόθηκε θεραπευτικό πλάνο. Θα λάβει 2 GCSF 0.48MU αύριο και μεθαύριο 24ώρες μετά την θεραπεία, δεν θα έχει ακτινοθεραπεία αυτές τις μέρες και αναλύσεις 13/04. Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-30T12:04:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Interim consultation    No dysphagia, no xerostomia, no dysgeusia, no oral mucositis.  Patient does not need to use the PEG tube yet.  No dyspnea, no cough.  No radiodermatitis.    Medication: mystamysyn syrup 5ml 1-1-1  mouthwash 1-1-1  moisturizing cream 1-0-1    Continue RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-17T15:51:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 D1-2 Cisplatin weekly (Oropharyngeal ca Initial diagnosis: 02/23) Ο ασθενής προσήλθε προγραμματισμένα για ΧΜΘ. Αιμοδυναμικά σταθερός, απύρετος, σε καλή κλινική κατάσταση. Εκ του ε/ε: Hb 12.4, WBC 7.86, Neu 5.61, PLts 233 Cr 0.91U 45 CRP 18 Δόθηκε θεραπευτικό πλάνo. Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-16T10:29:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Derived mean after 5 CBCTs:  Sup: 0.1cm, Left: 0.1cm, Post: 0.1cm  Verify and if &lt;0.3cm continue with 3 CBCTs per week.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-09T12:09:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  First fraction consultation.    EBRT HnN    Very good matching, all questions were answered.    Proceed with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-08T11:05:24.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">HEART U/S: ΚΑΛΟ ΚΛΑΣΜΑ ΕΞΩΘΗΣΗΣ Cr: 0.94=&gt; EGFR: 89 mL/min/1.73m2 ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΓΙΑ HIGH DOSE CISPLATIN (D1,D2)X3+RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDICAL NOTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-03T12:23:07.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής με ιστορικό Ca οροφάρυγγα προσήλθε για τοποθέτηση γαστροστομίας και έπειτα μεταφέρθηκε στο θάλαμο για παρακολούθηση. Εξέρχεται με οδηγίες, χωρίς άμεσες επιπλοκές.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">02.03.23 - 03.03.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-02T15:39:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Fiberoptic awake intubation; no complications Postoperative status after exctubation: patient awake, communication same as prior, vitals stable, swallowing an speaking ok, no signs of bleeding Transport to ward in stable condition</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Anaesthesia for PEG Implantation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-02T13:43:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Γαστροστομία: Τοποθετήθηκε γαστροστομία PEG 20Fr (COOK). (χορηγήθηκε άπαξ κεφτριαξόνη 2gr).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dr. M. Christoforou Notes-Gast-Endoscopy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-02T11:42:04.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μετά από έγκριση του Δρ. Νάκου το δείγμα με αριθμό  306/23-1(1 κύβος παραφίνης) που παραδόθηκε στις 02/02/2023  στο Ιστοπαθολογικό Τμήμα του Γερμανικού Ογκολογικού Κέντρου, μαζί με τα παραπεμπτικά μας παραδόθηκαν από το τμήμα Παθολογικής Ογκολογίας στις 02/03/2023 , στάλθηκε  μετα απο αιτημα τους στο ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΠΑΘΟΛΟΓΙΚΟ ΤΜΗΜΑ ΛΕΥΚΩΣΙΑΣ  για περαιτέρω Διερεύνηση εκ μέρους Δρ.Τσαβαρή Ονουφριο.Η αποστολή έγινε με courier στις 03/02/2023 . ΚΡΟΝΟΣ -Αριθμός αποστολής : LIM13957707</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟ ΤΜΗΜΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-02T09:28:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ζητήθηκε από το Τμήμα Ιστοπαθολογίας του Γερμανικού Ογκολογικού Κέντρου να σταλεί κύβος παραφίνης στο ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΠΑΘΟΛΟΓΙΚΟ ΤΜΗΜΑ ΛΕΥΚΩΣΙΑΣ για περαιτέρω διερεύνηση.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΠΑΘΟΛΟΓΙΚΟ ΤΜΗΜΑ ΛΕΥΚΩΣΙΑΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-01T14:12:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Planed PEG Implantation Patient with Oropharyngeal Ca ID 02/'23 &#45;-&gt; Base of tongue extended up to hyoid bone; difficulty swallowing, speaking ''thikly'', mouth aperture approx 3 cm, tongue moving rigidly GENERAL ANAESTHESIA; awake fibreoptic intubation. Patient informed and consent. Instructions for meds were given to patient</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Preanaesthetic assessment</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-01T13:45:06.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ΑΣΘΕΝΗΣ ΣΕ ΠΟΛΥ ΚΑΛΗ ΓΕΝΙΚΗ ΚΑΤΑΣΤΑΣΗ (PS 0) ΠΑΣΧΕΙ ΑΠΟ ΤΟΠΙΚΑ ΠΡΟΧΩΡΗΜΕΝΟ ΚΑΡΚΙΝΟ ΚΕΦΑΛΗΣ ΤΡΑΧΗΛΟΥ (ΜΥΟΕΠΙΘΗΛΙΑΚΟ-ΕΠΙΘΗΛΙΑΚΟ ΚΑΡΚΙΝΩΜΑ ΣΙΕΛΟΓΩΝΩΝ ΑΔΕΝΩΝ) ΜΕ ΠΙΘΑΝΗ ΕΠΕΚΤΑΣΗ ΣΕ ΤΡΑΧΗΛΙΚΟΥΣ ΛΕΜΦΑΔΕΝΕΣ ΧΩΡΙΣ ΑΠΟΜΑΚΡΥΣΜΕΝΕΣ ΜΕΤΑΣΤΑΣΕΙΣ  Α/Α: -ΔΙΑΦΡΑΓΜΑΤΟΚΗΛΗ -ΑΡΤΗΡΙΟΦΛΕΒΩΔΗ ΔΘΣΠΛΑΣΙΑ ΕΓΚΕΦΑΛΟΥ=&gt; ΥΠΕΒΛΗΘΗ ΣΕ ΣΤΕΡΕΟΤΑΚΤΙΚΗ ΑΚΤΙΝΟΒΟΛΙΑ ΑΛΛΑΧΟΥ ΤΟ 2010 -ΑΥ ΥΠΟ ΑΓΩΓΗ -ΠΡΩΝ HEAVY SMOKER&gt;40 PACKET/YEARS -ΣΙΔΗΡΟΠΕΝΙΚΗ ΑΝΑΙΜΙΑ ΣΤΑ ΠΛΑΙΣΙΑ ΕΓΚΟΛΠΩΜΑΤΩΣΗΣ!!!! (2019 ΕΚΑΝΕ ΚΟΛΟΝΟΣΚΟΠΗΣΗ/ ΑΠΟ ΤΗ ΠΡΟΣΓΑΤΗ ΓΕΝΙΚΗ ΑΙΜΑΤΟΣ=&gt; ΕΙΚΟΝΑ ΣΤΙΓΜΑΤΟΣ ΜΕΣΟΓΕΙΑΚΗΣ ΑΝΑΙΜΙΑΣ)   ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ ΓΙΑ ΧΗΜΕΙΟ-ΑΚΤΙΝΟΘΕΡΑΠΕΙΑ ΠΡΟΣΦΑΤΟ ΥΠΕΡΗΧΟ ΚΑΡΔΙΑΣ ΜΕ ΚΑΛΟ ΚΛΑΣΜΑ ΕΞΩΘΗΣΗΣ  ΖΗΤΗΘΗΚΑΝ: -ΓΕΝΙΚΗ ΑΙΜΑΤΟΣ+ΒΙΟΧΗΜΙΚΑ  ΤΗΛΕΦΩΝΙΚΟ ΑΥΡΙΟ 2/3/2023 ΓΙΑ ΤΑ ΑΠΟΤΕΛΕΣΜΑΤΑ ΤΟΥ ΑΙΜΑΤΟΣ ΕΠΟΜΕΝΟ ΡΑΝΤΕΒΟΥ ΣΕ 1 ΕΒΔΟΜΑΔΑ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDICAL NOTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-24T14:25:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Πρόσφατο Ιχ: ασθενής με καρκίνο βάσης γλώσσας, προς τοποθέτηση PEG στομίας.  Ατομικό Ιχ: ΑΥ, ΔΛΔ, AVM ενδοκράνια στερεοτακτική ακτινοχειρουργική (κεφαλαλγίες) Οικογενειακό Ιχ: παππούς με CRC, θείος με καρκίνο στομάχου. Χ/Ο: / Αλλεργίες:/  Δυσανεξία:  Φ/Α: olartan, reprat, celmantin  Πρόσφατες Εργ/Εξετάσεις:  Πρόσφατος Απεικονιστικός έλεγχος:  Γαστροσκόπηση: 2019 διαφραγματοκήλη, γαστρίτιδα Κολονοσκόπηση: 2019 εκκολπώματα (στα πλαίσια διερεύνησης σιδορεπενικής)  Προηγούμενες θεραπείες:   Σύσταση/αγωγή:  Έγινε επικοινωνία κατά τη διάρκεια του ραντεβού με τον ΩΡΛ ιατρό του ασθενούς Δρ θρασυβούλου σε ερώτηση για την βατότητα σε οργανο 9 χιλ αναφέρει ευχερής διέλευση ιδίως δεξ όπου δεν παρατηρείται η γνωστή βλάβη. Εστάλη INR , FBC Προγραμματισμός PEG στομίας</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Consultation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-23T14:50:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Consultation on 23/02/23  GESY Patient / Referral from Dr. Thrasyvoulou    Diagnosis: Oropharyngeal ca   Initial diagnosis: 02/23  Localization: Base of tongue  Histology: Epithelial/myoepithelial ca of salivary glands, grade I  Classification: cT3 cN0 cM0  Metastases: none    Secondary Diagnoses:  SRT gamma-knife probably due to AVM. Letter from his doctor was asked. (Metropolitan 2010)  Arterial hypertension  Lt eye problem (glaucoma?)    Previous treatment/Course of disease:  11/22 MRI neck: Lesion of the base of tongue  12/22 CT chest: hiatal hernia, asbestos related pleural plaques  12/22 Partial glossectomy and Lt tonsillectomy: No malignancy  01/23 MRI brain: post-radiotherapy lesions  02/23 U/S guided biopsy: confirmation of malignancy  02/23 PET/CT: FDG-avid malignant mass affecting the tongue L&gt;R and extended up to hyoid bone, without evidence of osseous infiltration.  Rt cervical LN of level II with discreet glucose consumption.  Right pulmonary micronodules without FDG-uptake.    Family history:  Grandfather: colon ca  Uncle: stomach ca    Treatment concept:  Definitive radiochemotherapy HR TD 69,3Gy (33 x 2,1Gy)    Clinical examination:  165cm, 76kg. EORTC: ECOG 0, VAS 7 (Lt side of head and neck)  Painful in palpation Lt neck, dry mouth.  Difficulty in rising Rt arm (arthritis?)  Dentists assessment has been done.    Medication:  Reprat  Olartan  Celmantin  Panadol PRN    Tumorboard:  09/02/2023    Pending issues:  PEG  MO consultation on 01/03  P-CT on 01/03    Follow-up:  GOC RT- Dr Thrasyvoulou</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-23T14:49:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Consultation on 23/02/23  GESY Patient / Referral from Dr. Thrasyvoulou    Diagnosis: Oropharyngeal ca   Initial diagnosis: 02/23  Localization: Base of tongue  Histology: Epithelial/myoepithelial ca of salivary glands, grade I  Classification: cT3 cN0 cM0  Metastases: none    Secondary Diagnoses:  SRT gamma-knife probably due to AVM. Letter from his doctor was asked. (Metropolitan 2010)  Arterial hypertension  Lt eye problem (glaucoma?)    Previous treatment/Course of disease:  11/22  MRI neck: Lesion of the base of tongue  12/22  CT chest: hiatal hernia, asbestos related pleural plaques  12/22  Partial glossectomy and Lt tonsillectomy: No malignancy  01/23  MRI brain: post-radiotherapy lesions  02/23  U/S guided biopsy: confirmation of malignancy  02/23  PET/CT: FDG-avid malignant mass affecting the tongue L&gt;R and extended up to hyoid bone, without evidence of osseous infiltration.  Rt cervical LN of level II with discreet glucose consumption.  Right pulmonary micronodules without FDG-uptake.    Family history:  Grandfather: colon ca  Uncle: stomach ca    Treatment concept:  Definitive radiochemotherapy HR TD 69,3Gy (33 x 2,1Gy)    Clinical examination:  165cm, 76kg. EORTC: ECOG 0, VAS 7 (Lt side of head and neck)  Painful in palpation Lt neck, dry mouth.  Difficulty in rising Rt arm (arthritis?)  Dentists assessment has been done.    Medication:  Reprat  Olartan  Celmantin  Panadol PRN    Tumorboard:  09/02/2023    Pending issues:  PEG  MO consultation on 01/03  P-CT on 01/03    Follow-up:  GOC RT- Dr Thrasyvoulou</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-13T09:56:14.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μετά από απόφαση ιατροσυμβουλίου ημερ. 09/023/2023, αναμένεται ενημέρωση από το τμήμα Aκτιοθεραπευτικής Ογκολογίας, πότε θα προγραμματιστεί ραντεβού του ασθενή με το τμήμα Παθολογικής Ογκολογίας.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H&amp;N TB &amp; SKIN 09.02.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20043283</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-02T09:30:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλάβαμε δείγμα για ΙΣΤΟΠΑΘΟΛΟΓΙΚΗ εξέταση από το Τμήμα Διαγνωστική / Επεμβατική Ακτινολογία εκ μερους Δρ. Μιχαηλίδη Μιχάλη Με αριθμό Εγγραφής  306/23-1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟ ΤΜΗΜΑ</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>7</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R3C1:R61C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

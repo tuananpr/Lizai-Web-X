@@ -1,0 +1,414 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R9C1:R9C9"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="33" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="8"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:MergeAcross="8" ss:StyleID="s63"><Data ss:Type="String">Notes Report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Report Date:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">26/03/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">From:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">01/01/2021</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">To:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">27/03/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Note Type(s):</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">All Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">27/03/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mosaiq Notes Only:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient Name</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Birth</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Police ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gender</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Address</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-13T09:51:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  5 FU visit, 13.3.24 alone    History: feels well, makes every day sport  Fatique grade 0  GU, CTCAE: grade 1, no medicatoin, moderate nycturia  IPSS 3  GI, CTCCAE: 0    PSA, 13.3.24: pending    Today 6th and last Zoladex    Proc:  FU in 6 months with PSA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-15T10:26:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSA 0.11 ng/mL TESTO &lt; 7.00 ng/mL</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lab Results</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-15T09:25:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  4 FU visit, 15.12.23 with wife        History: feels well, sometimes to tired for football but is still very active  Fatique grade 1  GU, CTCAE: grade 1, no vesicur anymore, just nycturia 2-3 times and weak stream, stopped medication 2 months ago  IPSS 5  GI, CTCCAE: 0  Some hot flushes    PSA, 15.12.23:    Proc: ADT 18 months in total, FU in 3 months with PSA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-15T09:24:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Georgiou,Christina  5th Zoladex 10.8mg done by CG (R)  Next app: 13/03/2024</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-21T13:02:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Test &lt;7 PSA 0.16 ng/ml</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSA</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-20T12:47:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  4th Zoladex 10.8mg done by AS (L)    &#45;-&gt; Next appointment: 15/12/2023.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-20T10:09:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  3 FU visit, 20.9.23 with wife        History: feels well, sometimes to tired for football but walks 10 km per day  Fatique grad 1-2  GU, CTCAE: grade 1, no vesicur anymore, just nycturia 2-3 times and weak stream, stopped medication 2 months ago  IPSS 5  GI, CTCCAE: 0  Some hot flushes    PSA, 20.09.23:    Proc: ADT 18 months in total, FU in 3 months with PSA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-28T09:47:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Menelaou,Paraskevi  3rd zoladex 10.8 mg (R) done by PM    &#45;&#45;&#45;-&gt;next follow-up 06/09/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-24T09:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  2 FU visit, 24.5.23    IPSS 2 (nycturia 2-3)      History: feels well, sometimes to tired for football but walks 10 km per day  Fatique grad 1-2  Urination: nycturia 2 times per night, no duysria, no blood, no incontinence, stopped with Vesicur 2 weeks ago after increase in nycturia from 1-2 to 2-3 per night, wants again Vesicur grade 2  Stool: normal, no incontinence, no blood  Some hot flushes    PSA: again in end of June (before hormonal injection)      Proc:Vesicare 5mg during night for one more months, patient will call me 2-3 days before next scheduled injection to see side effects of ADT and to decide whether proceed, PSA each 3 months (e.g. when he come for ADT injection)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-05T17:08:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Talked to the patient by phone about the blood and urine tests (inclusive PSA).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phone</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-05T17:07:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  1 FU visit, 5.4.23    IPSS 5 (nycturia 4)  RTOG 16  EPIC-CP19    History: feels well, plays twice a week football  Fatique grad 1  Urination: nycturia 4-5 times per night, no duysria, no blood, no incontinence, no current medication, grade 2  Stool: normal, no incontinence, no blood  Some hot flushes    PSA: 2.06 ng/ml  FBC: ok  Urine: no clear sign of infection    Proc: today again Zoladex, Vesicare 5mg during night</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-05T17:07:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  1 FU visit, 5.4.23    IPSS 5 (nycturia 4)  RTOG 16  EPIC-CP19    History: feels well, plays twice a week football  Fatique grad 1  Urination: nycturia 4-5 times per night, no duysria, no blood, no incontinence, no current medication, grade 2  Stool: normal, no incontinence, no blood  Some hot flushes    PSA: 2.06 ng/ml  FBC: ok  Urine: no clear sign of infection    Proc: today again Zoladex, Tamsuoloin during night</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-05T10:12:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  2nd Zoladex 10.8mg (L) done by AS    &#45;&#45;-&gt; next appointment 28/06/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-05T09:19:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  1 FU visit, 5.4.23    IPSS 5 (nycturia 4)  RTOG 16  EPIC-CP19    History: feels well, plays twice a week football  Fatique grad 1  Urination: nycturia 4-5 times per night, no duysria, no blood, no incontinence, no current medication, grade 2  Stool: normal, no incontinence, no blood  Some hot flushes    PSA:  Blood:  Urine:    Proc: today again Zoladex, Tamsuoloin during night</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-14T09:19:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε προγραμματισμένα για ενδοιστική βραχυθεραπεία προστάτη.Εξοδος με οδηγίες λήψης ciprofloxacin,pantoprazole.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">10/2/23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-31T11:35:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Last fraction of EBRT on 31/01/23    Patient in good condition. Has no complains, except to mild urinary frequency.  ECOG 0, VAS 0    Medication: not changed since beginning    BRT on 10/02. Anaesthesiologist s assessment has been done. Bowel preparation instructions were given.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-25T16:31:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Derived mean after 6 CBCTs: Inf: 0,1cm, Right: 0, Ant: 0,7cm. Verify and if &lt;0,5cm continue with 3 CBCTs per week.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-25T11:15:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Can be planed for BRT Prostate &gt; 4 MET, no ap, no dyspnea Art. hypertension, Dyslipidaemia, occasional reflux; under control with Omeprazol No allergies No smoking, alcohol socially Instructions for meds were given to patient Atorvastatin, Ramipril/ Amlodipin 1-0-0, Medoprazol 1-0-0, ASS 75 mg 1-0-0 Will stop ASS 7 days prior to procedure Pending lab results</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Preanaesthetic assessment</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-16T11:52:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  First fraction consultation.    EBRT prostate/SV    Very good matching, all questions were answered.    Proceed with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-09T09:36:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Stylianou,Tziortzia  1st Zoladex 10.8mg done by TS (R)    &#45;-&gt; Next appointment: 05/04/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-09T07:53:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">EBRT + HDR + 12-18 months ADT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tumorbaord, 01/23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-09T07:52:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Consultation on 21/12/22  Insurance / GESY Patient /  / Referral from Dr. Antoniou    Diagnosis:  Prostate-Ca  Localization: left lobe  Histology: Invasive adenocarcinoma of the prostate  Lt: 6/6 cores , Rt: 0/7  cores  Grade:  Gleason: 7b, Grade Group: 3  Classification:  cT3b cN0 cM0  (high-risk risk group MIR and PSMA PET)  Metastases: none  iPSA:  36 ng/ml    Secondary Diagnoses: Hyperllipidemia, art Hypertonia, BPH    Previous treatment/Course of disease:  mpMRI:  Biopsy: Confirmation of malignancy  Staging with CT CAP,bone scintigraphy and PSMA PET    Family history:    Treatment concept: EBRT + HDR + 12-18 months ADT    Clinical examination:  5'8,80 kg, ECOG 0, VAS 0,  IPPS Score: 1, QoL:  IIEF-5: 9  EPIC-CP: 4    Medication: Atorvastatin, Doxazosin, ASS, Omeprazol, Rami Amolo    Tumorboard, 01/23: RT in analogy to HypoCombi    Pending issues: beginn RT and ADT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-21T09:21:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Δώθηκε πίσω στον ασθενή ο original φάκελος.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL ΦΑΚΕΛΟΣ</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041595</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 1</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">20 Sotiraki Markidi str Elysia Park block 10, flat 403 Paphos, Cyprus  Σωτηράκη Μαρκίδη 20 Elysia Park block 10, διαμ 403 8036 Πάφος, Κύπρος</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-30T11:59:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">File given to RT dpt to set an app, original to return to Pt</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+     <RangeSelection>R10C4:R34C4</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R9C1:R33C9"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R3C1:R3C4"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="94" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="3"/>
+   <Row ss:Height="20.25">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Notes Report</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-24T16:54:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής ετων 58 με μεταστατικό κακοήθες νεόπλασμα νεφρού προσήλθε για διερευνηση αυξημένων δεικτώνφλεγμωνής (CRP 400). Κατά την άφιξη απύρετος και αιμοδυναμικά σταθερός. Εκ της κλινικής εξέτασης κοιλιά μαλακή, άλγος ΔΕ λαγόνιου βόθρου, ΕΗ+. ΑΨμη μουσικοί αρ. μέσου λοβού. Διενεργήθηκε CT CAP με ευρήματα συμβατά με πρόοδο νόσου. Έλαβε δεξαμεθαζόνη και εξήλθε με οδηγίες για συνέχιση δεξαμεθαζόνης με σταδιακή τιτλοποίηση με βάση το πλάνο που του δόθηκε καθως και λήψη τραμαδόλης 100mgx2. Συνέχιση αντιβιοτικής αγωγής με λεβοφλοξασίνη 500mgx1 και μετρονιδαζόλης 500mgx3 μέχρι τις 28/5. Επαναξιολόγηση στις 29/5 με εργαστηριακό έλεγχο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">22/5 - 24/5 εισαγωγή στον παθολογικό όροφο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-22T13:18:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής με γνωστό καρκίνο νεφρού με πνευμονικές μεταστάσεις προσήλθε για επαναξιολόγηση του άλγους στο ΔΛΒ με ήπια βελτιώση του άλγους μετά την έναρξη του με mabron 50mg tds. Εκ της Κ.Ε.: ΑΨ ομότιμο άμφω, κοιλιά ΜΕ με ήπιο άλγος κατά την ψηλάφηση στον ΔΛΒ με αντανάκλαση στο ΔΕ υποχόνδριο, ΕΗ (+), S1S2 ρ/ε, Giordano (-) Εκ του ε/ε: Hb 11.7 WBC 5.09 Neu 3.75 PLT 378 Ur 46 Cr 1.27 CRP 393 ALP 172 GGT 85 AST 47 ALT 15 LDH 236 PCT 0.24  Εκ της γεν.ούρων: Cloudy, dark yellow, protein 300 mg/dl, ketones – trace, pus cells 10-15, RBC 4-6, mucus ++, microorganisms (rare). Καλ. ούρων - εκκρεμεί Διενεργήθηκε CT abdomen - εκκρεμεί Χορηγήθηκαν 500mL N/S 0.9% + cernevit + Mabron 50mg Ο ασθενής θα γίνει εισαγωγή στον θάλαμο για περαιτέρω διερεύνηση και αντιμετώπιση.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-20T11:38:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής με γνωστό καρκίνο νεφρού με πνευμονικές μεταστάσεις προσήλθε με άλγος στο ΔΛΒ με αντανάκλαση στο ΔΕ υποχόνδριο και ραχιαίως στις ΔΕ κατώτερες πλευρές αρχόμενο από 7ημέρου. Εκ της Κ.Ε.: ΑΨ ομότιμο άμφω, κοιλιά ΜΕ με ήπιο άλγος κατά την ψηλάφηση στον ΔΛΒ με αρνητικο Murphy's sing, ΕΗ (+), S1S2 ρ/ε, Giordano (-) Εκ του ε/ε: Hb 11.3 WBC 6.18 Neu 4.93 PLT 300 PT 14 Ur 50 Cr 1.19 CRP 394 ALP 162 GGT 84 Gluc 96 mg/dl Εκ της γεν.ούρων: protein 300 mg/dl, pus cells 15-20, RBC 4-6, mucus +. microorganisms +, amorphus crystals +, glandular cast (rare). Διενεργήθηκε CXR - Φυσιολογική απεικόνιση του πνευμονικού παρεγχύματος, χωρίς επιπρόσθετες σκιάσεις ή στοιχεία ενεργού νόσου από τα ελεγχόμενα τμήματα των πνευμόνων. Αυξημένες καρδιακές διαστάσεις (Κ/Θ δεικτής 0,57). Χωρίς εικόνα πλευριτικής συλλογής ή πνευμοθώρακα. Ακτινογραφία κοιλίας - Φυσιολογική πνευμάτωση του εντέρου, χωρίς ακτινολογικά σημεία απόφραξης ή διάτρησης. Αξιολογήθηκε από Mediterranean στις 18/5 με διαγνωσμένο ειλεό και εξήλθε στις 19/05 οικειοθελώς (εξήλθε με οδηγίες και λαμβάνει tavacin 500mg od, flagyl 400mg **Ο ασθενής έχει ιστορικό και μακροσοπικής αιματουρίας η οποία μετά την ΑΚΘ υφέθηκε. Χορηγήθηκαν 500mL N/S 0.9% +  cernevit + Mabron 50mg Αξιολογήθηκε από Δρ. Βορριά και δόθηκαν οδηγίες για Mabron 50mg tds, duphalac 20mL tds και επαναξιολόγηση την Τετάρτη. Εξήλθε χωρίς άμεσες επιπλοκές.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-16T16:33:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε έκτακτα αιτιώμενος άλγος στο ΔΛΒ που αντανακλά στο ΔΕ υποχόνδριο και ραχιαίως στις ΔΕ κατώτερες πλευρές.  Εκ της κλ.εξέτασης: ΑΨ ήπια μειωμένο διάχυτα λόγω μη συνεργασίας του ασθενούς, κοιλιά ΜΕΑ, εντ.ήχοι (+), S1S2 PE, giordano +/-(αναφέρει άλγος κατά την επίκρουση στις ραχιαίες κατώτερες ΔΕ πλευρές το οποίο βαθμονομεί  6/10 χωρίς ιδιαίτερη αντίδραση όμως κατά την επίκρουση) Διενεργήθηκε ΗΚΓ χωρίς στοιχεία οξείας ισχαιμίας Εκ των ζωτικών: ΑΠ 145/90 SpO2 96% 61 bpm θ 36 Εκ του ε/ε: Hb 12.2 WBC 6.68 Neu 5.29 PLT 226 Ur 50 Cr 1.39 LDH 127 CRP 255 Εκ της γεν.ούρων: protein 300, pus cells 4-6(leucocytes -), RBC 10-15(Erythrocytes -), mucus +. microorganisms rare **Ο ασθενής έχει ιστορικό και μακροσοπικής αιματουρίας η οποία μετά την ΑΚΘ υφέθηκε  Διενεργήθηκε ΥΠΧ νεφρού όπου: Αριστερός νεφρός με φυσιολογική θέση, μέγεθος και σχήμα, ομαλό περίγραμμα και φυσιολογικό πάχος κι ηχογένεια νεφρικού φλοιού. Μικρές φλοιώδεις κύστεις με περιφερικές αδρές επασβεστώσεις συστοίχως. Επανελέγχεται η ευμεγέθης ~4,8 εκ. εξεργασία στον κάτω πόλο του δεξιού νεφρού (με εξωνεφρική επέκταση).Δεν παρατηρείται εικόνα λίθου &gt;3 χιλ. ή διάταση των πυελοκαλυκικών συστημάτων άμφω. Χορηγήθηκαν 500mL N/S 0.9% + 1g Paracetamol Αξιολογήθηκε και από τον Δρ.Αλεξάκη και τη Δρ.Κουλουρίδη και το άλγος θεωρήθηκε στα πλαίσια της νόσου του οπότε δόθηκαν οδηγίες για λήψη παρακεταμόλης 1g tds και επί επιδείνωσης εκ νέου επικοινωνία με το κέντρο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-16T08:00:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για συνέχιση αγωγής με PEMBROLIZUMAB / LENVATINIB</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-07T09:50:15.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C45D1 Pembrolizumab + Lenvatinib (pos) (Ca νεφρού με πνευμονικές μεταστάσεις) Ο ασθενής σε καλή κατάσταση προσήλθε προγραμματισμένα για ΑΝΘ. Aπύρετος και αιμοδυναμικά σταθερός. Εκ του ε/ε: Hg 13.1 WBC 4.81 Neu 3 Plt 222 Cr 1.31 Ur 48  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-16T13:23:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C44D1 Pembrolizumab + Lenvatinib (pos) (Ca νεφρού με πνευμονικές μεταστάσεις) Ο ασθενής σε καλή κατάσταση προσήλθε προγραμματισμένα για ΑΝΘ. Aπύρετος και αιμοδυναμικά σταθερός. Εκ του ε/ε: Hg 12.5 WBC 4.98 Neu 3.47 Plt 279 Cr 1.56 Ur 57 TSH 3.82 fT4 1.1 CORT 17.9  (θυρεοειδική λειτουργία: κφ) Ο Δρ Βορριάς ενημερώθηκε για την αυξημένη κρεατινίνη, μετά από οδηγίες, έλαβε τη θεραπεία. Δόθηκε ενδοφλέβια ενυδάτωση N/S 0.9% 500ml (slow rate) Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-02T09:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Last fraction on 02/04/24    Patient in good condition. Has no complaints.  ECOG 0, VAS 0    Examination:  no regional pain, no hematuria, no diarrhea/constipation, no N/V    Side effects:  no acute RT side effects    Medication: not changed since beginning    Letter to / follow-up: Dr. Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-26T15:15:35.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C43D1 Pembrolizumab + Lenvatinib (pos) (Ca νεφρού με πνευμονικές μεταστάσεις) Ο ασθενής σε καλή κατάσταση προσήλθε προγραμματισμένα για ΑΝΘ. Aπύρετος και αιμοδυναμικά σταθερός. Εκ του ε/ε: Hgb 13.7 WBC 6.82 Neu 4.39 Plts 219 Cr 1.43 Ur 47 ALP 145 GGT 45 Tbil 1.07 CRP 24.9 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-26T11:46:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  First fraction consultation    Very good matching. No questions.  Continue with RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-15T15:28:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Aσθενής με γνωστό καρκίνο νεφρού με πνευμονικές μεταστάσεις , προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για αξιολόγηση. Αναφέρει ενόχληση με ήπιο πρήξιμο στα χείλη χθες βράδυ και άφθες με βελτίωση μετά την χρήση nystamycyn &amp; mouthwash και δόθηκαν οδηγίες να συνεχίσει.  εκ της Κ.Ε.: Α.Ψ. ομότιμο άμφω, S1S2 ρ/ε , με απουσία οιδηματων , κοιλία ΜΕΑ ΕΗ (+).  Ενημερώθηκε Δρ. Ορφανός για πιθανό αίτιο του πρηξίματος που ανάφερε χθες βράδυ από το lenvatinib ή από κάτι άλλο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Evaluation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-14T11:14:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής άφησε μήνυμα ότι έχει φουσκώσει η γλώσσα και τα ούλα του. Έγινε προσπάθεια επικοινωνίας χωρίς αποτέλεσμα. (πιθανή αιτία οιδήματος η λήψη lenvatinib)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">update</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-08T11:43:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Consultation on 08/03/24  GESY Patient / Referral from Dr. Orphanos    Diagnosis: renal Ca Initial diagnosis: 07/21  Localization: Rt kidney  Histology: clear cell Ca Fuhrman Gr. II  Classification: 01/24: ycT1b ycN0 ycM1, St. IV (AJCC 8th ed.)  Metastases: lung, liver    Secondary Diagnoses:  Art. hypertension  Hypercholesterolemia  s.p. MI, stenting (2023)    Previous treatment/Course of disease:  07/21 CT CAP: lesion in Rt kidney, liver and lung metastases  08/21 Rt renal biopsy: confirmation of malignancy  09/21 bone scan: no secondaries  s.p. pembrolizumab-lenvatinib (currently under treatment)  12/23 urethrocystoscopy: multiple bladder stones  01/24 CT CAP: PD in lung secondaries, increase in the dimensions of the lesion  in the lower pole of the Rt kidney (dmax 55mm from 40mm), marginal  mediastinal LNs in St. 4R, 6 (dmax 10mm), SD of liver metastasis    Family history:  Mother  breast Ca  Father  prostate Ca  Brother  gastric Ca  Grandmother uterine Ca    Treatment concept:  Palliative EBRT Rt lower kidney pole lesion TD 25Gy (5F x 5Gy)    Clinical examination:  176cm, 78kg. ECOG 0, VAS 2  Intermittent hematuria over the past months, no hematuria currently.  Patient reports constant Rt flank pain.    Medication:  Atorvastatin 20mg 0-0-1  Nebivolol 50mg 1-0-0    Tumorboard:  04/03/24    Pending issues:  P-CT (15/03/24)    Follow-up:  Dr. Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-05T10:19:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Όνομα: ΜΑΡΙΝΟΣ          Επώνυμο:   ΘΕΟΔΩΡΟΥ           Πατρώνυμο:  ΣΟΦΟΚΛΗΣ                            Ηλικία:  58                                  HIS: 20024556                Date:  14-02-2024   Παρούσα νόσος:  καρδιολογική εκτίμηση – ασθενής υπό ΧΜΘ με pembrolizumab (41cycles) – προ επανεναρξη lenvatinib.  Ατομικό αναμνηστικό:Ca νεφρού με πνευμονικές μεταστάσεις ,  ΑΥ ( - ), ΣΔ ( - ), δυσλιπιδαιμία ( - ), καπνός ( -), FH (  , για CVD ), αλλεργίες ( - ), αλκοόλ ( - ), θυρεοειδοπάθεια ( - ),30/01/2023 ΟΣΣ – 1VD – PCI LAD ο ασθενής δεν έλαβε ποτέ την αγωγή εξόδου μετά το ΟΣΣ !!!!!!,   Φαρμακευτική αγωγή κατ΄οίκον: ουδέν   Λειτουργική κατάσταση : ικανοποιητική &gt; 4μετς – ασυμπτωματικός  ( βάδιση , άρση βάρους , σκαλιά κτλ )    Κλινική εξέταση:  Αναπνευστικό ψιθύρισμα: κφ             S1 S2:  ΡΕ Καρωτίδες: κφ                                    Σφαγίτιδες:  κφ                                        Σφύξεις: κερκιδικές/ μηριαίες / οπίσθιες κνημιαίες: ομότιμα ψηλαφητές  Παρουσία οιδημάτων :                     Κοιλία :                     Εντερικοί ήχοι:   Ζωτικά σημεία:  BP:   117/80          mmHg         BPM:  58           /min             Spo2: 98      %          Ύψος: 175      cm             ΣΒ:  80     Kg        ΒΜΙ:           Kg/m2  ΗΚΓ: SR, LAH     ΥΠΕΡΗΧΟΣ ΚΑΡΔΙΑΣ ΣΧΟΛΙΑ Εξέταση σε φλεβοκομβικό ρυθμό 58bpm , BP=117/80 mmHg 1. Καρδιακές Κοιλότητες - Αριστερή κοιλία φυσιολογικών διαστάσεων με καλή συνολική συστολική απόδοση (ΚΕ: 60%) . - Δεξιά κοιλία φυσιολογικών διαστάσεων με καλή συστολική απόδοση.  - Αριστερός και δεξιός κόλπος φυσιολογικών διαστάσεων. 2. Καρδιακές Βαλβίδες - Αορτική βαλβίδα τρίπτυχη με καλή λειτουργικότητα.  - Κολποκοιλιακές βαλβίδες δομικά φυσιολογικές με καλή λειτουργικότητα. 3. Αορτή Αορτική ρίζα, ανιούσα αορτή εγγύς και αορτικό τόξο φυσιολογικών διαστάσεων  4. Περικάρδιο   Χωρίς περικαρδιακή συλλογή. 5. Doppler Μελέτη – Εκτίμηση Ενδοκοιλοτικών Πιέσεων - Χωρίς αξιόλογες παθολογικές ροές στις καρδιακές βαλβίδες,  - Πιέσεις πλήρωσης της αριστερής κοιλίας και πιέσεις πνευμονικής αρτηρίας φυσιολογικές. ΣΥΜΠΕΡΑΣΜΑ Ηχωκαρδιογραφική μελέτη χωρίς αξιόλογα παθολογικά ευρήματα  Συστάσεις : έναρξη ασπιρίνης 75mg 0-1-0 , statin 40mg 0-0-1.  FOLLOW UP 05-03-2024 Ασθενής σε καλή γενική κατάσταση χωρίς συμπτώματα από το καρδιαγγειακό  NYHA I  Κλινική εξέταση:  Αναπνευστικό ψιθύρισμα: κφ             S1 S2:  ΡΕ Καρωτίδες: κφ                                    Σφαγίτιδες:  κφ                                        Σφύξεις: κερκιδικές/ μηριαίες / οπίσθιες κνημιαίες: ομότιμα ψηλαφητές  Παρουσία οιδημάτων :                     Κοιλία :                     Εντερικοί ήχοι:   Ζωτικά σημεία:  BP:   124/88          mmHg         BPM:  52          /min             Spo2: 97     %          Ύψος: 175      cm             ΣΒ:  80     Kg        ΒΜΙ:           Kg/m2  ΗΚΓ: SR, LAH, QT=450msec, QTc Fridericia = 429msec HFA -ICOS risk score =VH (ACC 1/2023 PCI 1VD LAD )  04/03/2024 : CHOL=139,LDL=73, HDL=44, TRG=111,  Hs-TROP=8,1pg/ml,  nt-pro BNP=116pg/ml Ενημερώθηκε ο ασθενής για πιθανές παρενέργειες της ΧΜΘ. Επανέλεγχος σε 3 μήνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">καρδιολογική εκτίμηση – ασθενής υπό ΧΜΘ με pembrolizumab (41cycles) – προ επανεναρξη lenvatinib.</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-05T08:30:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#42D1 Pembrolizumab + Lenvatinib (pos) (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται απύρετος σε καλή κλινική κατάσταση. Αναφέρει αλλαγή απο αιματουρία σε ουισκώδη χροιά ούρων Εκ του ε/ε: Hgb 11.9 WBC 5.35 #Neut 3.4 Plts 298 Cr 1.31 Ur 49 Εξέρχεται χωρίς άμεσες επιπλοκές.  Eπόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-27T12:55:33.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής με Ca νεφρού με πνευμονικές μεταστάσεις υπό Pembrolizumab , προσήλθε απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση για αξιολόγηση. Αναφέρει αναφέρει ανώδυνη αιματουρία.  Εκ της κλινικής εξέτασης: Αναπνευστικό ψιθύρισμα: ομότιμο άμφω S1 S2: ΡΕ , χωρίς φυσήματα, απουσία οιδηματων , Κοιλία : ΜΕΑ Εντερικοί ήχοι: + Εκ του ε/ε: Hb 12.2 WBC 7.2 Neu 5.82  PLT 239 Ur 53 Cr 1.62 CRP 50 Γενική ούρων: leukocytes - protein 300 Nitrates- Appearence bloody RBC Loaded field  Δόθηκαν οδηγίες για την έναρξη της θεραπείας με LENVATINIB (δεν κατάλαβε ότι έπρεπε να το είχε ήδη ξεκινήσει). Εξήλθε χωρίς άμεσες επιπλοκές.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Evaluation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-27T11:38:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Θα ξεκινήσει Lenvatinib (δεν κατάλαβε ότι έπρεπε να το είχε ήδη ξεκινήσει). Λόγω αιματουρίας θα συζητηθεί με επεμβατικό ακτινολόγο για το ενδεχόμενο εμβολισμού.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-26T15:55:28.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Εστάλη αίτημα για  συνέχιση PEMBROLIZUMAB/LENVATINIB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-26T08:52:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1. Αναφέρει ξηρό βήχα όταν ξαπλώνει και αιματουρία (πήγματα αίματος). Επίσης , ανορεξία και κόπωση. Προφανώς οφείλεται στην επιδέινωση της νόσου. Έχει ξεκινήσει το Lenvatinib εδώ και 10 μέρες. Θα επανεκτιμηθεί με αξονική τομογαρφία αρχές Απριλίου. Αν υπάρχει περαιτέρω επιδείνωση θα αλλαχτεί η θεραπεία του.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-15T09:09:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT CAP: Επιδείνωση νόσου σε πρωτοπαθή εστία και πνευμονικές μεταστάσεις. Ο ασθενής παραμένει ασυμπτωματικός. Εξετάστηκε από καρδιολόγο: θα λάβει αγωγή με στατίνη και ασπιρίνη (που δεν έλαβε μετά το έμφραγμα μυοκαρδίου) και σε 10 μέρες θα ξεκινήσει θεραπεία με Lenvatinib με τακτική παρακολούθηση από καρδιολόγο. Επανέλεγχος με CT CAP σε 2 μήνες. Αν υπα΄ρχει περαιτέρω επιδέινωση της νόσου θα αλλάξει θεραπευτικό χειρισμό.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-13T09:27:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#41D1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται απύρετος σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.  Εκ του ε/ε: Hgb 12.7 WBC 5.5 #Neut 3.2 Plts 285 Cr 1.26 Ur 67 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 εβδομάδες Λόγω του ότι διεκόπη το Lenvatinib στις 23/1 και ο ασθενής είχε επίσκεψη στον Δρ Ορφανό, δόθηκαν οδηγίες να ενημερωθεί ο ιατρός και να πει στον ασθενή αν θα συνεχίσει και πως.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-30T15:47:13.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε απύρετος με αναφερόμενη αιματούρια, με άλγος τις προηγούμενες μέρες αλλά σήμερα δεν ανάφερε πόνο. Εκ της κλινικής εξέτασης ΑΨ ομότιμο αμφω, S1S2 ρ/ε, κοιλία : ΜΕΑ, ΕΗ (+), Giordano (-) Εκ του ε/ε: Hgb 12.26 WBC 6.74 #Neut  4,27 Plts 264 Cr 1.59 Ur 63 CRP 66,  εκ της γενικής ούρων large amount of leukocytes, erythrocytes and bilirubin, Uribilirubin 1, loaded field of pus and red cells.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-23T09:49:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Πολύ καλη κλινική κατάσταση. Αναφέρει ήπιο βήχα το βράδυ όταν ξαπλώνει στην αριστερή πλευρά. Για αξονική στις 26/1/24. Αν υπάρχει πρόοδος νόσου, θα ξεκινήσει το lenvatinib (με συχνή παρακολούθηση από καρδιολόγο).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-23T09:06:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#40, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Εκ του ε/ε: Hgb 12.5 WBC 5.07 #Neut 3.26 Plts 215 Cr 1.32 Ur 54 Εξέρχεται χωρίς άμεσες επιπλοκές.  (διεκόπει πλήρως το Lenvatinib)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-02T17:02:39.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#39, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Εκ του ε/ε: Hgb 13.2 WBC 4.55 #Neut 2.73 Plts 169 Cr 1.34 Ur 49 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 εβδομάδες (διεκόπει πλήρως το Lenvatinib)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-28T08:12:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Aσθενής προσέρχεται με θετικότητα σε rapid test έναντι SARS-CoV-2, σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος.  Ζωτικά: SpO2 99% 68bpm Δόθηκαν οδηγίες για επικοινωνία με Προσωπικό Ιατρό για συνταγογράφηση Paxlovid και επικοινωνία με εμάς σε περίπτωση επιδείνωσης.  Αναβολή θεραπείας σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">COVID</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-05T09:40:24.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#38, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Εκ του ε/ε: Hgb 14.1 WBC 5 #Neut 2.9 Plts 257 Cr 1.24 Ur 44  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία στις 28/12. Μετά από συνεννόηση με τη Δρ.Νανά διεκόπει πλήρως το Lenvatinib</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-14T13:18:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#37, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Ανέφερε ακόμα ένα μοναδικό περιστατικό αιματουρίας χωρίς άλγος ή καυσουρία, έγινε παραπομπή σε ουρολόγο, θα τον δει στις 05/12 Εκ του ε/ε: Hgb 12,9 WBC 5 #Neut 2.88 Plts 214 Cr 1.12 Ur 57   Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες. Μετά από συνεννόηση με τη Δρ.Νανά διεκόπει πλήρως το Lenvatinib</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-24T15:32:56.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#36, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Ανέφερε ακόμα ένα μοναδικό περιστατικό αιματουρίας, έγινε παραπομπή σε νεφρολόγο ξανά και αρνήθηκε προς το παρών Εκ του ε/ε: Hgb 13,6 WBC 5.27 #Neut 2.95 Plts 242 Cr 1.29 Ur 56 Μg 2.30  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες. Μετά από συνεννόηση με τη Δρ.Νανά διεκόπει πλήρως το Lenvatinib</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-03T10:18:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#35, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Ανέφερε μοναδικό περιστατικό καυσουρίας που συνοδεύτηκε από αποβολή λίθου και αιματουρία, έγινε παραπομπή σε νεφρολόγο. Εκ του ε/ε: Hgb 12.7 WBC 5.32 #Neut 2.88 Plts 253 Cr 1.09 Ur 42 Μg 2.10  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες. Μετά από συνεννόηση με τη Δρ.Νανά διεκόπει πλήρως το Lenvatinib</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-12T08:37:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#34, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος. Εκ του ε/ε: Hgb 12.9 WBC 5.8 #Neut 3.36 Plts 232 Cr 1.27 U 58 Δόθηκε ενδοφλέβια ενυδάτωση N/S 0.9% 500ml Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.  ΝΑ ΔΟΥΜΕ ΤΗΝ ΕΠΟΜΕΝΗ ΦΟΡΑ ΑΝ ΘΑ ΞΑΝΑΞΕΚΙΝΗΣΕΙ ΝΑ ΠΑΙΡΝΕΙ LENVATINIB</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-22T09:07:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#33, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 12.3 WBC 4.68 #Neut 2.73 Plts 218 Cr 1.19 U 46 TSH 2.37 FT4 1.1 Cort 6.95 ACTH: 22.6 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-01T08:35:59.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#32, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 12.3 WBC 4.14 #Neut 2.38 Plts 226 Cr 1.19 U 54 TSH 2.29 FT4 1.2 Cort 15.1 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-11T11:54:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#30, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 11.9 WBC 4.9 #Neut 2.74 Plts 236 Cr 1.4 U 61 TSH 2.8 FT4 1 Cort 13 Δόθηκε ενδοφλέβια ενυδάτωση N/S 0.9% 500ml Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-20T11:32:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#30, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 11.5 WBC 5.3 #Neut 3.1 Plts 225 Cr 1.68 U 70 TSH 2 FT4 0.9 Cort 9.04 Δόθηκε ενδοφλέβια ενυδάτωση N/S 0.9% 500ml και πάρθηκε εκ νέου ε/ε: Ur 49 Cr 1.33 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-09T11:38:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για PEMBROLIZUMAB/LENVATINIB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-30T08:55:52.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#29, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 11.8 WBC 4.41 #Neut 2.47 Plts 239 Cr 1.2 U 53 TSH 2.36 FT4 1 Cort 9.06 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-10T15:37:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#28, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 11.7 WBC 5.5 #Neut 3.16 Plts 226 Cr 1.43 U 57 Έλαβε ενυδάτωση N/S 0.9% 500ml. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-09T14:51:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός, σε καλή κλινική κατάσταση για ανοσοθεραπεία η οποία αναβλήθηκε λόγω επηρεασμένης νεφρικής λειτουργίας (Cr1.6). Δόθηκε ενδοφλέβια ενυδάτωση. Θα προσέλθει αύριο για θεραπεία. Εξήλθε χωρίς άμεσες επιπλοκές CT BNCAP σημερα</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">αναβολή θεραπείας</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-18T15:54:18.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#27, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 11.9 WBC 4.51 #Neut 2.47 Plts 246 Cr 1.33 U 50 TSH FT4 φυσιολογικά Βaseline Cr 1.5 %. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-24T11:02:24.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#26, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος. Εκ του ε/ε: Hgb 11.2 WBC 5.5 #Neut 3.1 Plts 221 Cr 1.3 U 60 Αποκατάσταση τιμών TSH με τη λήψη θυροξίνης. Δεν λαμβάνει Lenvatinib (λόγω εμφράγματος μυοκαρδίου). Βaseline Cr 1.5 %. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-24T10:14:06.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Πολύ καλη κλινική κατάσταση. Αποκατάσταση τιμών TSH με τη λήψη θυροξίνης. Δεν λαμβάνει Lenvatinib (λόγω εμφράγματος μυοκαρδίου). Επανελεγχος με αξονική αρχές Μαίου.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-03T11:40:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#25, Day 1 Pembrolizumab (Ca νεφρού με πνευμονικές μεταστάσεις) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Δόθηκε ενδοφλέβια ενυδάτωση 500ml N/S 0.9% και πάρθηκαν εκ νεου αναλύσεις αίματος. Ur 99 Cr 1.48 μετά την ενυδάτωση. Λόγω σαφής βελτίωσης της νεφρικής λειτουργίας (baseline Cr 1.5 %) δόθηκε κανονικά η θεραπέια. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-02T15:14:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cancelled Immunotherapy (Pembrolizumab)- Ca νεφρού με πνευμονικές μεταστάσεις Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Απύρετος και αιμοδυναμικά σταθερός. Ελαφρά βελτίωση νεφρικής λειτουργίας συγκριτικά με την προηγούμενη φορά. Πρόσφατο έμφραγμα μυοκαρδίου (παρακολουθείται από καρδιολόγο). Διενεργήθηκε ΗΚΓ- ίδιο με 2/2. Εκ του ε/ε 01/03: Hgb 11.3 WBC 5.96 #Neut 3.18 Plts 205 Cr 1.81 Κ 5.7 U 100 Eκ νέου ε/ε: Κ 5.1 TSH 2.37 FT4 1.2 Στάλθηκε και γενική ούρων προς διερεύνηση πιθανότητας νεφρίτιδα από ανοσοθεραπεία. Έγινε ενδοφλέβια ενυδάτωση με N/S 0.9% 500ml  Eργαστηριακός έλεγχος μετά την ενυδάτωση Ur 90 Cr 1.46 Ο ασθενής θα προσέλθει αύριο για ενυδάτωση και εκ νέου εργαστηριακό έλεγχο. Αν  η νεφρική λειτουργία είναι βελτιωμένη μετά την ενυδάτωση θα δοθεί η θεραπεία. Ραντεβού με νεφρολόγο 14/3</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CANCELLED IMMUNOTHERAPY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-23T13:50:35.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cancelled Immunotherapy (Pembrolizumab) Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος και αιμοδυναμικά σταθερός. Ο ασθενής φαίνεται να έχει επιδεινώσει τη νεφρική του λειτουργεία: Εκ του ε/ε Hgb 11,3 WBC 6,1 #Neut 3,69 Plts 186 Cr 2,08 Κ 5,6 U 117  Έγινε ενδοφλέβια ενυδάτωση. Δόθησαν οδηγίες αύξησης πρόσληψης ύδατος, διακοπής όλων των ΜΣΑΦ. Αύριο θα επισκεφθεί τον καρδιολόγο του και έγινε μνεία σε προσοχή των διουρητικών και τυχόν φάρμακα που προκαλούν υπερκαλιαιμία.  Εξέρχεται χωρίς άμεσες επιπλοκές. Θεραπεία σε 1 βδομάδα</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">infusion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-23T09:51:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής με ΧΝΝ - baseline Creatinine 1.5 mg% Στις 30/01/2023 εξιτήριο μετά από στεφανιογραφία λόγω ΟΕΜ - χωρίς έλεγχο κρεατινίνης στο εξιτήριο και με οδηγία για έναρξη Inspra.  Συνταγογραφήθηκε Diclofenac το οποίο έλαβε την τελευταία εβδομάδα.  Τώρα κρεατινίνη 2.08 mg% και κάλιο 5.6 mEq/L.  Πιαθνή επιδείνωση λόγω των παραπάνω Συστήνεται ενυδάτωση και παρακολούθηση στα ΕΙ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΟΝΒ επί ΧΝΝ?</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-16T17:17:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2 months hx of left shoulder pain with global limitation of movement. plan for x-rays, nsaids, physio and review</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dr Pountos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-02T19:14:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έμφραγμα μυοκαρδίου. Αγγειοπλαστική. Ενδεχόμενη διακοπή Lenvatinib και συνέχιση μόνο με ανοσοθεραπεία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-02T10:07:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε απύρετος, αιμοδυναμικά σταθερός για λήψη ανοσοθεραπείας η οποία αναβλήθηκε λόγω πρόσφατου εμφράγματος μυοκαρδίου και αυξημένη TSH.  Αξιολογήθηκε απο την ενδοκρινολόγο Δρ. Δανιήλ και δόθηκαν οδηγίες για έναρξη θυροξίνης 25 microgram για 5 μέρες και μετά συνεχίζει με 50 microgram.  Διενεργήθηκε ΗΚΓ το οποίο αξιολογήθηκε απο τον καρδιολόγο Δρ. Νάκα. Πιθανή εξέλιξη πρόσθιου ΕΜ. Έγινε αγγειοπλαστική στη LAD. Πρόσθιο ΕΜ προ εβδομάδας περίπου. Δόθηκαν οδηγίες για παύση λήψης lenvatinib και pembrolizumab για 3 βδομάδες Επόμενο ραντεβού σε 3 εβδομάδες   την επόμενη φορά να έλεγχος tsh +t4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">cancel therapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-26T05:30:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία με τον ίδιο και τον πατέρα του. Ανέφερε αιφνίδιο, έντονο θωρακικό άλγος από 2ώρου, με επέκταση στο άνω άκρο, το οποίο τον αφύπνησε. Χωρίς λοιπή συμπτωματολογία. Τελευταία θεραπεία ασθενούς 12/01 Pembrolizumab. Δόθηκαν οδηγίες στον ασθενή και στον πατέρα του να αξιολογηθεί άμεσα από το τμήμα επειγόντων περιστατικών του ΓΝΛ.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">τηλεφωνική επικοινωνία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-12T13:49:16.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#24, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Εκ του ε/ε Hgb 12.1 WBC 4.5 #Neut 2.8 Plts 249 Cr 1.2 Ur 43 TSH 12  FT4 1.1  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-22T12:47:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#23, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Εκ του ε/ε Hgb 12.4 WBC 4.3 #Neut 2 Plts 181 Cr 1.2 Ur 62 TSH 8 ACTH 50, FT4 1.1 CORTISOL 9.4 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-22T08:57:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο για επανέγκριση PEMBROLIZUMAB/LENVATINIB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-01T09:46:35.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η αξονική τομογραφία ανέδειξε περαιτέρω βελτίωση (παραμονή υπολειμματικών ταινιοειδών αλλοιώσεων στους πνεύμονες και περαιτέρω μείωση της μάζας στο νεφρό). Συζητήθηκε στο ιατροσυμβούλιο το ενδεχόμενο νεφρεκτομής αλλά αποφασίστηκε προς το παρόν να συνεχίσει τη συστηματική θεραπεία και να συζητηθεί αυτό το ενδεχόμενο πιο μετά. Ο ασθενής επίσης εκφράστηκε αρνητικά στο ενδεχόμενο νεφρεκτομής. Η κλινική του κατάσταση είναι άριστη. Ανέχεται τη θεραπεία χωρίς τοξικότητα εκτός από διαταραχές θυρεοειδικής λειτουργίας (μέτρια αύξηση TSH).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-01T08:15:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#22, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Εκ του ε/ε Hgb 12.2 WBC 5.17 #Neut 3 Plts 242 Cr 1.1 Ur 49  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-10T08:38:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#21, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Εκ του ε/ε Hgb 11.9 WBC 3.27 #Neut 1.68 Plts 198 Cr 1.02 Ur 45 TSH 7.55 fT4 1.1 Έγινε παραπομπή στην ενδοκρινολόγο του κέντρου. Αν ο ασθενής παρουσιάσει συμπτωματολογία ή η TSH &gt;10 τότε να τον δεί η ενδοκρινολόγος. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-10-20T12:35:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#20, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Εκ του ε/ε Hgb 12.7 WBC 4.7 #Neut 2.6 Plts 199 Cr 1.2 Ur 53 TSH 7.5 fT4 1  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">IMMUNOTHERAPY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-09-29T10:42:51.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#19, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας.Απύρετος Εκ του ε/ε Hgb 11,7 WBC 4.46 #Neut 2.44 Plts 203 Cr 1.35 Ur 60 TSH 5.62 fT4 1.1 ACTH 55.7 Cortisol 9.51 Έγινε ενυδάτωση με 500ml N/S 0.9%. Παραπομπή σε ενδοκρινολόγο λόγω  διαταραχής θυροειδικής λειτουργίας για παρακολούθηση. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-09-08T14:08:56.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#18,, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Εκ του ε/ε Hgb 12 WBC 4.86 #Neut 2.67 Plts 183 Cr 1.29 Ur 56 TSH 5.06 fT4 1.2 ACTH 75.6 Cortisol 11.9 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immuntherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-08-19T09:50:16.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#17, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία λοιπής συμπτωματολογίας. Εκ του ε/ε Hgb 12 WBC 5 #Neut 2.7 Plts 194 Cr 1.3 Ur 69  Δόθηκαν 500ml N/S 0.9% Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">IMMUNOTHERAPY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-08-01T14:55:52.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλήφθηκε έγκριση και παρδόθηκε στο φαρμακείο</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">lenvatinib and pembrolizumab</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-28T13:04:02.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#16, Day 1 Pembrolizumab Aσθενής προσέρχεται σε καλή κλινική κατάσταση. Aπουσία λοιπής συμπτωματολογίας. Συζητήθηκαν σήμερα με Δρ. Ορφανό τα αποτελέσματα του αξονικού.  Εκ του ε/ε  Hgb 12 WBC 4.1 #Neut 2.3 Plts 210 Cr 1.33 Ur 56 ΤSH 4.14 fT4 1.1 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immuntherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-28T08:56:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η αξονική τομογραφία ανέδειξε μικρή περαιτέρω μείωση της πρωτοπαθούς μάζας στο νεφρό ενώ η υπόλοιπη νόσος παραμένει σταθερή (ελάχιστα υπολειμματικά στοιχεία στους πνεύμονες). Κλινικά σε άριστη κατάσταση. Την επόμενη φορά να αξιολογηθεί με PET/CT scan (για αξιολόγηση για τυχόν αφαίρεση της πρωτοπαθούς, αν η λοιπή νόσος είναι σε μεταβολική ύφεση).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-18T10:49:17.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για PEMBROLIZUMAB+LENVATINIB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-13T13:33:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής παρέλαβε σήμερα από το φαρμακείο την ΧΜΘ αγωγή που λαμβάνει στο σπίτι (Levantinib)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλαβή φαρμάκων</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-07T19:11:21.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#15, Day 1 Pembrolizumab Aσθενής απύρετος, αιμοδυναμικά σταθερός και σε καλή κλινική κατάσταση. Aπουσία λοιπής συμπτωματολογίας. Εκ του ε/ε στις 06/07: Hgb 11,3 WBC 3,98 #Neut 2,49 Plts 213 Cr 1.36 Ur 56 Λόγω αυξημένης κρεατινίνης, χορηγήθηκε 0,9% NS 500ml. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-16T10:23:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#14, Day 1 Pembrolizumab Aσθενής σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 11.8 WBC 4.9 #Neut 2.8 Plts 222 Cr 1.2 Ur 55  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immuntherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-26T13:55:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#13, Day 1 Pembrolizumab Aσθενής σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Λόγω αυξημένης Κρεατινίνης, χορηγήθηκε ενδοφλέβια ενυδάτωση με 500ml N/S 0.9%. Εκ του ε/ε: Hgb 12.2 WBC 4.2 Neu# 2.46 Plts 196 Cr 1.45 Ur 53 ALP 106 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-04T09:14:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η αξονική τομογραφία 2/2022 είχε αναδείξει ανταπόκριση της νόσου στη θεραπεία με μείωση μεγέθους όλων των εστιών νόσου. Κλινικά, παρουσιάζει πλήρη υποχώρηση του άλγους, πήρε βάρος 30Kg, δεν αναφέρει ανορεξία και έχουν επανέλθει οι δυνάμεις, δηλ. σημαντική κλινική βελτίωση. Θα επανελεγχθεί σε αξονική τομογραφία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-04T08:53:53.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#12, Day 1 Pembrolizumab Aσθενής σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 12.8 WBC 4.62 Neu# 2.83 Plts 213 Cr 1.33 Ur 50 Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-04-19T07:40:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για έγκριση PEMBROLIZUMAB + LENVATINIB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-04-13T17:22:15.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#11, Day 1 Pembrolizumab Aσθενής σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 12,9 WBC 5.15 Neu# 3.32 Plts 208 Cr 1.28 Ur 63 Θυρ. κ.φ. Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-23T17:46:46.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#10, Day 1 Pembrolizumab Aσθενής σε καλή κλινική κατάσταση. Αναφέρει κνησμό στην πλάτη. Παρέλαβε lenvatinib Εκ του ε/ε: Hgb 13.7 WBC 4.21 Neu# 2.42 Plts 217 Cr 1.23 Ur 71 Θυρ. κ.φ. Εξέρχεται χωρίς άμεσες επιπλοκές Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-02T14:46:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#9, Day 1 Pembrolizumab Aσθενής σε καλή κλινική κατάσταση. Παρουσιάζει ερυθρότητα στο ΔΕ βλέφαρο, δόθηκαν οδηγίες για επίσκεψη στον ΠΙ ή σε οφθαλμολόγο. Εκ του ε/ε: Hgb 12.2 WBC 5.39 Neu# 3.32 Plts 227 Cr 1.31 Ur 65 Θυρ. κ.φ. Εξέρχεται χωρίς άμεσες επιπλοκές Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-02T09:58:21.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η αξονική τομογραφία ανέδειξε σημαντική βελτίωση με μείωση μεγέθους πρωτοπαθούς μάζας στο νεφρό και πνευμονικών μεταστάσεων (το ήπαρ δεν μπορούσε να ελεγχθεί λόγω μη έγχυσης σκιαγραφικού).  Η κλινική εικόνα του ασθενούς είναι επίσης σημαντικά βελτιωμένη (πλήρης υποχώρηση αδυναμίας, άλγους και ανορεξίας). Παρουσιάζει ερυθρότητα στο δ. βλεφαρο και ήπιο άλγος. Συνέστησα αξιολόγηση από οφθαλμίατρο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-09T10:21:51.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Σημαντική βελτίωση της κλινικής εικόνας. Υποχώρησαν τα άλγη, βελτιώθηκε η όρεξη, αναφέρει αύξηση βάρους κατά 30Kg. Η αξονική θώρακος μετά από 3 μήνες θεραπείας είχε δείξει σημαντική ανταπόκριση των πνευμονικών μεταστάσεων. Θα υποβληθεί σε αξονική θώρακος-κοιλίας στις 14 Φεβρουαρίου.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-09T09:05:31.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#8, Day 1 Pembrolizumab (ελλειψη lenvatinib) Aσθενής σε καλή κλινική κατάσταση. Aναφέρει άλγος στο ΔΕ υποχόνδριο (μια ημέρα) το οποίο υποχόρησε. Εκ του ε/ε: Hgb 11.8 WBC 7.47 Neu# 5.39 Plts 325 Cr 1.48  Δόθηκε επίσης i.v. ενυδάτωση, 500ml N/S 0.9%  Εξέρχεται χωρίς άμεσες επιπλοκές Eπόμενη θεραπεία σε 3 βδομάδες.  CT CAP 14/02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-19T08:36:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#7, Day 1 Pembrolizumab (ελλειψη lenvatinib) Aσθενής σε καλή κλινική κατάσταση. Πλήρης ύφεση άλγους σε κοιλιακή χώρα και οσφύ. Σίτιση βελτιωμένη, αύξηση ΣΒ.  Εκ του ε/ε: Hgb 11.4 WBC 6.68 Neu# 4.76 Plts 325 Cr 1.35 K 5.8 θυρ. λειτουργία κφ Δόθηκε επίσης i.v. ενυδάτωση, 500ml N/S 0.9% και 1amp ventolin neb.  Εξέρχεται χωρίς άμεσες επιπλοκές Eπόμενη θεραπεία σε 3 βδομάδες. Προγραμματισμός για απεικονιστικό έλεγχο, CT CAP.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ANOΣΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-28T16:37:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#6, Day 1 Pembrolizumab (ελλειψη lenvatinib) Aσθενής σε καλή κλινική κατάσταση Εκ του ε/ε: Hgb 11,3 WBC 6.48 Neu# 4.46 Plts 331 Cr 1.42, K 5.6, θυρεοειδική λειτουργία κφ +500 ml i.v. N/S 0.9% Εξέρχεται χωρίς άμεσες επιπλοκές Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-07T17:14:23.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#5, Day 1 Pembrolizumab (ελλειψη lenvatinib) Aσθενής σε καλή κλινική κατάσταση (απουσία άλγους και δυσκαταποσίας) Εκ του ε/ε: Hgb 11,2 WBC 5.44 Neu# 3.62 Plts 310 Cr 1.36, Urea 67, θυρεοειδική λειτουργία κφ Εξέρχεται χωρίς άμεσες επιπλοκές Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-16T14:05:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">He is a participant of HeCOG' Research for lung. (tissue biopsy+blood done)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Research' Participant</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-16T13:04:16.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4, Day 1 Pembrolizumab Aσθενής αναφέρει υποχώρηση κοιλιακού άλγους και οσφυαλγίας. Υποχώρηση στοματίτιδας, ασπουσία δυσκαταποσίας Εκ του ε/ε: Hgb 10,6 WBC 5.2 Neu# 3.49 Plts 281 Cr 1.46, Urea 67, K 5.3, θυρεοειδική λειτουργία κφ Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-10T08:44:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Aναφέρει εμμένων άλγος στοματικής κοιλότητας και οροφάρυγγα με συνοδό δυσκαταποσία. Υπό αγωγή με mouthwash, nystamycyn και daktarin gel από 3ημέρου χωρίς βελτίωση. Έναρξη αντιβιοτικής αγωγής με fluconazole 50mg 0-2-0 x 5 μέρες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Call Communication</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-10-26T09:05:05.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3, Day 1 Pembrolizumab Aσθενής αναφέρει παραμονή διάχυτου άλγους σε κοιλιακή χώρα και ΟΜΣΣ, με εξάρσεις κυρίως το βράδυ και επακόλουθη δυσκολία ύπνου. Δεν επιθυμεί να λάβει οπιοειδή λόγω έντονης δυσκοιλιότητας. Σύσταση για λήψη tramadol 50mg PRN επί πόνου.  Εκ του ε/ε: Hgb 9 WBC 6.69 Neu# 5.01 Plts 474 Cr 1.35  Έλαβε i.v hydration N/S 0.9% 500ml. Δόθηκαν lenvatinib 10mg για επανέναρξη 0-0-2.  Eπόμενη θεραπεία σε 3 βδομάδες.   CT chest 18/10: μικτή ανταπόκριση των β'παθών εντοπίσεων των πνευμόνων, οι περισσότερες παρουσιάζουν μείωση των διαστάσεων τους. Αύξηση διαστάσεων LN σε κατώτερη τραχεία δε και υποτροπιδικών.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΑΝΟΣΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-10-12T13:59:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε λόγω αναφερόμενης οσφυαλγίας και κοιλιακού άλγους. Αναφέρει επεισόδια εμέτων την προηγούμενη μέρα. Εισέρχεται απύρετος (έλαβε παρακεταμόλη στο σπίτι), αιμοδυναμικά σταθερός, SpO2 on air 94%. Εκ της κλινικής εξέτασης κοιλιά μαλακή ανώδυνη, εντερικοί ήχοι παρόντες, giordano -, AΨ ομότιμο άμφω Eκ του ε/ε Hgb 9.7, WBC 7.1, #Neut 5.68, PLT 390, Cr 1.87, Urea 49, CRP 146.5, MSU πυοσφαίρια 25-30, rare μικροοργανισμοί, nitrates negative Χορηγήθηκε ενδοφλέβια ενυδάτωση. Συνταγογραφήθηκε morphine oral syrop, έλαβε 5 ml Εξέρχεται βελτιωμένος με οδηγίες για έναρξη ciprofloxacin 500mg 1-0-1 για 5 μέρες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Day Care</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-10-05T15:37:28.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2, Day 1 Pembrolizumab Aσθενής αναφέρει παραμονή διάχυτου άλγους σε κοιλιακή χώρα και ΟΜΣΣ, παροξυσμικού τύπου. Διακοπή voltaren λόγω κακής ανοχής οργανισμού. Aναφέρει επίσης δυσκολία ομιλίας λόγως βράγχους φωνής και αισθήματος δύσπνοιας. Αιμοδυναμικά σταθερός, SatO2 98%.  Εκ του ε/ε: Hgb 10.1 WBC 5.32 Neu# 3.62 Plts 293 Cr 1.67 Ur 73  Έλαβε i.v hydration N/S 0.9% 500ml και επαναληπτική μέτρηση Cr 1.05 Ur 46 Eξέρχεται με οδηγίες για λήψη solpadeine PRN. Έλλειψη lenvatinib.  Eπόμενη θεραπεία σε 3 βδομάδες. CT chest στις 18/10.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΑΝΟΣΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-14T17:01:33.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1, Day 1 Pembrolizumab Aσθενής σε καταβεβλημένη κατάσταση. Σίτιση μειωμένη, εύκολη κόπωση, άλγος δε νεφρικής χώρας επεκτεινώμενη και σε πλάγια κοιλιακή χώρα. Εκ του ε/ε: Hgb 9.7 WBC 5.05 Neu# 3.55 Plts 387 CRP 108.8 Cr 1.61  Eξέρχεται με οδηγίες για έναρξη lenvatinb 10mg 0-0-2.  Eπόμενη θεραπεία σε 3 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΑΝΟΣΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-14T10:56:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MRI εγκεφάλου και σπινθηρογράφημα οστών δεν ανέδειξαν απομακρυσμένες μεταστάσεις. Για έναρξη θεραπείας με Pembrolizumab/Lenvatinib.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-08-31T09:45:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο έναρξης αγωγής με το φάρμακο  Pembrolizumab+Lonvatinib</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-08-31T09:13:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής παρουσίασε εμετούς και διάρροιες και έχανε βάρος για ένα μήνα (προ τριμήνου). Ακολούθως παρουσίασε αιματουρία, εξετάστηκε στο νοσοκομείο Λεμεσού, παραπέμφθηε για αξονική τομογραφία που ανέδειξε: -ευμεγέθη όγκο στο δεξιό νεφρό 10Χ9.35εκ,  -νεοπλασματικό θρόμβο σε νέφρική και κάτω κοίλη φλέβα,  -ηπατικές και πνευμονικές μεταστάσεις και νοσηλεύτηκε στο νοσοκομείο. Βιοψία νεφρού ανέδειξε διαυγοκυτταρικό καρκίνωμα. Υπεβλήθη σε εμβολισμό στο νεφρό (για έλεγχο της αιμορραγίας).  Προγραμματισμός: Ολοκλήρωση σταδιοποίησης με MRI εγκεφάλου και σπινθηρογράφημα οστών Θεραπεία με Pembrolizumab, Lenvatinib.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1η επίσκεψη-αξιολόγηση</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024556</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-08-30T13:09:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">File given to MO to set up an app. Original to return to patient</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>62</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>11</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R3C1:R94C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

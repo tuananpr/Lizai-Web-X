@@ -1,0 +1,517 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R3C1:R3C4"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="71" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="3"/>
+   <Row ss:Height="20.25">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Notes Report</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-28T15:44:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">C1D1 Trastuzumab + Pertuzumab (Ca μαστού - Λοβιακό αδενοκαρκίνωμα ΔΕ μαστού με Ηπατικές μεταστάσεις) Η ασθενής προσήλθε αιμοδυναμικά σταθερή, απύρετη και σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. ε/ε - Hb 13.8 WBC 5.02 Neu 4.17 PLT 64 Ur 48 Cr 0.76 AST 190 ALT 207 ALP 512 GGT 1405 TBIL 1.1 DBIL 0.6 Μετά από οδηγίες Δρ. Βορριά δεν έλαβε Carboplatin Gemcitabine λόγω PLT 64 και έγινε επαναπρογραμματισμός την Παρασκευή (έλαβε C1D1 στο ward 2). Εκ της Κ.Ε.: ΑΨ ομότιμο άμφω, S1S2 ρ/ε, κοιλία ΜΕΑ ΕΗ (+), απουσία οιδημάτων. Η ασθενής εμφάνισε ρίγος στο τέλος της θεραπείας Ζ.Σ. Α/Π 180/103, Σφ 95, Ο2 92, Θ 37.1 και έπειτα Α/Π 181/107 Σφ 101 Ο2 94% στα 5l Θ 38.4.  Έλαβε Pantoprazole 40mg i.v. + paracetamol 1g i.v. + 25mg promethasine i.v. + 100mg hydrocortisone Έγινε εισαγωγή στον θάλαμο για περαιτέραω διερεύνηση και αντιμετώπιση.  Έγινε checklist, consent form, echo 24/05 - 60% EF  ECG 24/05 - χωρίς παθολογικά ευρήματα. Επόμενη θεραπεία με ΑΝΘ σε 3 εβδομάδες. Επόμενη ΧΜΘ 31/05 - docetaxel + gemcitabine. ε/ε 30/05 - FBC.  Αλλεργίες - Φ/Α - crestor 5mg 0-0-1, Mg + K Α/Α - Διαταραχή μεταβολισμού λιπών, Υπερλιπιδαιμία, μη καθορισμένη.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Targeted HER-2 therapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-27T08:42:39.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στον ΟΑΥ για φάρμακο PERTUZUMAB-TRASTUZUMAB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-20T17:06:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής με μεταστατικό νεόπλασμα μαστού προσήλθε λόγω αλγος ΔΕ υποχόνδριου με αντανάκλαση στην ΔΕ οσφύ και ωμοπλάτη. Κατά την άφιξη απύρετη και αιμοδυναμικά σταθερή. Εκ του ε/ε ουδεν οξύ. Διενεργήθηκε CT CAP με ευρήματα συμβατά με πρόοδο νόσου στο ήπαρ. Ως εκ τούτου έλαβε αναλγητική αγωγή με οπιοειδή και δεξαμεθαζόνη με σαφή κλινική βελτίωση. Εν συνεχεία έλαβε τον 1ο κύκλο θερπαέιας με Gemcitabine/Carboplatine και εξήλθε σε καλή κατάσταση με θεραπευτικό πλάνο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">18/5 - 20/5 εισαγωγή στον παθολογικό</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-10T14:42:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μετά από την έγκριση του Δρ. Μάμιλου Αντρέα το δείγμα με αριθμό 1868/24-1 (1 κύβο παραφίνης ) που παραδόθηκε στις 29/04/2024 στο Ιστοπαθολογικό Τμήμα του Γερμανικού Ογκολογικού Κέντρου, στάλθηκε μαζί με τα παραπεμπτικα στο ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΠΑΘΟΛΟΓΙΚΟ ΤΜΗΜΑ ΛΕΥΚΩΣΙΑΣ για περαιτέρω διερεύνηση Μοριακές Εξετάσεις (FISH,HER/2) εκ μερους του Δρ.Ορφανόυ Γεώργιου. Η αποστολή έγινε με courier στις 13/05/2024. ΚΡΟΝΟΣ -Αριθμός αποστολής: LΙΜ14744943</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟ ΤΜΗΜΑ ΑΠΟΣΤΟΛΗ- ΓΕΝΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΙΣΤΟΠΑΘΟΛΟΓΙΚΟ ΤΜΗΜΑ ΛΕΥΚΩΣΙΑΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-29T08:45:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλάβαμε δείγμα για ΙΣΤΟΠΑΘΟΛΟΓΙΚΗ εξέταση από το Τμήμα Διαγνωστική / Επεμβατική Ακτινολογία εκ μέρους του  Δρ. Μιχαηλίδη Μιχάλη .Αριθμός Εγγραφής 1898/24-1 (AM)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΠΑΘΟΛΟΓΟΑΝΑΤΟΜΙΚΟ ΤΜΗΜΑ (Gesy In DRG-Ενδονοσοκομειακή)</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-26T09:09:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε προγραμματισμένα για διενέργεια βιοψίας ήπατος υπο αξονκή καθοδήγηση.Ύστερα από χορήγησης τοπικής αναισθησίας, πραγματοποιήθηκε κατευθυνόμενη βιοψία από αλλοίωση στο δεξιό λοβό του ήπατος. Κατά την διάρκεια της βιοψίας δεν παρατηρήθηκαν επιπλοκές. Ακολούθησε αιμόσταση του καναλιού της βιοψίας με απορροφήσιμο αιμοστατικό σπόγγο. Λίγα λεπτά μετά τη βιοψία πραγματοποιήθηκε περιορισμένος απεικονιστικός έλεγχος στο επίπεδο της βιοψίας με αξονική τομογραφία χωρίς να αναδειχθούν επιπλοκές.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Βιοψία ηπατικών αλλοιώσεων - 25-26/04/2024</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-19T09:20:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για συνέχιση αγωγής με ABEMACICLIB</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-18T14:57:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Σημαντική αύξηση καρκ. δεικτών (CA 15-3: 330). Θα διερευνηθεί με CT/MRI/US για ενδεχόμενη μεταστατική νόσο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-15T09:47:06.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Να ζητηθούν καρκ. δείκτες (αυξήθηκαν στον προηγούμενο έλεγχο) και αν χρειαστεί να διερευνηθεί. CEA: 7,4 CA 15-3: 64.6.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αποτελέσματα</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-02T12:29:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για έναρξη αγωγής με το φάρμακο ABEMACILIB - DR ORPHANOS</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-22T13:06:18.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μείωση δόσης Abemaciclib λόγω παρενεργειών (διαρροιών, υποκαλιαιμίας, παράτασης QTc). Θα σταλεί αίτημα στην ΕΟΑ για δόση 100mg</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-12T17:07:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθένης προσήλθε για φόρτιση Κ απύρετη και σε καλή κλινική κατάσταση Εκ του ε/ε: Ηb 8.6 WBC 3.69 Neu 2.37 PLT 210 Ur 15 Cr 0.70 CRP 4.4 K 3.5 Mg 2.2 Χορηγήθηκαν 500mL N/S 0.9% + 2 AMP K Επόμενος ε/ε 19/03  **θα λάβει ακόμα 3 binocrit 13/03,20/03,27/03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">infusion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-06T15:55:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκ νέου για ε/ε.  Απύρετη , αιμοδυναμικά σταθερή , σε καλη κλινική κατάσταση. Εκ ε/ε Hb 7.5 Νeu 0.68 K 2.9 Χορηγήθηκαν 500 ml N/S + 2 amp KCL  Με οδηγίες Δρ. Νανας συνταγογραφήθηκε 1 gcsf για την οποία θα επικοινωνήσει αργότερα σε συννενόηση με Δρ. Ορφανό αν θα λάβει. *** να λαβει και binocrit 4000 IU (Mε οδηγίες Δρ. Ορφανού θα λάβάνει binocrit 4000 IU μια φορά την εβδομάδα για 4 εβδομάδες και αργότερα επανεκτίμηση αποτελεσματικότητας)  Εξέρχεται χωρίς άμεσες επιπλοκές και με οδηγίες για νέο ε/ε 11/03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-04T16:19:36.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκ νέου λόγω γενικευμένης αδυναμίας και υποκαλιαιμίας. Απύρετη , αιμοδυναμικά σταθερή , σε καλη κλινική κατάσταση. Hb 7.7 Νeu 0.9 K 3.00 Χορηγήθηκαν 500 ml N/S + 2 amp KCL + binocrit 4000 IU Με οδηγίες Δρ. Ορφανού δεν θα λάβει gcsf. Mε οδηγίες Δρ. Ορφανού θα λάβάνει binocrit 4000 IU μια φορά την εβδομάδα για 4 εβδομάδες και αργότερα επανεκτίμηση αποτελεσματικότητας  Εξέρχεται χωρίς άμεσες επιπλοκές και με οδηγίες για νέο ε/ε 06/03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-04T15:27:59.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκ νέου λόγω γενικευμένης αδυναμίας και υποκαλιαιμίας. Απύρετη , αιμοδυναμικά σταθερή , σε καλη κλινική κατάσταση. Hb 7.7 Νeu 0.9 K 3.00  Χορηγήθηκαν 500 ml N/S + 2 amp KCL + binocrit 4000 IU Με οδηγίες Δρ. Ορφανού δεν θα λάβει gcsf.  Mε οδηγίες Δρ. Ορφανού θα λάβάνει binocrit 4000 IU μια φορά την εβδομάδα για 4 εβδομάδες και αργότερα επαναξιολόγηση   Εξέρχεται χωρίς άμεσες επιπλοκές και με οδηγίες για νέο ε/ε 06/03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-28T15:17:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκ νέου λόγω γενικευμένης αδυναμίας και υποκαλιαιμίας. Απύρετη , αιμοδυναμικά σταθερή , σε καλη κλινική κατάσταση. K 3,35  Χορηγήθηκαν 500 ml N/S + 2 amp KCL  Εξέρχεται χωρίς άμεσες επιπλοκές και με οδηγίες για νέο ε/ε 04/03</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">εκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-27T14:40:32.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκτάκτως λόγω γενικευμένης αδυναμίας. Απύρετη , αιμοδυναμικά σταθερή , σε μέτρια κλινική κατάσταση. Αρχικό K 2.6, K-U 9.8  ΗΚΓ χωρίς ευρήματα υποκαλιαιμίας Έλαβε 1000mL N/S 0.9% + 3 amp ΚCL ABG μετα απο την χορήγηση K 3.2 Επαναληπτικό Κ 3,6  Εξέρχεται χωρίς άμεσες επιπλοκές και με οδηγίες να επανέλθει αύριο για νέο έλεγχο και ενυδάτωση</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">εκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-26T14:53:13.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε για προγραμματισμένη φόρτιση Κ. Απύρετη , αιμοδυναμικά σταθερή , σε καλή κλινική κατάσταση. Έλαβε 500mL N/S 0.9% + 1 amp KCl.  Εξέρχεται χωρίς άμεσες επιπλοκές και προγραμματισμένη φόρτιση 2amp KCl ξανά αύριο μετά από οδηγίες Δρ. Νανά.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Infusion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-23T15:10:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκτάκτως λόγω γενικευμένης αδυναμίας. Απύρετη , αιμοδυναμικά σταθερή , σε μέτρια κλινική κατάσταση. Έλαβε 1000mL N/S 0.9% + 1 amp Cernevit+ 8mmol MgSO4+ 2 amp KCl + Injection B12 1mg Εξέρχεται χωρίς άμεσες επιπλοκές και με οδηγίες για επαναλληπτικό ε/ε στις 26/02/2024.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">εκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-23T12:50:16.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έλαβε την πρώτη θεραπεία με Zometa. Περιστασιακά παρουσιάζει ναυτία/εμετό και διάρροια. Συνεχίζει τη θεραπεία με  Femara/ Abemaciclib. Θα χορηγηθούν ξανά ενέσεις Βιτ Β12 διότι να αφέρει ξανά νευροπάθεια/ αιμωδίες. Είχε υποβληθεί σε μαστογραφια/ US 26/10/23. Για αιματολογικές εξετάσεις.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-30T14:30:23.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής προσήλθε απύρετη και σε καλή κλινική κατάσταση για έγχυση διφωσφωνικών Εκ του ε/ε: Ηb 10 WBC 3.1 Neu 1.75 PLT 207 Cr 0.79 CrCl 66 Ca 9.9 Χοργήθηκαν 4mg Zometa + 1g Apotel + 100mg Hydrocortisone</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">zometa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-30T10:11:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για ABEMACICLIP</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SECRETARY NOTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-24T13:51:31.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η αξονική τομογραφία ανέδειξε πιθανές οστικές μεταστάσεις. Παραπέμφθηκε για σπινθηρογράφημα οστών το οποίο δεν ανέδειξε μεταστατική νόσο.  Οι διάρροιες ελέγχονται ικανοποιητικά. Συνεχίζει Abemaciclib και Femara.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-21T12:33:17.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παρουσιάζει κόπωση και κάποιες μέρες διαρροιες (και κάποιες με πιο φυσιολογικές κενώσεις). Ζητώ αξονική τομογραφία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-15T17:02:17.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε για επαναξιολόγηση   Υπο θεραπεία με Abemaciclib. Απύρετη, αιμοδυναμικά σταθερή, σε καλή κλινική κατάσταση. Εκ της κλινικής εξέτασης: ΑΨ ομότιμο άμφω, S1S2 ΡΕ, κοιλιά ΜΕΑ, ΕΗ++, απουσία οιδημάτων. Εκ του ε/ε: Hb 10,3, WBC 2.80, #NEU 1.47, PLT 232 Ur 15 Cr 0.89 Ca 10.5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Evaluation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-01T15:46:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">H ασθενής προσήλθε εκτάκτως λόγω γενικευμένης αδυναμίας. Αναφέρει διαρροικά επεισόδια προ 3ήμερου. για τα οποία έλαβε vacontil  . Υπο θεραπεία με Abemaciclib.  Απύρετη, αιμοδυναμικά σταθερή, σε καλή κλινική κατάσταση. Εκ της κλινικής εξέτασης: ΑΨ ομότιμο άμφω, S1S2 ΡΕ, κοιλιά ΜΕΑ, ΕΗ++, απουσία οιδημάτων. Εκ του ε/ε: Hb 9.8, WBC 2.34, #NEU 1.19, PLT 219  Έλαβε 500mL N/S 0.9% + 1 amp Cernevit Εξέρχεται χωρίς άμεσες επιπλοκές με οδηγίες για επαναλληπτικό ε/ε στις 4/12</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-23T12:36:06.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Συνεχίζει Abemaciclib. Διάρροιες βελτιωμένες με τη λήψη Vacontil</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-20T12:03:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής προσήλθε εκτάκτως λόγω διαρροϊκών κενώσεων (περίπου 4/ ημέρα) από 7ημέρου. Απύρετη, αιμοδυναμικά σταθερή, σε καλή κλινική κατάσταση. Εκ της κλινικής εξέτασης: κοιλιά ΜΕΑ, ΕΗ + Εκ του ε/ε: Ur 14, Cr 0.89, ηλεκτρολύτες κφ Χορηγήθηκαν 500mL N/S 0.9% + 1 amp Cernevit. Συνεχίζει αντιδιαρροϊκή αγωγή.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-26T12:40:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">παρουσίασε διάρροιες που βελτιώθηκαν με Lomotil (δεν ανταπόκριθηκε στο Imodium). Ψηλαφητό, ευκίνητο, υπόσκληρο οζίδιο στον αρ. μαστό/ θα υποβληθεί σε υπεηχογράφημα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-18T16:21:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής προσήλθε προγραμματισμένα μετά από ΟΝΒ και ηλετκρολυτικές διαταραχές. Παρουσιάζεται περιπατητική, αιμοδυναμικά σταθερή, απύρετη. Εκ της κλινικής εξέτασης Κοιλιά: μαλακή, ευπίεστη, ΕΗ υπαρκτοί. Εκ του ε/ε: K 3,9 Mg 2.2 Cr 0,95 Ur 6 Δόθησαν: 0,5 L N/S 0.9% + cernevit + 8 mmol MgSO4 Συνεχίζει με προβιοτικά po od Loperamide PRN  Έναρξη Abemaciclib  για μια εβδομάδα od και επειτα bd</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">evaluation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-12T15:34:28.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής προσήλθε εκτάκτως λόγω αναφερόμενων πολλαπλών διαρροικών κενώσεων. Παρουσιάζεται περιπατητική, αιμοδυναμικά σταθερή, απύρετη. Εκ της κλινικής εξέτασης Κοιλιά: μαλακή, ευπίεστη, επώδυνη σε επιγάστριο, ΕΗ υπαρκτοί. Εκ του ε/ε: K 3 Mg 1.2 Cr 1.25 Ur 23 CRP 0.2  Δόθησαν: 1 L N/S 0.9% + cernevit + 27mmol KCL + 8 mmol MgSO4 Η ασθενής εξήλθε βελτιωμένη. Συνταγογραφήθηκε MgSO4 300 mg 1x1+ KCL 600 mg 1x1 για 3 ημέρες. Συνταγογραφήθηκε επίσης probiolyte, και λοιπά προβιοτικά.  Επαναληπτικός ε/ε: 16/10 Ur + Cr + KCL</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">infusion</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-26T11:41:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">παρουσιάζει διαρροικές κενώσεις που ξεκινούν το μεσημέρι μέχρι το βραδυ. Συνέστησα λήψη Vacontil. Ως αποτέλεσμα των διαρροιών παρουσιάζει κόπωση. Αιματολογικές εξετάσεις (έκανε χτες, δεν έχουν αναρτηθεί ακόμα στο ΓΕΣΥ). Test οστεοπόρωσης φυσιολογικό.  Συνέστησα να δει οδοντίατρο και να ξεκινήσει Zometa.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-19T13:18:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">injection today B12 1mg.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12-1mg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-08T18:10:01.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής προσήλθε εκτάκτως λόγω αναφερόμενου κοιλιακού άλγους από 24ώρου.  Εκ της κλινικής εξέτασης ασθενής περιπατητική, αιμοδυναμικά σταθερή, απύρετη. Κοιλιά: μαλακή, ευπίεστη, επώδυνη σε επιγάστριο και ΑΥποχ, ΕΗ υπαρκτοί.  ECG: s/r Έγινε U/S από Δρ. Ν. Βασιλειάδου το οποίοι ανέδειξε ήπια θολερότητα παγκρέατος.  Δόθηκε apotel 1gr, pantoprazole 40 mg , cernevit κ N/S 0.9% 500ml  Εκ Ε/Ε:  Hgb 13.3, WBC 5.61, #Neut 3.68, PLT 197, Cr 0.79, Ur 13.0, Να 133, Κ 4.2, Amyl 68, Lipase 133 Δόθηκαν οδηγίες για λήψη αναλγητικής θεραπείας και  άλιπης δίαιτας. Η ασθενής εξήλθε βελτιωμένη Θα προσέλθει την τρίτη 12/09 για λήψη B12 και επαναξιολόγησης</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Emergency</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-06T13:36:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  MEDISKIN:  Weekly monitoring &amp; evaluation for radiodermatitis.  Weekly skin care counseling done.    04/07/2023 - First evaluation of skin condition (pre-treatment).  14/07/2023 - Good toleration of RT.  20/07/2023 - Good toleration of RT.  27/07/2023 - Radiodermatitis Grade I - eythema.  03/08/2023 - End of treatment. Radiodermatitis Grade I - erythema.  09/08/2023 - 1 week post RT. Radiodermatitis Grade I - erythema.  06/09/2023 - 1 month post RT. Intact skin.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-06T12:28:16.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Λαμβάνει το Abemaciclib εδώ και 1 εβδομάδα. Παρουσίασε διάρροιες από τη δεύτερη μέρα, 2 ημερησίως, αλλά δεν χρειάστηκε να πάρει Vacontil.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-06T12:08:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 06/09/23, 4 weeks after treatment    ECOG 0, VAS 4 (mild dysphagia)    Examination:  Patient in good condition. Complains of mild dysphagia since the end of treatment, Prescribed Nystamysyn and Perofen.  Thoracic wall examination incl axillary region: w/o any findings.  Intact skin, mild telangiectasia at the supraclavicular region, no pain, no oedema    Follow up under the care of Dr Orphanos  Hormone therapy: Yes</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-06T11:48:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Follow up examination on 06/09/23, 4 weeks after treatment    ECOG 0, VAS 4 (mild dysphagia)    Examination:  Patient in good condition. Complains of mild dysphagia since the end of treatment  Thoracic wall examination incl axillary region: w/o any findings.  Intact skin, mild telangiectasia at the supraclavicular region, no pain, no oedema    Follow up under the care of Dr Orphanos  Hormone therapy: Yes</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-29T12:49:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Χωρίς παρενέργειες από το Femara. Για έναρξη Abemaciclib . Δόθηκαν οδηγίες αν παρουσιάσει διάρροιες. Θα σταλεί γενετικός έλεγχος (πατέρας κατέληξε από Ca παχέος εντέρου,νόσηεσε 45 ετών, γιαγιά από πατέρα έπασχε από Ca μαστού και Ca ενδομητρίου και παππούς από πατέρα κατέληξε από Ca πνεύμονα).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-21T14:35:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής 58 ετών με καρκίνο μαστού προσήλθε εκτάκτως λόγω αναφερόμενης γριππώσους συνδρομής. Αναφέρεται δεκατική πυρετική κίνηση της τάξεως του 37.8οC προ 24ωρου που υφέθηκε με λήψη παρακεταμόλης, παραγωγικός βήχας και ρινική συμφόρηση. Απουσία ιογενούς λοίμωξης στο στενό οικογενειακό περιβάλλον. Εκ της κλινικής εξέτασης: ΑΨ ομότιμο άμφω, κοιλιά ΜΕΑ, εντερικοί ήχοι (+), οροφάρυγγας χωρίς ερυθρότητας ή εξίδρωμα. Διενεργήθηκε rapid test SARSCOV negative. Εκ του ε/ε: crp 56.4, neu#3.50, ηπατικά/ηλεκτρολύτες κφ. Η συμπτωματολογία συγκλίνη προς ιογενή λοίμωξη. Συνταγογραφήθηκε mucosolvan syrup και dulsana syrup with codeine το βράδυ. Σύσταση επικοινωνίας με το κέντρο σε περίπτωση επιδείνωσης. Δόθηκε +Β12 1000μg για τη νευροπάθεια.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">έκτακτα +Β12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-03T12:13:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Last fraction on 03/08/23    Patient in good condition. Has no complains.  ECOG 0, VAS 0    Examination:  Mild erythema of her Right Thoracic wall.    Medication: not changed since beginning    Letter to Dr Orphanos  Follow up Dr Orphanos  Follow up in our clinic to evaluate the radiotherapy related acute reactions in 4 weeks.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-03T12:12:02.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ολοκλήρωσε ακτινοθεραπεία. Θα συνεχίσει ορμονοθεραπεία με Femara. Θα γίνει τεστ οστεοπόρωσης και θα υποβληθεί σε οδοντιατρική εξέταση με σκοπό να χορηγθεί Zometa. Επόμενο ραντεβού σε 1 μήνα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-20T14:54:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Derived mean after 5 CBCTs: Inf: 0,3cm, Right: 0,1cm, Ant: 0cm. Verify and if &lt;0,5cm continue with 2 CBCTs per week.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-14T14:54:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  First fraction consultation    Very good matching. No questions. Skin care instructions.  Continue with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-10T08:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Strouthos,Iosif  Consultation on 04/07/2023 with Dr Ferentinos  GESY Patient / Referral from Dr. Orphanos    Diagnosis: Breast Ca   Initial diagnosis: 12/22  Localization: Rt breast,  Histology:  Invasive lobular ca, Grade II, V0, Pn0, R0  IHC: ER: pos. (H Score: 85), PR: pos. (H Score: 105), ErbB2: neg, ki-67: 40%  Classification: pT2 pN2(5/11) cM0  Metastases:  Axillary LNs  Menop. status: postmenopausal    Secondary Diagnosis:  S.p appendectomy  Penicillin allergy    Previous treatment/Course of disease:  11/22 U/S Breast: Rt breast: BIRADS 4  11/22 MRI Breast: Rt Breast: at 12-13 oclock lesion, BIRADS 6. 3 lesions at 9-10 oclock with BIRADS 5  11/22 CT-CAP: No secondaries  12/22 Rt mastectomy and LNs dissection + partial Lt breast excision  12/22 Biopsy: confirmation of diagnosis  01-03/23 ACx4 - Taxol    Family history:  None    Treatment concept:  Adjuvant EBRT of the Rt breast and SCF 40,5Gy (15 x 2,7Gy) and Boost to the tumour bed TD10Gy (5 x 2Gy)    Clinical examination:  157cm, 73kg,  ECOG 0, VAS 0    Medication:  None    Tumorboard:  Breast TB done on 19/01/2023    Pending issues:  P-CT on 07/07    Follow-up:  GOC RT / Dr Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-04T16:09:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Nearchou,Marina  Consultation on 04/07/2023 with Dr Ferentinos  GESY Patient / Referral from Dr. Orphanos    Diagnosis: Breast Ca   Initial diagnosis: 12/22  Localization: Rt breast,  Histology:  Invasive lobular ca, Grade II, V0, Pn0, R0  IHC: ER: pos. (H Score: 85), PR: pos. (H Score: 105), ErbB2: neg, ki-67: 40%  Classification: pT2 pN2(5/11) cM0  Metastases:  Axillary LNs  Menop. status: postmenopausal    Secondary Diagnosis:  S.p appendectomy  Penicillin allergy    Previous treatment/Course of disease:  11/22  U/S Breast: Rt breast: BIRADS 4  11/22 MRI Breast: Rt Breast: at 12-13 oclock lesion, BIRADS 6. 3 lesions at 9-10 oclock with BIRADS 5  11/22 CT-CAP: No secondaries  12/22 Rt mastectomy and LNs dissection + partial Lt breast excision  12/22 Biopsy: confirmation of diagnosis  01/23-03/23 ACx4 - Taxol    Family history:  None    Treatment concept:  Adjuvant EBRT of the Rt breast and SCF 40,5Gy (15 x 2,7Gy) and Boost to the tumour bed TD10Gy (5 x 2Gy)    Clinical examination:  157cm, 73kg,  ECOG 0, VAS 0    Medication:  None    Tumorboard:  Breast TB done on 19/01/2023    Pending issues:  P-CT on 07/07    Follow-up:  GOC RT / Dr Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-23T10:24:53.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για ABEMACICLIB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-14T12:39:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Λόγω σοβαρής περιφερικής νευροπάθειας δεν θα χορηγηθεί η τελευταία θεραπεία με Paclitaxel. Θα προχωρήσει με ακτινοθεραπεία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-07T13:38:25.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4D8 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Σταθερά τα εξανθήματα και οι αλλοιώσεις στα νύχια. Εκ του ε/ε Hgb 11.4, WBC 6.6 #Neut 5.2, PLT 400, Cr 0.6, U 24 γGT 49 Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-31T16:22:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">improving -redness persists continue on topical treatment for 4 weeks -advised sun protection  fu in 4 weeks</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Localized skin eruption due to drugs - Yellow nail syndrome</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-31T12:56:04.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4D1 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Επιδείνωση περιφερικής νευροπάθειας, καλύπτουν κάτωθεν των αρθρώσης των γονάτων και καρπών. Λαμβάνει Β complex od. Xoρήγηση Β12 1mg. Έγινε επικοινωνία με τον θεράποντα και μειώθηκε η δόση. Εκ του ε/ε Hgb 11.5, WBC 6.7 #Neut 5.2, PLT 400 Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-24T13:44:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3D15 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Επιδείνωση περιφερικής νευροπάθειας, καλύπτουν κάτωθεν των αρθρώσης των γονάτων και καρπών (grade 3). Λαμβάνει Β complex od. Xoρήγηση Β12 1mg. Έγινε επικοινωνία με τον θεράποντα και μειώθηκε η δόση. Εκ του ε/ε Hgb 11,7, WBC 6.55 #Neut 5.2, PLT 400, U 34 Cr 0.65 Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-17T14:57:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3D8 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή.  Eξανθήματα σε άνω άκρα, θα εκτιμηθεί από δερματολόγο. Εκ του ε/ε Hgb 11,5, WBC 5,1 #Neut 3.85, PLT 400,  Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-10T16:01:04.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3D1 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Αναφέρει ήπιες αιμωδίες κάτω άκρων. Εκ του ε/ε Hgb 11, WBC 5, #Neut 3.6, PLT 399, Cr 0.6, Ur 31, Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-03T14:15:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2D15 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Αναφέρει ήπιες αιμωδίες κάτω άκρων. Εκ του ε/ε Hgb 10.8, WBC 5, #Neut 3.66, PLT 401, Cr 0.6, Ur 15, Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-26T15:21:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2D8 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 11., WBC 4.24, #Neut 2.9, PLT 291, Cr 0.6, Ur 23, Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-19T15:40:21.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2D1 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 11.4, WBC 5.13, #Neut 3.72, PLT 350, Cr 0.59, Ur 20,  Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-12T15:20:46.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1D15 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 12.1, WBC 5.5, #Neut 4.13, PLT 362, Cr 0.7, Ur 38, γ-GT 60.5 Eξέρχεται χωρίς άμεσες επιπλοκές. Δόθηκε θεραπευτικό πλάνο. Συνταγογραφήθηκε B complex λόγω αναφερόμενων αιμωδιών στα κάτω άκρα. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-05T13:59:46.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1D8 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 11, WBC 6.45, #Neut 4.86, PLT 386, Cr 0.63, Ur 27, γ-GT 74.5 Eξέρχεται χωρίς άμεσες επιπλοκές Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-29T15:16:46.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1D1 Paclitaxel (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 10.5, WBC 4.64, #Neut 2.88, PLT 175, Cr 0.6, Ur 14 gGT 87 ALP 102 Eξέρχεται χωρίς άμεσες επιπλοκές Δόθηκε θεραπευτικό πλάνο. Eπόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-15T12:20:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4 ΑC (Ca Breast) Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 10.9, WBC 4.9, #Neut 3.1, PLT 243, Cr 0.6, Ur 20 gGT 122 Eξέρχεται χωρίς άμεσες επιπλοκές Δόθηκε θεραπευτικό πλάνο και 6 GCSF 300mcg D4-D9 Eπόμενη θεραπεία σε 2 εβδομάδες (paclitaxel)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-07T17:04:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής προσήλθε εκτάκτως λόγω αναφερόμενη αδυναμίας, δέκατα και παραγωγικού βήχα. Από τα ζωτικά σφύξεις 100, πίεση και οξυγόνο φυσιολογικό και Θ 38. Από την κλινική εξέταση αναπνευστικό ομότιμο άμφω, κοιλία ΜΕΑ, ΕΗ(+). Απο τον ε/ε: Hb 11.8, WBC 9, Neu# 8.5, Plts 200, νεφρική λειτουργία φυσιολογική. α/α θώρακος και γενική ούρων χωρίς ευρήματα. Εκκρεμεί καλλιέργεια πτυέλων. Έλαβε N/S 0.9%+Cernevit+ Apotel 1g Εξέρχεται βελτιωμένη με οδηγίες για λήψη αντιβιοτικής αγωγής αζιθρομυκίνη 500mg od για 5 μέρες. Χωρίς ιστορικό λήψης αντιβίωσης του τελευταίες 3 μήνες. ΚΑΙ ΑΛΛΕΡΓΙΑ ΣΤΗΝ ΠΕΝΙΚΙΛΙΝΗ.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">έκτακτο</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-01T17:17:17.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3 ΑC Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 12.8, WBC 7.91, #Neut 5.53, PLT 229, Cr 0.62, gGT 145, ALP 138, TBIL 0.21 Eξέρχεται χωρίς άμεσες επιπλοκές Δόθηκε θεραπευτικό πλάνο και 6 GCSF 300mcg (04/03 - 09/03) Eπόμενη θεραπεία σε 2 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-15T17:49:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2 ΑC Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε Hgb 12.5, WBC 5.35, #Neut 2.91, PLT 306, Cr 0.57, gGT 130, SGPT 55 Eξέρχεται χωρίς άμεσες επιπλοκές Δόθηκε θεραπευτικό πλάνο και 6 GCSF 300mcg (18/02 - 23/02) Eπόμενη θεραπεία σε 2 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-01T16:51:35.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 ΑC Aσθενής σε καλή κλινική κατάσταση, απύρετη, αιμοδυναμικά σταθερή. Εκ του ε/ε 20/01 Hgb 13, WBC 6.83, #Neut 4.61, PLT 324, Cr 0.7, CEA 4.93, Eξέρχεται χωρίς άμεσες επιπλοκές Δόθηκε θεραπευτικό πλάνο και 6 GCSF 300mcg (04/0 - 09/02) Eπόμενη θεραπεία σε 2 εβδομάδες  Εργαστηριακός έλεγχος 10/02</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-27T17:03:10.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αναμένουμε ενημέρωση απο ΜΟ για να καλέσουμε την ασθενή για έναρξη ακτινοθεραπείας</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BREAST &amp;GYNO TB 26/01/23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-18T09:48:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Νέα διάγνωση καρκίνου μαστού. Υπεβλήθη σε δεξιά μαστεκτομή. Βιοψία: Λοβιακό αδενοκαρκίνωμα grade 2, pT2(3,5cm),pN2a(5/11),M0. ER 85/300, PR 105/300, HER-2 +1, Ki 67: 40%.  Θα υποβληθεί σε επικουρική χημειοθεραπεια (AC, Taxol), ακτινοθεραπεία και ορμονοθεραπεία. Παραπεμπεται για καρδιολογική εξέταση.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1η επίσκεψη-αξιολόγηση</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041011</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-18T11:46:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ca Breast  Staging  with MRI Breast  &amp; CT CAP</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Consultation with prof. N. Zamboglou</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>C2:C6</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R3C1:R71C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

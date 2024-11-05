@@ -1,0 +1,337 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R9C1:R9C9"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="26" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="8"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:MergeAcross="8" ss:StyleID="s63"><Data ss:Type="String">Notes Report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Report Date:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">04/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">From:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">01/04/2020</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">To:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">05/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Note Type(s):</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">All Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">05/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mosaiq Notes Only:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient Name</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Birth</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Police ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gender</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Address</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-15T17:36:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Elytes, FBC and liver values normal</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lab results 03/24</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-14T12:15:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Re-Consultation 14.3.24    Patient is in stable condition.    Lab, 14.03.2024: pending    Discussed about treatment options: ADT and Abiraterone alone vs additional EBRT or EBRT + HDR brachy. Patients prefers additional EBRT without brachy and signed written informed consent and recieved copy    Start with RT after easter        Diagnosis:  Prostate-Ca  Localization: right lobe  Histology: Invasive adenocarcinoma of the prostate  Grade:  Gleason: 7b (4+3), Grade Group: 3  Classification:  cT2b cN1 cM0  Metastases: no distant metastases but two LNs in pelvis  iPSA:  8.8 ng/ml  Prostate volume:   approx. 55 ml    Secondary Diagnoses: Prostatic hyperplase (transvesical prostatectomy &gt;3 years ago), Hypercholerstinaemia, aterial hypertonia    Previous treatment/Course of disease:  07/23 conventional staging  08/23 PSMA PET  09/23 Start Zoladex 10.8 mg injections  09/23 RT treatment planning: not optimal dose distribution due to large pelvic LNs, RT postponed  10/23 Start Abiraterone and prednisolon  03/24 MRI pellvis: regressive disease    Planned: EBRT prostate and pelvis</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-14T12:09:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Re-Consultation 14.3.24    Patient is in stable condition.    Lab, 14.03.2024: pending    Discussed about treatment options: ADT and Abiraterone alone vs additional EBRT or EBRT + HDR brachy. Patients prefers additional EBRT without brachy and signed writte informed consent    Start with RT after easter</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-20T14:53:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Consultation 20.2.24    Patient is in good health, Fatique grade 1-2, no pain, regular check blood pressure and glucose levels are fine. Hot flushes but not often. Erectyle dysfunction    Lab: renal funtion, liver function, electrolytes, WBC are fine. PSA&lt;0.1 under testosteron suppression    Proc: MRI to have an estimation on anatomical situation and re-conslutation for final decision EBRT alone vs combi</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-20T11:13:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  3rd Zoladex 10.8mg done by AS (R)    &#45;-&gt; Next appointment: 14/05/2024.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-30T08:19:06.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Thyreoid hormones normal</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lab 29.11.23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-29T09:40:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Georgiou,Christina  2nd Zoladex 10.8mg done by CG (L)  Next app: 20/02/2024</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-29T09:38:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Consultation 29.11.83    Patient is in good health, Fatique grade 1-2, no pain, regular check blood pressure and glucose levels are fine    Lab: renal funtion, liver function, electrolytes, WBC are fine. PSA&lt;0.1 under testosteron suppression    Pending: thyreoid hormones due to fatique    Next meeting in 20th of Feburary for evaluation RT (EBRT vs EBRT+HDR)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-29T09:35:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Consultation with wife 29.11.23    Patient is in good health. Lost 10 kg due to diet. Blood pressure is fine and Glucose levels are fine.  Fatique grade 1-2  No pain    Lab: renal function, liver function, WBC are fine, PSA&lt;0.1 and Tesot supressed    Takes Abi+Cortison and ADT as discussed    Pending: thyreoid hormones check    NExt meeting end of Feburary for evaluationb RT (EBRT alone vs combi)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-16T14:05:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Phoned patient, 16.11.23  Some doctor told him about a laser for prostate cancer. I told him that this is not applying for his situation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-25T10:07:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  ABIRATERONE started: 24/10/2023.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-20T08:32:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Όνομα:  ΧΡΙΣΤΑΚΗΣ                Επώνυμο:  ΚΑΤΣΙΗΣ           Πατρώνυμο:  ΓΕΩΡΓΙΟΣ                            Ηλικία:   75                                 HIS:  20050378                             Date:  18-10-2023   Παρούσα νόσος:  καρδιολογική εκτίμηση προ έναρξη ορμονοθεραπείας (abiraterone)  Ατομικό αναμνηστικό: διηθητικό αδενοκαρκίνωμα προστάτη αδένα με 2 ευμεγέθεις λεμφαδένες πυέλου έναρξη zoladex /τρίμηνο για 18 μήνες , πλάνο για Abiraterone for 6 months και εν συνεχεία ΑΚΘ,ΚΥΠ -&gt;transvesical prostatectomy προ 4ετίας,  AY (+), ΣΔ (-), δυσλιπιδαιμία (+), καπνός (-, διακοπή από 4ετίας, 50pack years), αλλεργίες (-), αλκοόλ (-), ΓΟΠ,  σκωληκοειδεκτομή , αμυγδαλεκτομή,   Φαρμακευτική αγωγή κατ΄οίκον: micardis 80mg 1-0-0, celmatin 10mg 0-0-1, medoprazole 1-0-0,  Κλινική εξέταση:  Αναπνευστικό ψιθύρισμα: κφ        S1 S2: ΡΕ, χωρίς εμφανές φύσημα  Καρωτίδες:  κφ                                   Σφαγίτιδες:  κφ                                        Σφύξεις: κερκιδικές/ μηριαίες / ραχιαίες ποδός : ομότιμα ψηλαφητές  Παρουσία οιδημάτων : όχι     Κοιλία :   ΜΕΑ              Εντερικοί ήχοι: κφ   Ζωτικά σημεία:  BP: 155/91            mmHg         BPM:  59           /min             Spo2: 94       %          Ύψος:  173     cm             ΣΒ:  95     Kg        ΒΜΙ:           Kg/m2 ΗΚΓ: SR, QT=418msec , QTc Fridericia =416msec  ΥΠΕΡΗΧΟΣ ΚΑΡΔΙΑΣ   ΟΝΟΜΑΤΕΠΩΝΥΜΟ ΧΡΙΣΤΑΚΗΣ ΚΑΤΣΙΗΣ ΗΜΕΡΟΜΗΝΙΑ ΕΞΕΤΑΣΗΣ  18-10-2023 ΗΜΕΡΟΜΗΝΙΑ ΓΕΝΝΗΣΗΣ 25/11/1947 ΤΑΥΤΟΤΗΤΑ  416221 ΠΟΡΙΣΜΑ:  Αριστερή κοιλία φυσιολογικών εσωτερικών διαστάσεων με πάχυνση του ΜΚΔ (IVSd= 12.6 mm, LVDd= 50 mm, PWd=11.3 mm) χωρίς τμηματικές υποκινησίες ΚΕ=60%. Garde I διαστολική δυσλειτουργία με φυσιολογικές πιέσεις πλήρωσης (Ε= 0.53 , Α=0.75, Ε/Α=0.71 , Ε/e΄=6.38 ). Δεξιά κοιλία φυσιολογικών διαστάσεων με φυσιολογική συσπαστικότητα (tapse= 3.2cm, tvsv=16  ) Φυσιολογικών διαστάσεων αριστερός (LA=22 ml/m2) και δεξιός κόλπος Ρίζα (Ao valsava=37  mm) και ανιούσα αορτή (Aoasc= 36mm) εντός φυσιολογικών ορίων Αορτική βαλβίδα τρίπτυχη με ήπια εκφύλιση , ασβέστωση της ΝCC - σκλήρυνση με ίχνος διαφυγής (ΑVmax=1.8m/sec).  Μιτροειδής βαλβίδα με φυσιολογική δομή και λειτουργία  Τριγλώχινα βαλβίδα με φυσιολογική δομή και λειτουργία Πνευμονική βαλβίδα με φυσιολογική δομή και λειτουργία Χωρίς υποψία πνευμονικής υπέρτασης Περικάρδιο ελεύθερο υγρού  Συμπέρασμα : Καλή συσταλτικότητα αριστερής κοιλίας με ήπια παχυνση του ΜΚΔ. Αορτική σκλήρυνση. Εστάλη τροπονίνη και nt -pro BNP (baseline)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">καρδιολογική εκτίμηση προ έναρξη ορμονοθεραπείας (abiraterone)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-13T15:55:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visitation 13.09.23 with wife and daughter    Discussed with patients problems in dosimetry due to large pelvic LNs resulting into high RT doses in the bladder. Thus, there is a elevat4ed risk for tox.    Propsed solution: continue with ADT and add Abiraterone for 6 months. Then re-planning and see whether LNs became smaller. Maybe HDR boost.    Patient and family agreed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-06T10:11:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  1st Zoladex 10.8mg done by CC (R)    &#45;-&gt; Next appointment: 29/11/2023.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-28T11:35:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Re-Visitation, 28.08.23 with wife  GESY, referal from Dr Kouriefs    Patient comes with histological confirmed prostate-ca    Diagnosis:  Prostate-Ca  Localization: right lobe  Histology: Invasive adenocarcinoma of the prostate  Grade:  Gleason: 7b (4+3), Grade Group: 3  Classification:  cT2b cN1 cM0  Metastases: no distant metastases but two LNs in pelvis  iPSA:  8.8 ng/ml  Prostate volume:   approx. 55 ml    Secondary Diagnoses: Prostatic hyperplase (transvesical prostatectomy &gt;3 years ago), Hypercholerstinaemia, aterial hypertonia    Previous treatment/Course of disease:  07/23 conventional staging  08/23 PSMA PET    VATS 0  Allergies no  ECOG 0  Height 173 cm  Weight 95 kg  Non smoker  Occasionally alcohol    IPSS 0  IIEF- 5: 3  ECOG and RTOG available    Proc: EBRT of prostate and pelvic lymphatics (+boost), ADT for 18 months or more, discussion Abi in Tumorbaord (big LNs)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-01T09:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visitation, 01.08.23 with wife  GESY, referal from Dr Kouriefs    Patient comes with histological confirmed prostate-ca    Diagnosis:  Prostate-Ca  Localization: right lobe  Histology: Invasive adenocarcinoma of the prostate  Grade:  Gleason: 7b (4+3), Grade Group: 3  Classification:  cT2b cN0 cM0  (unfavorable-intermediate risk,)  Metastases: none  iPSA:  8.8 ng/ml  Prostate volume:   unknown    Secondary Diagnoses: Prostatic hyperplase (TUR-P &gt;3 years ago), Hypercholerstinaemia, aterial hypertonia    Previous treatment/Course of disease:  07/23 conventional staging  08/23 PSMA PET    VATS 0  Allergies no  ECOG 0  Height 173 cm  Weight 95 kg  Non smoker  Occasionally alcohol    IPSS 0  IIEF- 5: 3  ECOG and RTOG available    Proc: PSMA-PET and MRI and then 2nd visit, patient prefers radiotherapy and already talked to Dr Kouriefs        &#45;&#45;&#45;&#45;-29/03/2023 08:36:30&#45;&#45;&#45;&#45;-  Zamboglou, Constantinos  Visitation, 29.03.23    PSA 15.02.23, 0.17 ng/ml  PSA 27.03.23, 0.15 ng/ml    Has some symptoms on the penil gland -&gt; urologic consultation recommended (wants to do them at our urology)    Oncologic procedure: GS 7a and stable PSA &lt;0.2 ng/ml, discussed with patient two options (i) very early salvage RT or wait until PSA&gt;0.2 and then sRT with PSMA-PET. Patient is not sure and wants to think about it. He is quite nervous            &#45;&#45;&#45;&#45;-22/02/2023 09:36:17&#45;&#45;&#45;&#45;-  Zamboglou, Constantinos  Consultation on 22/02/23  GESY Patient / Dr. Koursaros</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20050378</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 5</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-19T13:01:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ca Prostate   Gleason 7(4+3) For staging  with  CT CAP &amp; Bone scan  &amp; Consultation  Δόθηκε ο φάκελος στο RT</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pm Notes</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+     <RangeSelection>R10C6:R26C6</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R9C1:R26C9"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

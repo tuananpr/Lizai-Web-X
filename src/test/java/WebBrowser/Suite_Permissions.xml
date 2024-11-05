@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Permissions">
+    <test name= "CreateGroupPermissions">
+        <classes>
+            <class name="WebBrowser.Permissions_Test"/>
+            <methods>
+                <include name = "Create_GroupPermissions" priority="1" />
+                <include name = "Delete_GroupPermissions" priority="2" />
+             </methods>
+        </classes>
+    </test>
+</suite>

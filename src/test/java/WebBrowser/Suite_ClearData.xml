@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test ClearData">
+    <test name= "ClearData">
+        <classes>
+            <class name="WebBrowser.ClearData_Test"/>
+            <methods>
+                <include name = "Clear_Study" priority="1" />
+            </methods>
+        </classes>
+    </test>
+</suite>

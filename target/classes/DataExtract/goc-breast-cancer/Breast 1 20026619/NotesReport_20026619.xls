@@ -1,0 +1,391 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8295</WindowHeight>
+  <WindowWidth>16665</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R3C1:R3C4"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="50" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="3"/>
+   <Row ss:Height="20.25">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Notes Report</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-29T14:40:36.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">injected zoladex 3.6mg sc right side.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">zoladex 3.6mg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-29T13:55:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">(C50.9 - Ca Breast - χωρίς μεταστάσεις) Η ασθενής προσήλθε απύρετη, αιμοδυναμικά σταθερή, σε καλή κλινική κατάσταση για ενδοφλέβια εγχυση διφωσφονικών. Εκ του ε/ε: Cr 0.77 Ca 9.4 CrCl 84 Δόθηκαν 4 mg zometa +1g Apotel +100 mg Hydrocortisone  Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία Zometa σε 6 μήνες (για 3 χρόνια)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Zometa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-29T12:55:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Επειδή φαίνεται να υπάρχει υπολειπόμενη ωοθηκική λειτουργία, θα ξεκινήσει Zoladex για 6μηνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-23T17:14:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παρουσία αίματος από τον κόλπο. Εξετάστηκε γυναικολογικά/ πιθανότητα για έμμηνο ρύση. Ζητώ ανάλυση ορμονών/ αν πρόκειται για έμμηνο ρύση θα χορηγηθεί Zoladex.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-15T10:27:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CEA: 1,23 CA 15-3: 14,7 CA 125: 17,5</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tumor markers</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-07T14:26:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έλαβε 1 δόση Zometa που της προκάλεσε έντονη κόπωση αλλά προοδευτικά της βελτίωσε τα οστικά άλγη. Χωρίς προβλήματα από την ορμονοθεραπεία. Για αιματολογικές εξετάσεις. 22/5/24 Επόμενο ραντεβού για zometa</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-15T16:50:14.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">(C50.9 - Ca Breast - χωρίς μεταστάσεις) Η ασθενής προσήλθε απύρετη, αιμοδυναμικά σταθερή, σε καλή κλινική κατάσταση για ενδοφλέβια εγχυση διφωσφονικών. Εκ του ε/ε: Cr 0.62 Ca 9.4 CrCl 99 Δόθηκαν 4 mg zometa +1g Apotel +100 mg Hydrocortisone Εξέρχεται χωρίς άμεσες επιπλοκές. Eπόμενη θεραπεία Zometa σε 6 μήνες (για 3 χρόνια)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Zometa</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-03T11:01:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Σπινθηρογράφημα οστών: απουσία μεταστατικής νόσου, εκφυλιστικές αλλοιώσεις σε ΣΣ Τεστ οστεοπόρωσης: οστεοπενία Από αιματολογικές : χοληστερόλη 267 Υπεβλήθη σε οδοντιατική εξέταση: μπορεί να ξεκινήσει Ζometa (κάθε 6 μήνες για 3 χρόνια)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-26T13:01:10.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μαστογραφία/υπερηχογράφημα BIRADS 2. Παρουσιάζει οσφυαλγία (μετά από άρση βάρους πριν από αρκετό καιρό). Αξιολογήθηκε από ορθοπαιδικό ο οποίος ζήτησε σπινθηρογράφημα οστών.  Zητώ αναλύσεις και τεστ οστεοπόρωσης. Να δει οδοντίατρο και αν οκ να προχωρήσει με Zometa κάθε 6 μήνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-15T13:21:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Δόθηκαν οδηγίες για Βιτ D. Yπεβλήθη σε χειρ. εξαίρεση της εστίας στο μαστό: δεν αφορούσε σε κακοήθεια. Συνεχίζει ορμονοθεραπεία. Τον 9/2023: μαστογραφία και υπερηχογράφημα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-22T16:56:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αυξημένη χοληστερόλη και τριγλυκερίδια Βιτ D 15,4</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αναλύσεις</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-16T11:39:51.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τα συμπτώματα που οφείλονται στο Letrozole έχουν βελτιωθεί. Το MRI μαστών ανέδειξε την εστία σε 11-12η ώρα να έχει αυξηθεί κατά 2 χιλ. και να παρουσιάζει αύξηση της κυτταροβριθειας BIRADS 4. Συνεστήθη βιοψία (core ή ανοικτή).  Η ασθενής ζήτησε να αξιολογηθεί από το χειρουργό της.  Για αναλύσεις και ραντεβού σε 3 μήνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-11T13:31:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μετά την έναρξη του Letrozole  παρουσίαζει εξάψεις, κεφαλαλγία, υπέρταση και δυσφορία και πόνο στο αυχένα και γόνατα. Αναφέρει επίσης αφρίζοντα ούρα.  Θα ζητηθεί γενική ούρων, έλεγχος ορμονών και θα ξεκινήσει αντιυπερτασική αγωγή. Θα επαναξιολογηθεί μετά τη ρύθμιση της αρτ. πίεσης.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-25T13:32:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Υπεβλήθη σε απόξεση λόγω πάχυνσης ενδομητρίου. Θα διακόψει το Nolvadex και θα πάρει Letrozole. Δεν παρουσιάζει έμμηνο ρύση από τον προηγούμενο Φεβρουάριο (φαίνεται ότι έχει ήδη μπει σε εμμηνόπαυση). Θα γίνει έλεγχος ορμονών και αν είναι σε επίπεδα εμμηνόπαυσης θα ενημερωθεί γαι την έναρξη του Letrozole.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-09-15T13:40:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MRI μαστών: ινοαδενώματα BIRADS 3.  Συστήνεται έλεγχος σε 6 μήνες.  Σε 3 μήνες στο ιατρείο (να ζητηθεί το ΜRI).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-18T13:31:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Stylianou,Maria  Follow up examination on 18/07/22, 1 month after RT    Patient in good condition. Has no complains.  ECOG 0, VAS 0  QoL: FS: 100%, SS: 100%, GHS: 83%    Examination:  Intact skin, no palpable axillar LNs  She continues with moisturising cream.    ADT with Nolvadex , pat. reports hot flashes  Follow-up: Dr Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-18T12:45:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Λαμβάνει το Nolvadex εδώ και 1 μήνα χωρίς παρενέργειες. Αναφέρει εξάψεις αλλά όχι τόσο έντονες που να χρειάζεται αγωγή. Θα υποβληθεί σε μαστογραφία/υπερηχογράφημα και αναλύσεις και θα επαναξιολογηθεί τον Οκτώβριο 2022.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-21T10:08:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Last fraction on 21/06/22    Patient in good condition. Has no complains.  ECOG 0, VAS 0    Examination:  Radiodermatitis grade I    Medication: not changed since beginning    Letter to Dr Orphanos  Follow up Dr Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-20T14:13:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ολοκληρώνει ακτινοθεραπεία χωρίς σοβαρή τοξικότητα (ερεθισμός δέρματος μασχάλης). Μέχρι την έναρξη της χημειοθεραπείας διεκόπη η έμμηνος ρύση. Μάλλον δεν θα επανέλθει. Θα ξεκινήσει με Nolvadex για 1-2 χρόνια και μετά θα αλλάξει σε Letrozole.  Θα προγραμματιστεί για μαστογαφία και υπερηχογράφημα για 9/2022. Περιφερική νευροπάθεια βελτιωμένη. Παρουσιάζει εξάψεις.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-10T09:48:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Cloconi,Constantina  Skin care counseling done. No side effects.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-01T13:04:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Derived mean after 5 CBCTs: Inf: 0, Left: 0,5cm, Post: 0,4cm. Verify and if &lt;0,5cm continue with 2 CBCTs per week.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-24T14:33:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  First fraction consultation    Very good matching. Skin care instructions. All questions were answered.  Continue with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-13T13:44:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Stylianou,Maria  Consultation on 13/05/22  GESY Patient / Referral from Dr. Orphanos    Diagnosis: Breast Ca Initial diagnosis: 03/2020  Localization: right breast at  1-2 o'clock position  Histology: invasive ductal Ca, G III with in DCIS grade II  Classification: pT1c pN0 (0/1 sn) cM0 L1 V0 Pn0 R0 G3  Metastases: none  IHC:  ER pos. (H score: 230), PR: pos. (H score: 230 ), Her2/neu: neg., ki-67: 32-34%  Menop. status: perimenopausal    Secondary Diagnoses:  None    Previous treatment/Course of disease:  09/21  US and mammography:Suspicious lesion of the right breast  10/21  Core biopsy from suspicious lesion at 1 o` clock position of the right breast  10/21  Wide excision right breast and right  sentinel node lymphadenectomy  11/21  Endopredict test: EPclin class: High Risk  11/21-03/22 Adjuvant CTx with 4 x  AC and 12 x Paclitaxel weekly      Family history:  Paternal grandmother: Melanoma and Bladder Ca  Father: CLL    Treatment concept:  Adjuvant radiation therapy of the right  breast plus boost (15 x 2.8Gy ad 42 Gy + 10Gy Boost)    Clinical examination:  160cm , 74 Kg,QoL: FS:98%, SS: 96%, GHS: 100%. ECOG 0, VAS 0    Medication:  None    Tumorboard:  19/05/22    Pending issues:  TB  P-CT on 18/05/22    1st follow-up:  Follow up by Dr. Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-04-27T09:43:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ολοκληρωσε χημειοθεραπεία 30/3/2022. Δεν έλαβε την τελευταία θεραπεία με Taxol λόγω κόπωσης και νευροπάθειας. Στη συνέχεια νόσησε με Covid 19. Τώρα αισθάνεται καλύτερα. Παραπέμπεται για ακτινοθεραπεία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-31T14:58:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4 Day 8 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Aναφέρει μυαλγίες μετά την θεραπεία κατά τις βραδινές ώρες, που υφίονται με παυσίπονα.  Παρατήρησε βελτίωση της περιφερικής νευροπάθειας. Έλαβε 2 Dexamethasone 4mg  την προηγούμενη της θεραπείας, λόγω προηγούμενης αλλεργικής αντίδρασης. Εκ του ε/ε: Hgb 12.7 WBC 3.59 #NEU 2.37 PLT 275 Ur 48 Cr 0.73 Δόθηκε θεραπευτικό πλάνο Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-24T19:01:10.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4 Day 1 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Aναφέρει μυαλγίες μετά την θεραπεία κατά τις βραδινές ώρες, που υφίονται με παυσίπονα. Το μούδιασμα των άνω και κάτω άκρων παραμένει, βελτιωμένο στα κάτω άκρα. Εκ του ε/ε: Hgb 12.1 WBC 2.8 #NEU 1.83 PLT 277  Χορηγήθηκαν 250ml N/S 0.9% και 8mmol MgSO4 Δόθηκε θεραπευτικό πλάνο Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.  Σε περίπτωση επιδείνωσης περιφερικής νευροπάθειας διακοπή χημειοθεραπείας</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-17T11:17:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3 Day 15 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Aναφέρει μυαλγίες μετά την θεραπεία κατά τις βραδινές ώρες, που υφίονται με παυσίπονα.  Το μούδιασμα των άνω και κάτω άκρων παραμένει, ως εκ τούτου συνταγογραφήθηκε Pyridoxine 100mg 1-0-0.  Εκ του ε/ε: Hgb 12.4 WBC 3.06 #NEU 1.83 PLT 283 Cr 0.77  Λόγω προηγούμενης αντίδρασης στο φάρμακο, λήψη 2x Dexamethasone 4mg την προηγούμενη μέρα της θεραπείας.  Την μέρα της θεραπείας δεν δόθηκε Hydrocortisone, ενώ η ασθενής δεν εμφάνισε κάποια αντίδραση κατά την χορήγηση της θεραπείας. Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-10T11:14:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3 Day 8 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Aναφέρει μυαλγίες στις κνήμες μετά την θεραπεία που υφίονται με παυσίπονα, και ερυθρότητα στις παρειές παροδικά Εκ του ε/ε: Hgb 9,7 WBC 3.13 #NEU 2.05 PLT 283 Cr 0.72 CRP 17.4 Λόγω προηγούμενης αντίδρασης στο φάρμακο δόθηκαν προληπτικά 200mg hydrocortisone πριν τη θεραπεία και 200mg σε 100 ml Ν/S 0.9% παράλληλα με τη θεραπεία. Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-03T09:49:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3 Day 1 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Αναφέρει 5 επεισόδια διαρροιών προ 4ημέρου για τα οποία γινόταν και χρήση αντιαδιαρροικών. Τα συμπτώματα υφέθηκαν την επόμενη μέρα με απουσία κενώσεων. Η επόμενη φυσιολογική κένωση έγινε προ δύο ημερών. Λόγω προηγούμενης αντίδρασης στο φάρμακο δόθηκαν προληπτικά 200mg hydrocortisone πριν τη θεραπεία και 200mg σε 100 ml παράλληλα με τη θεραπεία. Εκ του ε/ε: Hgb 11,1 WBC 2.73 #NEU 1.88 PLT 301 Cr 0.72 Ur53 Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-24T09:04:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2 Day 15 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας, καλύτερος ύπνος, αυξημένη όρεξη για ζάχαρη, μειωμένα επεισόδια διαρροιών. Αναφέρει πόνο εντοπιζόμενο στη πρόσθια επιφάνια των κνημών από 3ημέρου με διάρκεια 2 ημερών ο οποίος παρουσιαζόταν κατά τη διάρκεια της νύχτας.  Λόγω προηγούμενης αντίδρασης στο φάρμακο δόθηκαν προληπτικά 200mg hydrocortisone πριν τη θεραπεία και 200mg σε 250 ml παραλληλα με τη θεραπεία. Εκ του ε/ε: Hgb 12,0 WBC 4,52 #NEU 3,65 PLT 292 Cr 1,00  Ur 41 Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-17T08:51:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2 Day 8 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. αναφέρει μειωμένα επεισόδια διαρροιών και καλύτερος ύπνος μετά από σκεύασμα γραμμένο από τον προσωπικό της ιατρό. Λόγω προηγούμενης αντίδρασης στο φάρμακο δόθηκαν προληπτικά 200mg hydrocortisone πριν τη θεραπεία και 200mg σε 100 ml παραλληλα με τη θεραπεία. Εκ του ε/ε: Hgb 11,1 WBC 4,08 #NEU 3.18 PLT 278 Cr 0.76 Ur42 Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-10T15:08:53.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2 Day 1 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Η ασθενής αναφέρει διαρροικές κενώσεις μετά τη θεραπεία για τις οποιες λαμβάνει Vacontil.  Δόθηκε προετοιμασία με Hydrocortisone 200mg πριν την έγχυση του Paclitaxel. Στα 13,5ml Paclitaxel η ασθενής παρουσίασε δύσπνοια, ήπιο οίδημα στα χείλη και ερυθρότητα στα μάγουλα. Διακοπή θεραπείας. Δόθηκε Hydrocortisone 200mg , Pantoprazole 40mg, ρινικό οξυγόνο. ΑΠ 150/80 Π113 Θ 37,5 SPO2 97%. Ακροαστικά χωρίς συρριγμό ή βρογχόσπασμο. Ύφεση συμπτωματολογίας, απύρετη αιμοδυναμικά σταθερή συνέχεια θεραπείας με παράλληλη έγχυση Hydrocortisone 200mg IV (σε 100ml N/S 0,9%) Εκ του ε/ε: Hgb 11.2 WBC 5.57 #NEU 4.24 PLT 308 Cr 0.81 liver ok CRP 60 Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-03T11:09:32.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 Day 15 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Aναφέρει προ ημερών παρουσία εμμήνου ρύσεως. Λόγω προηγούμενης αντίδρασης στο φάρμακο δόθηκαν προληπτικά 100mg hydrocortisone.  Εκ του ε/ε: Hgb 11.5 WBC 6.91 #NEU 5.28 PLT 378 Cr 0.84 liver ok  Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΧΗΜΕΙΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-02T16:24:10.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient was referred to join the group exercise rehabilitation program.  Patient reported having high BP, her GP said that she should wait until treatments are done to see if she will start any BP medication. Patient's resting HR has also been high. Patient mentioned having stress and living a sedentary life.   Patient complained of some discomfort in lower back and legs since the beginning of treatments, she has lost some weight but she is eating well and doing healthy choices. She also mentioned having hot flushes.   Patient reported walking 2-3 times per week for 15-20 minutes, and doing some free-weights at home.  BP: 132/86 mmHg HR: 112 bpm SpO2: 96% EF: 66% (echo)   Patient will join the program at the end of February.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Clinical Exercise Rehabilitation</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-27T15:26:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 Day 8 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Κατά την έγχυση του Paclitaxel παρουσίασε μούδιασμα στα χείλη και δύσπνοια (βάρος στο στήθος). ΑΠ: 163/99, Σ: 110, Θ: 36.3 SpO2: 97%. Έγινε διακοπή του Paclitaxel, χορηγήθηκαν 200mg Hydrocortisone. Ύφεση συμπτωματολογίας, επανέλεγχος ΑΠ 138/81 και συνέχιση του Paclitaxel. Εκ του ε/ε HGB 10,9 WBC 6,79 #NEUT 5,54 PLT 431 Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-27T08:37:32.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 Day 8 Paclitaxel + Β12 Ασθενής σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας. Aιμοδυναμικά AΠ 130/69 mmHg Εκ του ε/ε HGB 10.9 WBC 6.79 #NEU 5.54 PLT 431 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-20T11:41:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 Day 1 Paclitaxel + Β12  Ασθενής σε καλή κλινική κατάσταση. Ύφεση βήχα, περιστασιακά παρουσία απόχρεμψης. Βελτίωση αδυναμίας και διαρροικών κενώσεων. ΑΨ ήπια μείωση αρ βάσης. Aιμοδυναμικά AΠ 170/100 mmHg , δόθηκαν 5mg amlodipine με βελτίωση ΑΠ (145/91 mmHg)  Εκ του ε/ε HGB 11.1 WBC 7.17 #NEU 5.61 PLT 194 CRP 28.9 liver ok  Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 1 εβδομάδα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Χημειοθεραπεία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-12T16:18:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Eκ του ε/ε WBC 1.44, #Neut 0.83, CRP 28 Έχει ακόμα 3 ενέσεις G-CSF βάση πλάνου.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">blood test</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-10T11:17:07.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία. Η ασθενής αναφέρει διαρροικές κενώσεις η οποίες ξεκίνησαν την Κυριακή (4 συνολικά). Έλαβε vacontil και σήμερα δεν έχει διαρροικές κενώσεις. Επίσης αναφέρει νυκτερινή εφίδρωση. Δόθηκαν οδηγιές για διατροφή, λήψη ηλεκτρολυτών και σε περίπτωση πυρετού να επικοινωνήσει ξάνα με το κέντρο. Επόμενος ε/ε 12/01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phone Communication</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-05T16:03:14.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4 Day 1 AC Ασθενής σε καλή κλινική κατάσταση. PCR αρνητικό, Rapid test αρνητικό. Υποχώρηση διαρροικών κενώσεων. Εκ της κλινικής εξέτασης όλα φυσιολογικά.  Εκ του ε/ε HGB 12.4 WBC 11,2 #NEUT 9,10 PLT 196 Cr 0,85 Κ 3,4 CRP 79.9 Δόθηκε θεραπευτικό πλάνο και 7 GCSF 0,3 (D4-D10) Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες Επόμενος ε/ε 12/01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-03T15:37:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία. Η ασθενής αναφέρει διαρροικές κενώσεις απο 2ημέρου (15 τη μερα). Οδηγίες για διατροφή, λήψη ηλεκτρολυτών και vacontil Οδηγίες για διενέργεια PCR</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">phone communication</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-03T10:37:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient reports cough and diarrhea. PCR test is recommended.  She spoke with Dr Anastasiou for medicines.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Side effects</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-23T16:04:56.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#3 Day 1 AC Ασθενής σε καλή κλινική κατάσταση. Συμπτωματολογία ως είχε. Εκ του ε/ε HGB 13.6 WBC 9,16 #NEUT 6,56 PLT 221 Cr 0,77 Δόθηκε θεραπευτικό πλάνο και 7 GCSF 0,3 (D4-D10) Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-09T11:59:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#2 Day 1 AC Ασθενής σε καλή κλινική κατάσταση. Παρουσιάζει οστικά άλγη όταν λαμβλανει τις ενέσεις  Εκ του ε/ε HGB 14.4 WBC 6,16 #NEUT 3,57 PLT 162 Cr 0,8 Οδηγίες για λήψη παρακεταμόλης επί πόνου Δόθηκε θεραπευτικό πλάνο και 7 GCSF 0,3 (D4-D10) Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">χημειοθεραπεια</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-25T10:54:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#1 Day 1 AC Ασθενής προσήλθε για την 1η θεραπεία σε καλή κλινική κατάσταση. Εκ του ε/ε HGB 14.7 WBC 7.87 #NEUT 4.8 PLT 179 CRP 20.4 Cr 0,78 Δόθηκε θεραπευτικό πλάνο και 7 GCSF 0,3 (D4-D10) Εξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 2 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-17T12:28:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">To endopredict ανέδειξε ότι πρόκειται για νόσο υψηλού ρίσκου (EPclin High risk) και όφελος από τη χημειοθεραπεία 7%. Ως εκ τούτου συστήνεται η χορήγηση επικουρικής χημειοθεραπείας.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20026619</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-10T10:04:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Σε μαστογραφικό έλεγχο ρουτίνας διαπιστώθηκε σκίαση στο δ. μαστό. Μετά από διερεύνηση επιβεβαιώθηκε η παρουσία κακοήθειας και η ασθενής υπεβλήθη σε χειρουργική επέμβαση στις 21/10/2021- ευρεία εκτομή και αφαίρεση φρουρού λεμφαδένα. Πορογενές διηθητικό αδενοκαρκίνωμα pT1c(1,1cm),pN0(sn) G3, L1,V0,Pn0,MX, R0 ER 230/300, PR 230/300, HER-2 neg, Ki 67: 32-34%. Θα παραπεμφθεί για εξέταση Endopredict.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1η επίσκεψη-αξιολόγηση</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>3</ActiveRow>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R3C1:R50C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test PatientDataRepositories">
+    <test name= "CreateCloneData">
+        <classes>
+            <class name="WebBrowser.PatientRepositories_Test"/>
+            <methods>
+                <include name = "Create_CloneData_1Patient" priority="1" />
+            </methods>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test XT">
+    <test name= "CreateNewTask">
+        <classes>
+            <class name="WebBrowser.XT_Test"/>
+            <methods>
+                <include name = "Create_NewTask_Upload_Prostate_Cancer" priority="5" />
+                <include name = "Create_NewTask_Upload_Breast_Cancer" priority="6" />
+                <include name = "Create_NewTask_Upload_Lung_Cancer" priority="7" />
+                <include name = "Create_NewTask_Upload_HeadNeck_Cancer" priority="8" />
+            </methods>
+        </classes>
+    </test>
+
+
+<!--    <test name= "CreateNewTask">-->
+<!--        <classes>-->
+<!--            <class name="WebBrowser.XT_Test"/>-->
+<!--            <methods>-->
+<!--                <include name = "Create_NewTask_Upload_DataImage" priority="9" />-->
+<!--            </methods>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

@@ -1,0 +1,3 @@
+-Denv=demo
+-Dselenium=chrome,en,false
+-Dappium=android,Galaxy-S6,7.0,02157df2a156c408,none -Ddebug=true

@@ -1,0 +1,873 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>8010</WindowHeight>
+  <WindowWidth>21570</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat ss:Format="Standard"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat ss:Format="Standard"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat ss:Format="Standard"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Bottom"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="3"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat ss:Format="Standard"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Table ss:ExpandedColumnCount="3" ss:ExpandedRowCount="151" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="2"/>
+   <Row ss:Height="20.25">
+    <Cell ss:StyleID="s71"><Data ss:Type="String">SALES BY PERIOD FOR PATIENT </Data></Cell>
+    <Cell ss:StyleID="s71"/>
+    <Cell ss:StyleID="s71"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Service Group</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Quantity</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-08</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1975-2 Total Bilirubin</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-497</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">2339-0 Glucose FASTING [Mass/volume] in Blood in Serum or Plasma</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-549</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">33762-6 Natriuretic peptide B prohormone N-Terminal [Mass/volume] in Serum or Plasma (NT-pro BNP)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-46</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">36415 - Collection of venous blood by venipuncture</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">6768-6 ALP (Alkaline Phosphatase)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-64</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">96365 Intravenous infusion, for therapy,prophylaxis,diagnosis (specify substance or drug),1st up to1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-70</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">96366 Intravenous infusion, for therapy,prophylaxis,diagnosis (specify substance or drug), each addi</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OUTP-23</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">99203 New patient office or other outpatient visit, typically 30 minutes</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OUTP-25</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">99205 New patient office or other outpatient visit, typically 60 minutes</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OUTP-29</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">99215 Established patient office or other outpatient, visit typically 40 minutes (follow up)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-1</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Albumin</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-304</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bilirubin Conjugated (Bc)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATHAN-10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Biopsy level ΙV</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-20</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Calcium (Ca)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-56</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CD Import to pacs</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CLR</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Clear Invoice charges</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-91</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Covid test (free)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-317</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CPK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-440</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Creatine kinase.MB (CK-MB) (GESY 32673-6)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-33</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Creatinine</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-34</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CRP</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CTS-149</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT BRAIN-NECK-CHEST-ABDOMEN-PELVIS IV CONTRAST</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CTS-10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT CHEST</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CTS-64</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT GUIDED NECK BIOPSY</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">DRG-2240</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">D60C Κακοήθη νεοπλάσματα ωτός, ρινός, στόματος και τραχήλου, μία συμπληρωμένη ημέρα νοσηλείας ή χω</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ACC-B</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Double room / day</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-8</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ECG</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CARDIO-01</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Echocardiography, transthoracic and ECG</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">GAST-06</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Esophagogastroduodenoscopy with removal of foreign body(s)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ANES-14</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Facility fee ˃ 30 min</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-39</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">FBC (Full Blood Count)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-48</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">fT4 (Free Thyroxin)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-50</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">GGT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATHAN-21</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunofluorescence 1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATHAN-18</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunohistochemistry 1</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATHAN-19</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunohistochemistry 2</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATHAN-20</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunohistochemistry 3</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ANES-10</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Intravenous infusion, for therapy, prophylaxis, or diagnosis; initial, up to 1 hour</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-64</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LDH</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-65</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Magnesium (Mg)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MRIS-38</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MRI NECK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CTS-59</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Oral computed tomography contrast agent</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PULMO-26</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Oxymetry</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-98</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient’s food – Overnight</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">GAST-44</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Percutaneous endoscopic gastrostomy (PEG)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NUCS-9</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PET/CT F18-FDG (incl. CT for AC)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">RTS-12</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Plan for IMRT VMAT Stereotactic Radiotherapy</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">RTS-13</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Planning CT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-72</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Potassium (K)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDSRVS-73</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Prescription fees - Pharmacy</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-79</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-83</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SGOT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-84</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SGPT</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-85</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sodium (Na)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PULMO-18</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spirometry</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PULMO-19</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spirometry pre and post-bronchodilator</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-96</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Troponine T</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-97</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TSH</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LAB-102</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Urea</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">USS-94</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">US GUIDED BIOPSY SOFT TISSUE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">XRAY-2</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">X-RAY CHEST 2 VIEWS</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CHEMOS-38</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZF-002 Injection and Infusion Services (Zomeda, etc)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CHEMOS-35</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZF-003 Intravenous/Intra-arterial infusion</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CHEMOS-39</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZF-008 Chemotherapy Reconstitution per drug</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">29</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">RTS-28</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZF-019 VMAT/IMRT 2 dose levels</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TOTALS</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">268</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Medicines/Consumables</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Quantity</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200572</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3-WAY STOPCOCK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300053</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Atropine 1mg/ml amp (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L301030</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Clonidine 150mcg (tab)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300166</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dexamethasone 4mg/ml 2ml amp (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300174</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Diazepam 10mg/2ml amp (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L201005</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">DISPOSABLE SUCTION LINER 1L</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200673</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ECG ELECTRODE PADS - 2560</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L201300</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ENDOTRACHEAL TUBE SIZE 6.5 CUFFED</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L301077</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ephedrine 10mg/ml, 5ml (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300216</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ephedrine HCL 3% w/v 1ml amp  (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300241</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Fentanyl AMP 100mcg/2ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200250</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Filter for Anaesthetic Machine</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200248</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Flexible catheter mount double swivel  22F</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300293</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gadovist 7 5ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300302</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Glucose IV 5%  250ml colla (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300303</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Glucose IV 5% inf  colla 100ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300304</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Glucose IV 5% inf  colla 500ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300360</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ipratropium neb 250mcg/1ml  (Ea)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200573</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">IV ADMINISTRATION SET (BASIC)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200562</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">IV CANNULA G18</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200582</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">IV DRESSING FILM W/PAD 8.50CMX7CM</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300369</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ketamine 500mg vial (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300390</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lignocaine HCl local anaesth 1% vial (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300391</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lignocaine Spray 10% (Ea)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300404</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Magnesium Sulphate 50% 10ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300405</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Magnesium Sulphate iv inj 20% 20ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300406</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MaGOC mouthwash (Ea)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300407</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Mannitol iv plastic 500ml 20% (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300436</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Midazolam sol. for injection 5mg/ml vial (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200575</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MINI-SPIKE V CHEMO</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200739</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MISSION DISP. CORE BPSY KIT 18GX10CM - 1810MSK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300455</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">N/S 0 9% 1000ml Plastic/2outlet (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300456</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">N/S 0 9% 500ml COLLA. (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300458</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">N/S 0.9% 1000ml  COLLA (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300459</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">N/S 0.9% 250ml COLLA. (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300461</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">N/S 100ml   COLLA (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300463</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Naloxone HCl 0 4mg/ml vial (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200529</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NASOPHARYNGEAL AIRWAY CH28</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200593</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NELATON CATHETER CH14</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300498</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ondansetron 4mg/2ml amp (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300500</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ondansetron 8mg/4ml amp (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200571</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ORIGINAL PERFUSOR LINE (TUBING)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200238</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Oxygen mask adult with tube 1.8m</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200589</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">OXYGEN NASAL CANNULA</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300520</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pantoprazole 40mg tab (Tab)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300522</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Paracetamol 10mg/ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300535</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Phenylephrine Hydrochloride 10mg inj (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300544</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Potassium Chloride IV inf 10% 10ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300739</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Propofol 1%, 50ml (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300565</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Propofol inj 1000mg/50ml vial 2% 50ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300566</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Propofol inj 200mg/20ml vial 1% 20ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300586</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Rocuronium Bromide inj 50mg/ml vial (Esmeron) (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300596</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sevoflurane Inhulation Vapour 250ml (50ml/h)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L301057</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sodium Lactate Ringer 500ml colla (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200587</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SUCTION CONNECTOR FINGERTIP CONTROL</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L202136</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SUCTION TUBE MACRO 20FR - 10061</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L301063</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sufentanyl 5mcg/ml</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300627</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Suxamethonium sol for inj 50mg/ml  (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200544</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SYRINGE 10ML W/NEEDLE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200545</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SYRINGE 20ML W/NEEDLE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200542</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SYRINGE 2ML W/NEEDLE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200552</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SYRINGE 50ML LUER LOCK</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200543</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SYRINGE 5ML W/NEEDLE</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L200156</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">THREE WAY STOPCOCK W/TUBE 25CM (CONNECTA 3-WAY)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300748</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ultravist 300, 100ml (EA)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">L300689</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Water for injection 10ml (Vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300175</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000557 Dexamethasone 4mg (tab)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">84</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000603 Carboplatin 450mg (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300026</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000643 Cisplatin 10mg (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300027</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000707 Cisplatin 50mg (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300052</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000752 Gemcitabine 1000mg (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300053</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000753 Gemcitabine 200mg (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300017</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-1000838 Carboplatin 150mg (vial)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300132</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-C03262A/1 Aprepitant 125mg +80mg (tab)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300221</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-C946002/1 Filgrastim 30MU (INJ)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Z300222</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ZD-C946004/1 Filgrastim 48MU (INJ)</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">29</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">TOTALS</Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="Number">426</Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">GRAND TOTALS</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="Number">694</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s68"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="15.75">
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="15.75"/>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <TopRowVisible>131</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>3</ActiveCol>
+     <RangeSelection>C4:C9</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

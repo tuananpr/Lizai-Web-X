@@ -1,0 +1,202 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12285</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R3C1:R3C4"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="3"/>
+   <Row ss:Height="20.25">
+    <Cell ss:MergeAcross="3" ss:StyleID="s63"><Data ss:Type="String">Notes Report</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-27T10:30:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Christodoulou,Artemi  Follow up examination on 27/03/2024, 6 months after treatment.    ECOG 0, VAS 0  IPSS: 1, QoL: 0  IIEF-5: 16  EPIC-CP: 3    Examination:  Patient is in excellent shape and very active. No pain and no B symptoms.    GU and GI function as before RT: both grade 0    PSA: 0.08ng/ml    Follow up in 6 mo with PSA in 3m and 6mo.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-22T08:52:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSA 0.08 ng/mL TESTO 10.06 nmol/L</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lab Results</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-06T11:24:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  1st FU 06.12.23 with wife    Patient is in excellent shape and very active. No pain and no B symptoms.    GU and GI function as before RT: both grade 0  IPSS 1  IIEF-5: 14    No ADT    PSA, 12/23: 0.2 ng/ml with normal Testo    Discussion with patient why PSA is not 0.    FU in 3 months with PSA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-22T08:50:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Last fraction on 22/09/23    Patient in good condition. Has no complaints.  ECOG 0, VAS 0    Side effects:  no GU/GI symptoms    Medication: not changed since beginning    Letter to whom it may concern  Follow up in GOC RT in 3 months with PSA, testo, blood test</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-31T17:36:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Derived mean after 5 CBCTs:  Sup: 0.3cm, Left: 0.2cm, Post: 0.3cm  Verify and if &lt;0.5cm continue with 3 CBCTs per week.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-25T12:57:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  First fraction consultation.    EBRT prostate bed    Very good matching, all questions were answered.    Proceed with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-08T09:47:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  PSMA-PET, 08/23: suspect for local recurrence, no LNs and no distant mets    Proc: salvage RT (without ADT), try to boost PET positive lesion  Pending: tumorboaord    Thorough discussiom with patient regarding alternatives (wait and PSA test vs EBRT vs EBRT + ADT). PAtients wants EBRT without ADT and signed written informed consent.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-08T08:23:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">- Suspect local focal in the prostatic bed - cNo and cM0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSMA-PET, 09/23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-12T08:41:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visitation, 12.07.23    Diagnosis:  Prostate-Ca  Localization: right lobe  Histology: Invasive adenocarcinoma of the prostate  Grade:  Gleason: 7a (3+4), Grade Group: 2  Classification:  pT3a cN0 cM0  (favorable-intermediate risk, no lymphonodectomy)  Metastases: none  iPSA:  unknwon  Prostate volume:   unknown    Secondary Diagnoses: blood pressure, hypercholesterinaemia    Previous treatment/Course of disease:  11/21 biopsy prostate  01/22 robotic prostatectomy  11/22 0.107 ng/ml  01/23 0.14 ng/ml  02/23 0.17 ng/ml  03/23 0.15 ng/ml  07/23 0.29 ng/ml    Proc: PSMA-PET/CT and re-visit, patients wants to go to holidays in August and wants to make eye surgery in beginning of September, possible solution: beginn ADT neoadjuvant to sRT in the beginning of August</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-26T08:42:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Visitation, 26.04.23  PSA 15.02.23, 0.17 ng/ml PSA 27.03.23, 0.15 ng/ml PSA 25.04.23, 0.16 ng/ml (Testo 9.83)  Has problems with eyes. Saw Prof from India. Had urology consultation.  Oncologic procedure: PSA testing every month (patient is nervous)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Visitation, 26.04.23</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-03T12:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Aσθενής με ιστορικό Ρομποτικής Ριζικής προστατεκτομής προ 15μήνου Χωρίς προβλήματα εκ του χειρουργείου PSA o.16ng/ml</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">DR ADAMOU NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-29T08:36:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visitation, 29.03.23    PSA 15.02.23, 0.17 ng/ml  PSA 27.03.23, 0.15 ng/ml    Has some symptoms on the penil gland -&gt; urologic consultation recommended (wants to do them at our urology)    Oncologic procedure: GS 7a and stable PSA &lt;0.2 ng/ml, discussed with patient two options (i) very early salvage RT or wait until PSA&gt;0.2 and then sRT with PSMA-PET. Patient is not sure and wants to think about it. He is quite nervous</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-29T08:27:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visitation    PSA 15.02.23, 0.17 ng/ml  PSA 27.03.23, 0.15 ng/ml    Has some symptoms on the penil gland -&gt; urologic consultation recommended</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-22T09:36:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Consultation on 22/02/23  GESY Patient / Dr. Koursaros    Diagnosis:  Prostate-Ca  Localization: right lobe  Histology: Invasive adenocarcinoma of the prostate  Grade:  Gleason: 7a (3+4), Grade Group: 2  Classification:  pT3a cN0 cM0  (favorable-intermediate risk, no lymphonodectomy)  Metastases: none  iPSA:  unknwon  Prostate volume:   unknown    Secondary Diagnoses: blood pressure, hypercholesterinaemia    Previous treatment/Course of disease:  11/21 biopsy prostate  01/22 robotic prostatectomy  11/22 0.107 ng/ml  01/23 1.44 ng/ml  02/23 1.7 ng/ml    Family history: no PCa, mother and sister breast-Ca    Treatment concept: wait until PSA&gt;0.2 ng/ml -&gt; PSMA PET and salvage RT +/- ADT (in dependency on PET)    Clinical examination:  ECOG 0, VAS 3 (knee),  IPPS Score: 2, QoL: 14  IIEF-5: 15  EPIC-CP: 1    Medication: Micardis, Celmantin    Tumorboard: wait until PSA&gt;0.2 ng/ml    Pending issues: re-consultation in beginning of April</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-06T12:40:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε προγραμματισμένα για βιοψία προστάτη. Απύρετος, αιμοδυναμικά σταθερός, χωρίς ευρήματα απο κλινική εξέταση. Εξέρχεται χωρίς επιπλοκές με οδηγίες με ciproxin 500mg 1-0-1 και pantoprazole 40mg 1-0-0 για 5 ημέρες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">εισαγωγή 05/11/21-06/11/21</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20024514</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-01T09:20:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Can be planned for Biopsy prostate &gt;4 MET, art. hypertension, hypercholesterinaemia No allergies</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Preanesthetic control</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>1</ActiveRow>
+     <RangeSelection>R2:R7</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R3C1:R19C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

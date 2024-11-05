@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test LizAI"  >
+    <suite-files>
+        <suite-file path="Suite_SignIn.xml" />
+        <suite-file path="Suite_ConnectionConfig.xml"/>
+        <suite-file path="Suite_PatientRepositories.xml" />
+        <suite-file path="Suite_DataRepositories.xml" />
+        <suite-file path="Suite_Atlantis.xml" />
+        <suite-file path="Suite_XT.xml" />
+    </suite-files>
+</suite>

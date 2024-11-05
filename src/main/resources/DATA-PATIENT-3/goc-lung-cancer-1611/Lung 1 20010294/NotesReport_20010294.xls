@@ -1,0 +1,807 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12285</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Aptos Narrow" x:Family="Swiss" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R3C1:R3C4"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="4" ss:ExpandedRowCount="119" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="1"/>
+   <Column ss:Index="3" ss:Width="1342.5"/>
+   <Column ss:Width="99.75"/>
+   <Row ss:Height="20.25">
+    <Cell ss:StyleID="s68"><Data ss:Type="String">Notes Report</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-06-17T16:02:24.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αξονική τομογραφία ανέδειξε σταθερή νόσο. Συνεχίζει με την ίδια θεραπεία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-29T14:59:34.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#74 Day 1 Pembrolizumab - Pemetrexed Ca lung)  Ασθενής προσήλθε σε καλή κλινική κατάσταση, αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hb: 12.5 WBC 7.3 #NEUT: 5.66 PLT: 374 Cr: 0.78 Ur 29 TSH 1.87 fT4 1.1 CORT 11.2 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-05-08T17:51:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#73 Day 1 Pembrolizumab - Pemetrexed Ca lung) +Β12 Ασθενής προσήλθε σε καλή κλινική κατάσταση, αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hb: 13.4 WBC 5.83 #NEUT: 4.48 PLT: 380 Cr: 0.72 Ur 33 TSH 1.45 fT4 1.2 CORT 17.5 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. (Επόμενη Β12 σε 9 εβδομάδες.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-19T09:32:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για συνέχιση αγωγής με PEMBROLIZUMAB + PEMETREXED</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-16T15:01:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#72 Day 1 Pembrolizumab - Pemetrexed Ca lung) Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.2 WBC 6.28 #NEUT: 4.47 PLT: 297 Cr: 0.79 Ur 38 θύρεο κφ. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. (Επόμενη Β12 σε 3 εβδομάδες.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-16T14:14:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στον ΟΑΥ για PEMETREXED.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-02T12:38:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για συνέχιση αγωγής με το φάρμακο PEMETREXED - DR.ORPHANOS</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-27T14:54:01.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#71 Day 1 Pembrolizumab  (Ca lung)  ΔΕΝ ΔΟΘΗΚΕ PEMETREXED ΛΟΓΩ ΑΠΟΥΣΙΑΣ ΕΓΚΡΙΣΗΣ Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.3 WBC 8.14 #NEUT: 6.35 PLT: 399 Cr: 0.77 Ur 37 TSH 2.73 fT4 1.2 Cort 7 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. (Επόμενη Β12 σε 6 εβδομάδες.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-05T14:08:18.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#70 Day 1 Pembrolizumab - Pemetrexed Ca lung) + B12 1000mcg Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 13 WBC 7.26 #NEUT: 5.43 PLT: 394 Cr: 0.79 Ur 36 TSH 2.94 fT4 1.2 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. (Επόμενη Β12 σε 9 εβδομάδες.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy/Immunotherapy + B12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-21T16:28:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CT B-CAP μικρή μείωση της πλευριτικής συλλογής και των πυκνοατελακτικών αλλοιώσεων στη δ. πύλη. Λοιπά χωρίς μεταβολή. Συνεχίζει με την ίδια θεραπεία.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-13T16:30:59.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#69 Day 1 Pembrolizumab - Pemetrexed Ca lung) Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.2 WBC 7.26 #NEUT: 5.35 PLT: 377 Cr: 0.83 Ur 40 Tbil 0.17 TSH 3.04 fT4 1.1 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. (Επόμενη Β12 σε 3 εβδομάδες.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-30T10:33:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα συνέχισης στις Φαρμακευτικές Υπηρεσίες για PEMBROLIZUMAB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">SECRETARY NOTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-23T10:41:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#68 Day 1 Pembrolizumab - Pemetrexed Ca lung)  Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.6 WBC 6.54 #NEUT: 4.79 PLT: 357 Cr: 0.88 Ur 25  Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 6 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/ Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-03T15:09:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#67 Day 1 Pembrolizumab - Pemetrexed Ca lung) + B12 Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.4 WBC 5.34 #NEUT: 3.89 PLT: 356 Cr: 0.76 Ur 28 TSH 1.35 fT4 1.3 Cortisol 12.8 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 9 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-12T08:45:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#66 Day 1 Pembrolizumab - Pemetrexed Ca lung) Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.4 WBC 7.34 #NEUT: 5.10 PLT: 417 Cr: 0.7 Ur 35 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo/immuno-therapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-21T12:26:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#65 Day 1 Pembrolizumab - Pemetrexed Ca lung) Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 11.7 WBC 7.08 #NEUT: 5.39 PLT: 339 Cr: 0.95 Ur 32 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 6 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-08T13:56:18.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αξονική τομογραφία χωρίς ενδείξεις επιδείνωσης της νόσου. Παραμένει ελάχιστη υπολειμματική νόσος στον πνεύμονα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-31T12:38:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#64 Day 1 Pembrolizumab - Pemetrexed + B12 (Ca lung) Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12,6 WBC 6.36 #NEUT: 4.59 PLT: 402 Cr: 0.76 Ur 39 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 9 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-10T11:31:01.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#63 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.3, WBC 7.87 #NEUT: 5.89 PLT: 362 Cr: 0.92 Ur 30 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy+chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-19T11:00:48.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#62 Day 1 Pembrolizumab - Pemetrexed  Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.3, WBC 5,38 #NEUT: 4,01 PLT: 363 Cr: 0.8 Ur 29 TSH 2,46 fT4 1.2 Cortisol 20.2 ACTH 26.30 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 6 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy-immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-29T13:59:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#60 Day 1 Pembrolizumab - Pemetrexed (+Β12) Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 11.9, WBC 5,76 #NEUT: 4,11 PLT: 368 Cr: 0.6 Ur 19 TSH 2,95 fT4 1.2 Cortisol 19 Δόθηκε Β12 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 9 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy-immunotherapy + Β12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-08T09:38:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#59 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 11.8, WBC 7 #NEUT: 5.2 PLT: 356 Cr: 0.7 Ur 33 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy-immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-07-18T12:00:25.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#58 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.2, WBC 5.9 #NEUT: 4.4 PLT: 350 Cr: 0.93 Ur 34 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 6 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-27T09:30:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#57 Day 1 Pembrolizumab - Pemetrexed + B12 Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12.3, WBC 5.6 #NEUT: 4.14 PLT: 350 Cr: 0.8 Ur 32  Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 9 εβδομάδες. CT 12/07/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy-immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-06-06T10:45:31.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#56 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Εκ του ε/ε: Hgb: 12, WBC 5.74 #NEUT: 4.35 PLT: 353 Cr: 0.73 Ur 32 ενδοκρινολογικός έλεγχος κφ Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 3 εβδομάδες. CT 12/07/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy/chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-29T12:30:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για DENOSUMAB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-16T09:02:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#55 Day 1 Pembrolizumab - Pemetrexed  Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη.  Εκ του ε/ε: Hgb: 12.4, WBC 6.55 #NEUT: 4.79 PLT: 384 Cr: 0.78 Ur 31 ενδοκρινολογικός έλεγχος κφ Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 σε 6 εβδομάδες. CT 12/07/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy-immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-25T11:01:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#54 Day 1 Pembrolizumab - Pemetrexed +B12 Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Η ασθενής αναφέρει βήχα όμως στην ακρόαση του αναπνευστικού δεν ανευρέθηκαν παθολογικά ευρήματα. Εκ του ε/ε: Hgb: 13.1, WBC 6.93 #NEUT: 5.24 PLT: 413 Cr: 0.87 Ur 20  TSH 4.98 FT4 1.1 CORT 17.6 ACTH 42 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12  σε 9 εβδομάδες.  CT θώρακος σε 3 μηνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunochemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-25T09:53:52.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αξονική τομογραφία χωρίς μεταβολή. Αναφέρει για 2-3 μέρες μετά τη θεραπεία ναυτία, αλλα δεν χρειάζεται αντιεμετικό. Συνεχίζει με την ίδια θεραπεία. CT θώρακος σε 3 μηνες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-04T14:48:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#53 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση.Αιμοδυναμικά σταθερή και απύρετη. Η ασθενής αναφέρει βήχα όμως στην ακρόαση του αναπνευστικού δεν ανευρέθηκαν παθολογικά ευρήματα. Εκ του ε/ε: Hgb: 13,2, WBC 5,6 #NEUT: 4,19 PLT: 409 Cr: 0,69 Ur 27 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">immunotherapy-chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-14T11:25:43.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#52 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb: 12.3, WBC 5.1 #NEUT: 3.7 PLT: 358 Cr: 0.8 Ur 28 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 6 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-21T11:22:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#51 Day 1 Pembrolizumab - Pemetrexed + B12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb: 12.5, WBC 6.7 #NEUT: 4.7 PLT: 435 Cr: 0.79 Ur 38 TSH T4 κφ Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 9 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-21T08:24:59.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για PEMBROLIZUMAB-PEMETREXED.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-20T11:43:01.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Εξετάστηκε γυναικολογικά αλλά ο γυναικολόγος δεν διαπίστωσε αλλαγή (προυπήρχε το μόρφωμα?). Αναρρώνει από γρίππη αλλά η γενική της κατάσταση είναι πολύ καλή.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-31T15:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#50 Day 1 Pembrolizumab - Pemetrexed Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb: 12.7, WBC 5.99 #NEUT: 4.25 PLT: 348 Cr: 0.87 Ur 41 TSH T4 κφ Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 3 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy/immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-31T13:00:04.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Αισθάνεται πολύ καλά. Αξονική τομογραφία: μέτρια αύξηση πλευριτικής συλλογής και συμπαγών στοιχείων της μάζας στον πνεύμονα. Μόρφωμα 9χιλ. στη μήτρα. Να δει γυναικολόγο Θα συνεχίσει με την ίδια θεραπεία για τους επόμενους 3 μήνες και θα επαναξιολογηθεί.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-10T09:26:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#49 Day 1 Pembrolizumab - Pemetrexed  Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb: 12.9, WBC 6.43 #NEUT: 4.87 PLT: 354 Cr: 0.69 TSH 1.87 FT4 1.3 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 6 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy / Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-20T15:39:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#48 Day 1 Pembrolizumab Pemetrexed + Β12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb: 13, WBC 5.48 #NEUT: 3.67 PLT: 321 Cr: 0.75 θυρεοειδική λειτ κφ Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 9 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-29T08:33:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#47 Day 1 Pembrolizumab Pemetrex Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: WBC: 5.6 #NEUT: 3.85 Hb:12.6 PLT: 375 Cr: 0.92 Urea 36 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 3 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Immunotherapy + Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-08T10:39:56.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#46 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: WBC: 6.6 #NEUT: 4.4 Hb:12.7 PLT: 290 U: 29 Cr: 0.73  Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 6 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-10-18T12:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#45 Day 1 Pemetrexed-Pembrolizumab +B12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του Ε/Ε στις 17/10 : WBC:6.29 #NEUT: 4.16 Hb:12.7 PLT:312 U:37 Cr:0.8 TSH:3.03 fT4:1.3 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Eπομενη Β12 σε 9 εβδομαδες Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo/immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-09-27T08:36:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#44 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του Ε/Ε στις 26/09: WBC:6,99 #NEUT: 4.84 Hb:12.9 PLT:340 U:29 Cr:0.77 TSH:1.89 fT4:1.3  Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy/immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-09-07T12:27:47.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλαβή έγκρισης και παράδοση συνταγών στο φαρμακείο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pembro/pemetrexed</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-09-06T10:07:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#43 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του Ε/Ε στις 05/09: WBC:5.68 #NEUT: 4.07 Hb:11.9 PLT:298 U:39 Cr:0.90 TSH:2.34 fT4:1.3 Cort:11.3 ACTH:13.30 Δόθηκε θεραπευτικό πλάνο. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-08-19T12:14:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλαβή έγκρισης και παράδοση συνταγής στο φαρμακείο για 1 κύκλο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">pembrolizumab &amp; pemetrexed</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-08-17T12:25:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#42 Day 1 Pemetrexed-Pembrolizumab +B12  Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του Ε/Ε στις 16/08: WBC:5.47 #NEUT:3.77 Hb:12.5 PLT:357 U:38 Cr:0.79 TSH:1.97 fT4:1.5 Cort:12.5 ACTH:11.20  Δόθηκε θεραπευτικό πλάνο.  Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy - Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-28T14:55:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για PEMETREXED&amp;PEMBROLIZUMAB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-26T09:44:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#41 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε στις 25/07: Hgb 12,7 WBC 6.25 Neu# 4.47 Plts 335 Cr 0.74 Ur 24 θυρ λειτ κφ Εξέρχεται χωρίς επιπλοκές. Συνεχίζει με την ίδια θεραπεία. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/ Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-07-05T12:32:01.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#40 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε στις 04/07: Hgb 12,5 WBC 5,0 Neu# 3,52 Plts 313 Cr 0.74 Ur 26 Εξέρχεται χωρίς επιπλοκές. Συνεχίζει με την ίδια θεραπεία. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy/ Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-14T16:28:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#39 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 12.4 WBC 6.48 Neu# 4.5 Plts 261 Cr 0.8 Ur 27  Εξέρχεται χωρίς επιπλοκές. Συνεχίζει με την ίδια θεραπεία. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-14T10:19:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">b12 today</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">b12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-06-01T15:39:52.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Παραλάβαμε έγκριση 01/06/22 και παραδόθηκε στο φαρμακείο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">pembrolizumab/pemetrexed</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-24T11:13:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#38 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 12.7 WBC 6.77 Neu# 5.19 Plts 342 Cr 0.95 Ur 28 AST 16 ALT 19 Εξέρχεται χωρίς επιπλοκές. Ενημερώθηκε από τον Δρ. Ορφανό για τα αποτελέσματα του CT BCAP. Συνεχίζει με την ίδια θεραπεία. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy - Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-24T11:07:08.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα στις Φαρμακευτικές Υπηρεσίες για έγκριση PEMBROLIZUMAB+PEMETREXED.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-24T09:42:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής ολοκλήρωσε 2 χρόνια θεραπείας με Pembrolizumab/Pemetrexed και Carboplatin (πρώτους 6 κύκλους). Ανταποκρίθηκε πολύ καλά στη θεραπεία. Σε PET/CT scan προ 3 μήνου όλες οι εστίες νόσου πλην της πρωτοπαθούς εστία βρίσκονταν σε μεταβολική ύφεση. Γι αυτό προχώρησε με ακτινοθεραπεία της πρωτοπαθούς μάζας στην πύλη του δ. πνεύμονα. Σε πρόσφατη αξονική διαπιστώθηκε ανταπόκριση με μείωση του μεγέθους της μάζας.  Συνεχίζει με την ίδια θεραπεία την οποία ανέχεται πολυ καλά.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-05-03T10:06:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#37 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 12.6 WBC 7.73 Neu# 5.53 Plts 349 Cr 0.86 Ur 32 AST 20 ALT 26 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. ( τελευταία, CT CAP?)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy - Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-04-12T12:52:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#36 Day 1 Pemetrexed-Pembrolizumab + B12 Ασθενής σε καλή κλινική κατάσταση. Απουσία συμπτωματολογίας. Εκ του ε/ε: Hgb 12.4 WBC 6.6 Neu# 4.81 Plts 339 Cr 0.86 Ur 28 TSH 1.73 fT4 1.2 Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy - Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-22T11:06:06.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#35 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση.  Εκ του ε/ε: Hgb 12.3 WBC 7.07 Neu# 5.06 Plts 347 Cr 0.74  Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy - Immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-01T12:27:37.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η αξονική τομογραφία (μετά την ακτινοθεραπεία στο θώρακα) ανέδειξε σταθερό μέγεθος της πρωτοπαθούς μάζας, ελαφρά μειωμένους τους λεμφαδένες μεσοθωρακίου (ήταν οι εστίες που είχαν πρόσληψη στο PET scan) και μετακτινικές αλλοιώσεις. Σε άριστη κλινική κατάσταση. Τον 6/2022 ολοκληρώνει 2 χρόνια από τη θεραπεία της. Αν η νόσος βρίσκεται υπό έλεγχο, θα συνεχίσει την ίδια θεραπεία (με αίτημα στην επιτροπή ονομαστικών αιτημάτων).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Follow up</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-03-01T12:00:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#34 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Αναφέρει βήχα σχετικά βελτιωμένος (post-covid). Εκ του ε/ε: Hgb 12.4 WBC 7.51 Neu# 5.37 Plts 391 Cr 0.79 Θυρ. κ.φ. Εξέρχεται χωρίς επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-08T15:25:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#33 Day 1 Pemetrexed-Pembrolizumab + Β12 Ασθενής σε καλή κλινική κατάσταση. Εκ του ε/ε: Hgb 11.7 WBC 6.6 Neu# 4.77 Plts 420 Επόμενη θεραπεία σε 3 εβδομάδες. Επόμενη Β12 12/04  CT chest 01/02: γνωστή υπολειμματική εξεργασία στο ΔΕ πνεύμονα κεντρικά χωρίς ουσιαστική διαφοροποίηση, βρογχοπνευμονικές διηθήσεις σε ΔΑΛ και κορυφαίο τμήμα ΔΚΛ συμβατές με αλλοιώσεις μετακτινικής πνευμονίτιδας, βελτίωση λεμφαδενοπάθειας σε ΔΕ πνευμονική πύλη?</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy - immunotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-02-02T16:08:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα για PEMETREXED&amp;PEMBROLIZUMAB. (PHARMAPROTOCOLS).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-01-18T09:22:31.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#32 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση, τον Ιούνιο ολοκληρώνει 2 έτη θεραπειών. Καλά ανεκτή η θεραπεία. Αναφέρει εδώ και 3 βδομάδες ρινική καταρροή και μη παραγωγικό βήχα, αρνητικά ραπιντ. Σήμερα μοναδική ενόχληση παραγωγικός βήχας κυρίως τις βραδυνές ώρες, διαυγής απόχρεμψη. Αιμοδυναμικά σταθερή (SatO2 96%), AΨ ομότιμα μειωμένο.  Εκ του ε/ε: Hgb 11.7 WBC 6.46 Neu# 5.01 Plts 418 Cr 0.81 CRP 24.9  Επόμενη θεραπεία σε 3 εβδομάδες. Προγραμματισμός για CT Chest.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΧΗΜΕΙΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-28T16:36:51.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#31 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Εκ του ε/ε: Hgb 12.4 WBC 5.81 Neu#4,21 Plts 370 Cr 0,72 θυρεοειδική λειτουργια κφ Eξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-07T17:08:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#30 Day 1 Pemetrexed-Pembrolizumab +Β12 Ασθενής σε καλή κλινική κατάσταση. Εκ του ε/ε: Hgb 12.7 WBC 5.76 Neu# 3.84 Plts 363 θυρεοειδική λειτουργια κφ Eξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη Β12 στις 08/02 Επόμενη θεραπεία σε 3 εβδομάδες και ραντεβού με Δρ Ορφανό .</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-12-07T09:54:36.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12 DONE TODAY</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-11-16T11:08:04.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#29 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Εκ του ε/ε: Hgb 12.4 WBC 4.51 Neu# 3.07 Plts 308 Cr 0.86 Eξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-10-14T17:18:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  Last fraction on 14/10/21    Patient in good condition. Has no complains.  ECOG 0, VAS 0    Medication: not changed since beginning    Letter to Dr Orphanos  Follow up Dr Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-10-05T11:24:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">injected today</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">b12 1mg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-10-05T10:47:14.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#28 Day 1 Pemetrexed-Pembrolizumab +B12  Ασθενής σε καλή κλινική κατάσταση.  Εκ του ε/ε: Hgb 13.2 WBC 5.73 Neu# 4.02 Plts 247 Cr 0.76 Eξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες. B12 σε 9 βδομάδες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">XHMEIOΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-23T10:58:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Derived mean after 6 CBCTs:  Inf: 0.8 cm, Right: 0,4 cm, Post: 0,5 cm.  Verify and if &lt; 0,5 cm continue with 3 CBCTs per week.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-16T15:11:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  First fraction consultation    Very good matching. All questions were answered.  Continue with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-14T15:26:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#27 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Eκκρεμεί εκτίμηση από τον προσωπικό της ιατρό όσο αφορά την εντερική αμοιβάδωση.  Εκ του ε/ε: Hgb 13.1 WBC 6.48 Neu# 4.57 Plts 234 Cr 0.82  Eξέρχεται χωρίς άμεσες επιπλοκές.  Επόμενη θεραπεία σε 3 εβδομάδες. Από 16/09 έναρξη ΑΚΘ.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">XHMEIOΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-09T14:02:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Consultation on 08/09/21  GESY Patient / Referral from Dr. Orphanos    Diagnosis: lung Ca, Initial diagnosis: 05/20  Localization: RLL  Histology: adenoCa lung, moderate-poorly differentiated  Classification: cT4 cN3 cM1c  Metastases: mediastinum, lung, supraclavicular, Rt kidney, Lt adrenal gland  Molec. analysis: PD-L1: 50-75%    Secondary Diagnoses:  Ex-smoker    Previous treatment/Course of disease:  05/20: CT CAP: lesion in RLL max. diameter 8.97cm, mediastinal LNs  05/20: biopsy: confirmation of malignancy  05/20: PET-CT: lesion in RUL and ML, mediastinal LNs, Rt renal and Lt adrenal secondaries  s/p: Carboplatin-Pemetrexed-Pembrolizumab x6, Pemetrexed-Pembrolizumab x2  08/21: CT BCAP: no brain / abdominal secondaries, lesions in Rt lung, Rt pulm. hilum LNs  09/21: PET-CT: new nodule in RUL, Rt hilar LN, residual disease in RLL, CR in kidney and adrenal gland    Family history:  Aunt: unspecified Ca    Treatment concept:  EBRT Rt lung TD 55Gy (2.75Gy x 20 fractions)    Clinical examination:  170cm, 67kg. EORTC QoL: FS: 96%, SS: 100%, GHS: 83%. ECOG 0, VAS 0    Medication:  None    Tumorboard:  08/09/21    Pending issues:  P-CT (10/09/21)  MRI brain    Follow-up:  Dr. Orphanos</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-09-08T14:10:49.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής υπεβλήθη σε εξέταση κοπράνων (ρουτίνας, για εργοδότηση της σε εταιρία)  και απομονώθηκε αμοιβάδα. Θα απευθυνθεί στον προσωπικό της γιατρό για έναρξη θεραπείας.  Θα συνεχίσει τη χημειοθεραπεία της, ενώ θα προχωρήσει και σε ακτινοθεραπεία καθότι το PET/CT scan ανέδειξε σημαντική βελτίωση σε όλες τις εστίες ν΄σοου, με παραμονή μικρής υπολειμματικής νόσου στην πρωτοπαθή εστία και λεμφαδένες στο μεσοθωράκιο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Τηλεφωνική επικοινωνία</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-08-24T08:27:42.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#26 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Aπουσία συμπτωματολογίας, πέρα από τριχόπτωση. Έναρξη συμπληρωμάτων.  Εκ του ε/ε: Hgb 12.2 WBC 7.70 Neu# 4.93 Plts 286 Cr 0.7, θυρεοειδ. έλεγχος κ.φ. Eξέρχεται χωρίς άμεσες επιπλοκές. Επόμενη θεραπεία σε 3 εβδομάδες.  Προγραμματισμός για μαστογραφία και έλεγχο οστικης πυκνότητας.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΧΗΜΕΙΟΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-08-03T10:17:14.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#24 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Εκ του ε/ε: Hgb 12.5 WBC 6.2 Neu# 3.9 Plts 302 Cr 0.7 Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-07-13T15:32:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#24 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Εκ του ε/ε: Hgb 13 WBC 6.49 Neu# 3.71 Plts 348 Cr 0.76  Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">XHMEIOΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-06-22T09:23:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#23 Day 1 Pemetrexed-Pembrolizumab Ασθενής σε καλή κλινική κατάσταση. Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-06-01T15:10:24.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">injected tgoday</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">b12mg</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-06-01T09:55:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#22 Day 1 Pemetrexed-Pembrolizumab και Vit. B12 Ασθενής σε καλή κλινική κατάσταση. Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-05-05T11:22:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#21 Day 1 Pemetrexed-Pembrolizumab  Ασθενής σε καλή κλινική κατάσταση. Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδε</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">XHMEIOΘΕΡΑΠΕΙΑ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-04-12T12:12:16.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#20 Day 1 Η ασθενής προσήλθε σε καλή κλινική κατάσταση. Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-04-12T09:29:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτημα για PEMETREXED-PEMBROLIZUMAB. (PHARMAPROTOCOLS).</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-04-09T15:34:32.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Έγινε θεραπεία με Vit. B12</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Daycare therapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-03-22T09:22:26.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#19 Day 1 Η ασθενής προσήλθε σε καλή κλινική κατάσταση.  Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-03-01T10:08:11.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#18 Day 1 Ο ασθενής προσήλθε σε καλή κλινική κατάσταση. Δεν αναφέρει καινούρια συμπτωματολογία. Εκ του ε/ε: Hb 11, Neut# 4.8, PLT 265, WBC 7.6, CR 0,7 Eξέρχεται χωρίς άμεσες επιπλοκές Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chemotherapy</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-03-01T09:56:19.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12 1mg was done on 04/02/2021. Next one 08/04/2021</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Injection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-02-08T16:42:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#17 day1 Pembrolizumab Pemetrexed ECOG 1 Η ασθενής είναι σε καλή κλινική εικόνα Εκ του ε/ε ΗΒ 12.1 WBC 9.62 NEUT#  7.13 PLT 311 CR 0.79 UR 35 Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-02-04T13:42:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12 1mg done today (I.M.)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Injection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2021-01-18T18:27:17.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#16 day1 Pembrolizumab Pemetrexed ECOG 0-1 Αιμωδίες στα άκρα. Καλή κλινική εικόνα Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-12-29T17:57:56.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#15 Pembrolizumab Pemetrexed Β12inj ECOG 1 Καλη κλινική εικόνα Αιμωδιες στα ανω ακρα Επόμενη θεραπεία 18/01/2021</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">THERAPY</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-12-08T11:40:44.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#14 Pembrolizumab Pemetrexed Β12inj ECOG 1 Καλη κλινική εικόνα Αιμωδιες στα ανω ακρα Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-11-25T14:09:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο έγκρισης για  PEMBROLIZUMAB.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-11-05T13:08:17.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#13 Pembrolizumab Pemetrexed ECOG 1 Παραγωγικός βήχας Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-10-15T17:22:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#12 day 1 Pembrolizumab Pemetrexed ECOG 0-1 Καλή κλινική κατάσταση Επόμενη θεραπεία σε 3 εβδομάδες</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-10-15T08:34:47.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12 Injection done today I.M. (Left Side) -&gt; Next one on 17/12/2020</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Injection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-09-25T09:35:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#6 Pembrolizumab+pemetrexed+carboplatin Αναφερόμενο θωρακικό άλγος. ECG normal Παραγωγικός βήχας Περιφερική νευροπάθεια Επόμενη θεραπεία  15/10/2020</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-09-03T16:35:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#5 Pembrolizumab+pemetrexed+carboplatin Ναυτία, Φυσιολογικές κενώσεις Περιφερική νευροπάθεια Βελτίωση μετά τον 3# Επόμενη θεραπεία στις 24/9/2020</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-08-13T14:48:10.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">#4 Pembrolizumab alimta carboplatin Περιφερική νευροπάθεια. Οστικά άλγη ECOG 0</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">CHEMO VISIT</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-08-13T12:38:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12 injection done today (Next one: 15/10/2020)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Injection</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-07-23T17:15:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ηα σθενής προσήλθε για προγραμματισμένη χημειοθεραπεία με prmbrolizumab+ alimta+carboplatin #3 day 1 χωρίς άμεσες επιπλοκές. Παρουσία εμέτων και δυσκοιλιότητας. Καλή θρέψη. ECOG 0. Φωταψιες υπό αγωγή με oxicontin. 5/8/2020; CT CAP 12/8/2020 : Αιματολογικός έλεγχος 13/8/2020 : Επόμενη χημειοθεραπεία</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit 23/7/2020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-07-17T17:56:53.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ενημέρωσα τηλεφωνικός τον σύζυγος της ότι η ασφαλιστική τους  εταιρεία δεν θα καλύψει τις χημειοθεραπείες . Θα μιλήσει και ο ίδιος με την ασφάλεια τους και θα  μας  ενημερωσει .</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTE</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-07-02T14:36:38.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής προσήλθε για προγραμματισμένη χημειοθεραπεία με  Carboplatin- Pemetrexed- Pembrolizumab κύκλος 2 χωρίς επιπλοκες. Παρουσία εμέτων χολώδους περιεχομένου και δυσκοιλιότητας. Αναφερόμενος βήχας. ECOG 0-1. Επόμενος αιματολογικός έλεγχος 22/7/2020. Επόμενη χημειοθεραπεία 23/7/2020.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit 2/7/2020</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-06-12T16:04:47.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ασθενής προσήλθε για προγραματισμένη χημιοθεραπεία #1 Carboplatin- Pemetrexed- Pembrolizumab χωρίς επιπλοκες.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">chemo visit</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-06-12T10:11:18.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Injection done today. Next one on 14/08/2020</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">B12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-06-10T11:48:31.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε αίτηση για έγκριση PEMBROLIZUMAB 10.6.20</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΦΑΡΜΑΚΕΥΤΙΚΕΣ ΥΠΗΡΕΣΙΕΣ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-25T15:22:50.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Θα σταλεί αύριο 26/5/20 παραπομπή στο Ιστοπαθολογικο του Γενικου Νοσοκομειου Λευκωσιας , μαζί με κύβο παραφίνης για περαιτέρω εξέταση, μετά απο οδηγίες Δρ. Ορφανού.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΠΑΡΑΠΟΜΠΗ ΙΣΤΟΠΑΘΟΛΟΓΙΚΟ</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-25T11:54:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Κακοήθεια του πνεύμονα  Να γίνει  το PDL-1  και μοριακές αναλύσεις και ανάλογα τα αποτελέσματα θα καθοριστεί η θεραπευτική της αγωγή .</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">consultation with Dr. G. Orhanos</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-22T18:11:24.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Προγραμματιστικέ ραντεβού με  Δρ. Ορφανό 25/05/2020 11.00</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MO NOTES</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-22T14:40:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Δόθηκε ο φάκελος στην  Γιώτα Νικολάου</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-20T11:05:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Liquid Biopsy done by PET (1st sample)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NIPD</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-19T11:32:45.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Diagnosis: Ca lung Localization: Rt LL Histology: ADC moderate- poorly differentiated Classification: cT4cN2-3Mx  CT chest 8/5/20: μάζα δεξιού κάτω λοβού διαστάσεων 8,97x 5,6cm με στένωση βρόγχου μέσου λοβού και απόφραξη κορυφαίου βρόγχου δεξιού κάτω λοβού. Βλάβη που εφάπτεται υπεζωκότα σύστοιχα. Ύποπτα οζίδια σε έτερο λοβό πνεύμονα CT abdomen: πιθανή μεταστατική εστία σε αριστερό επινεφρίδιο CT neck: διογκωμένοι τραχηλικοί λεμφαδένες άμφω   Συμπτωματολογία: παραγωγικός βήχας από έτους, απώλεια σωματικού βάρους (6 κιλά εντός 2 μηνών), βράγχος φωνής SpO2= 98% στον αέρα  Προς ολοκλήρωση σταδιοποίησης με MRI brain, 18F- FDG PET/CT scan.  Στάλθηκε μοριακός (EGFR, ALK, BRAF, FGFR2-3, KRAS, ROS1) και ανοσοϊστοχημικός έλεγχος (PDL1)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Doctors notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-19T10:32:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Θα κάνει MRI εγκέφαλου  19/05/2020 Θα σταλθεί  στο ΥΥ για PET</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM Notes</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-14T15:20:55.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Η ασθενής έκανε βιοψία 12/05/2020 στο  GOC. Αναμένονται αποτελέσματα Ο σύζυγος της ασθενούς ενημερώθηκε πως χρειάζονται κάποιες μέρες για τα αναμενόμενα αποτελέσματα Prof+Dr.E.Demetriou informed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20010294</Data></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2020-05-11T14:52:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Δρ.Ε.Δημητρίου πρότεινε βρογχοσκόπηση και εάν δεν είναι εφικτή, βιοψία. Η ασθενής έχει ενημερωθεί</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R3C1:R119C4"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

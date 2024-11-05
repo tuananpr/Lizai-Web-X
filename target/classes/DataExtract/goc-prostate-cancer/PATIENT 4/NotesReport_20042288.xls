@@ -1,0 +1,260 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R9C1:R9C9"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="8"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:MergeAcross="8" ss:StyleID="s63"><Data ss:Type="String">Notes Report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Report Date:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">04/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">From:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">01/01/2021</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">To:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">05/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Note Type(s):</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">All Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">05/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mosaiq Notes Only:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient Name</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Birth</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Police ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gender</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Address</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-04T11:54:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Neofytou,Panagiotis  Last fraction on 04/04/24    Patient in good condition. Has no complaints.  ECOG 0, VAS 0    Side effects:  GU: Urinary frequency (pre-existing), no retention, no tract pain  GI: diarrhoic episode today x1, no abdominal pain, no N/V    Medication: not changed since beginning    Letter to: Dr. Tsatsanides  Follow-up in GOC RT in 3 months with PSA, testo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-26T13:51:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  First fraction consultation    Very good matching. No questions. Dietary instructions.  Continue with RT,</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-11T11:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ο ασθενής προσήλθε προγραμματισμένα για τοποθέτηση οδηγών στον προστάτη υπό υπερηχογραφική καθοδήγηση.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">U/S Markers</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-29T11:23:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Re-Consultation, 29.2.24  alone / GESY / Dr Tsatsanides    11/23 Adeno-Ca of the prostate, cT2 cN0 cM0 (PSMA-PET), both lobes  iPSA 5.4 ng/ml  Gleason score 7b (4+3), ISUP 3  Prostate colume: unknown as no imaging after TUR-P    Side diagnosis: diabetes type 2, hypertension, hypothyreoidism    History relevant to primary diagnosis  08/23 biopsy  10/23 PSMA-PET  10/23 TUR-P  12/23 beginn ADT  02/24 MRI  03/24 2nd ADT injection planned    ECOG 0  No b symptoms  Pain 0 VATS  152 cm  58 kg  Medication: Concor, &quot;sometiing for diabetes&quot;, L Thyrox  No allergies    Ex-smoker, occaioanally alcohol    IPSS 5  IIEF-5: 11    Pending: Uro-TB, goldmarker + CT    Treatment concept: SBRT and 6 months ADT    30 minutes discussion regarding prognosis, therapeutic options (HDR+EBRT+ADT, EBRT+ADT, surgery) including aims and side effects. Patients opts for SBRT and ADT and signed written informed consent and received copy.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-12T07:45:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Consultation, 10.1.24  alone / GESY / Dr Tsatsanides    11/23 Adeno-Ca of the prostate, cT2 cN0 cM0 (PSMA-PET), both lobes  iPSA 5.4 ng/ml  Gleason score 7b (4+3), ISUP 3  Prostate colume: unknown as no imaging after TUR-P    Side diagnosis: diabetes type 2, hypertension, hypothyreoidism    History relevant to primary diagnosis  08/23 biopsy  10/23 PSMA-PET  10/23 TUR-P  12/23 beginn ADT    ECOG 0  No b symptoms  Pain 0 VATS  152 cm  58 kg  Medication: Concor, &quot;sometiing for diabetes&quot;, L Thyrox  No allergies    Ex-smoker, occaioanally alcohol    IPSS 5  IIEF-5: 11    Pending: mpMRI after TUR-P    30 minutes discussion regarding prognosis, therapeutic options (HDR+EBRT+ADT, EBRT+ADT, surgery) including aims and side effects. First MRI and then re-consultation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-28T09:13:09.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">File given to RT dpt to set an app</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PM</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-13T17:00:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Μετά απο τηλεφωνική επικοινωνία με τον ασθενή θα μας καλέσει ο ίδιος μετά την επέμβαση που θα κάνει με τον δρ.Τσατσανίδη στις 24/10 για ραντεβού με ακτινοθεραπευτή ογκολόγο.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">URO TB 09/10/2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-24T11:57:32.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">AK HEALED  NUMMULAR ECZEMA IMPROVED FU INIF NEEDED</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NUMMULAR ECZEMA -AKTINIC KERATOSIS</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-09T10:58:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">1 lesion treated -fu in 2 weeks</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">aktinic keratosis</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20042288</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 4</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-16T11:27:15.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">3 lesions treated  -fu in 3 weeks</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">AKTINIC KERATOSIS</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+     <RangeSelection>R10C6:R20C6</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R9C1:R19C9"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,557 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>12315</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="16" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy"/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat ss:Format="dd\/mm\/yyyy\ hh\:mm"/>
+   <Protection/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Worksheet1">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase" ss:RefersTo="=Worksheet1!R9C1:R9C9"
+    ss:Hidden="1"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="46" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Width="99.75" ss:Span="8"/>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:MergeAcross="8" ss:StyleID="s63"><Data ss:Type="String">Notes Report</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Report Date:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">04/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">From:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">01/01/2021</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">To:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">05/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Note Type(s):</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">All Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">05/04/2024</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Mosaiq Notes Only:</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">No</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String"></Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Patient Name</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Birth</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Police ID</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gender</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Address</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Date Of Note</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Description</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Summary</Data><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-04-04T12:58:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Cloconi,Constantina  7th Zoladex 10.8mg done by CC (R)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-15T12:07:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Current situation: Re-staging after 1st Cycle PSMA-Lu/Ac  2001 Biopsy: confirmation of malignancy (Adeno-Ca of the prostate, Gleason score 5 (2+3) (no report submitted) 2001 2x Hypethermia as well as diverse alternative treatments 2018-21 Initiation of anti-androgen, Bicalutamide (initially 50 mg then 150 mg) 2021 Gradual PSA despite Bicalutamide 05/22 Ga68-PSMA PET/CT (Wiesbaden, Germany): highly PSMA expressing prostatic malignancy with SV invasion, and ECE with at least contact to the anterior rectal wall. Highly PSMA positive pelvic and retroperitoneal LNs, supradiaphragmatic LNs, and multiple bone lesions (Th3, Th12, 7th rib, L5) 05/22 MRI Pelvis: Prostate volume 43cc. PI-RADS V lesion within the posterior PZ extending just above the apex of the prostate. 11/22 PSA 248 ng/ml 11/22 ADT initiation with Goserelin 10.8 mg and Enzalutamide (GOC) 12/22 SBRT of T3 spine 30 Gy in 10 Gy 05/23 PSA 80 ng/ml under sufficient testosteron suppresion 08/23 PSA 128 ng/ml under sufficient testosteron suppresion 08/23 PSMA-PET/CT: SD and CR in the prostate and LNs, mixed response in bones with up to 5 bone mets in progress 12/23 patients started with abirateron (private) 01-02/24 massive PSA progress &gt;1000 ng/ml 02/23 1st cycle PSMA-Lu/AC + Zoladex in Saarland Germany  Planned: - PSMA-PET before 2nd cycle - patients wants to ask other Drs if it makes sense to re-start Enza together with the PSMA-Lu/Enza (I dont think that it makes sense)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Update medical recort</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-03-01T13:56:59.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient went to Uni Saarbruecken for first cycle PSMA-Lu/Ac  Is feeling well. Pain descreased. No relevant side effects.  Ptient has the feeling that last Goserelin injection was without effect because of bleeding at the injection side.   Testosteron, 29.02.24: &lt;7 (undetectable)  Proc: continue ADT and PET at the end of March at GOC. In beginning of April 2nd cycle PSMA-radioligand. Wants to ask Royal Marsden for another Medication in parallel to ADT and PSMA-radiligands (e.g. Immunotherapy)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Consultation with wife</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-08T17:28:12.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSA today 2400 ng/ml  called the patient and we agreed that he gets in touch with Nuc in Saarbruecken.  He wioll let us know if he needs help</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Telephone consultation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-02-08T17:25:57.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient in good health. No new symptoms or b symtpoms.  Discussed two different PSA values within two weeks 150 vs 1500 and said to perform a new one</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Consultation with wife</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-25T07:59:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  PSA: 150 ng/ml  Testosterone: &lt;7 ng/dl</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-15T12:10:27.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">multiple bone metastases in the whole spine without stenosis. due to the extent of the disease a kyphoplasty would make sense only if patient has severe local pain. ct from PET 5 months ago shows osteoblastic metastases so most probably no big issue with spinal instability</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">NCH consultation on MRI</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-12T14:15:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Again thorough discussion about therapeutic options (ADT+Abi vs ADT + Abi + PSMA-LU vs Chemo). Patients wants to continue ADT and Abi with us and go to Saarland for PSMA-Lu/Ac therapy. He will arrange an appointment and let us know regarding the PSMA treatment.  Today: Zoladex and new receip Abi  I recommended RT of the spine due to pathologic findings and mild pain symptoms. Patient wants to go first to Germany for the PSMA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Consultation with Prof A Vrachimis and wife, 30 minutes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-12T14:01:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Cloconi,Constantina  6th Zoladex 10.8mg done by CG (L)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2024-01-02T11:12:58.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Current situation: oligopress and mCRPC in PSMA-PET under ADT+Enza 2001 Biopsy: confirmation of malignancy (Adeno-Ca of the prostate, Gleason score 5 (2+3) (no report submitted) 2001 2x Hypethermia as well as diverse alternative treatments 2018-21 Initiation of anti-androgen, Bicalutamide (initially 50 mg then 150 mg) 2021 Gradual PSA despite Bicalutamide 05/22 Ga68-PSMA PET/CT (Wiesbaden, Germany): highly PSMA expressing prostatic malignancy with SV invasion, and ECE with at least contact to the anterior rectal wall. Highly PSMA positive pelvic and retroperitoneal LNs, supradiaphragmatic LNs, and multiple bone lesions (Th3, Th12, 7th rib, L5) 05/22 MRI Pelvis: Prostate volume 43cc. PI-RADS V lesion within the posterior PZ extending just above the apex of the prostate. 11/22 PSA 248 ng/ml 11/22 ADT initiation with Goserelin 10.8 mg and Enzalutamide (GOC) 12/22 SBRT of T3 spine 30 Gy in 10 Gy 05/23 PSA 80 ng/ml under sufficient testosteron suppresion 08/23 PSA 128 ng/ml under sufficient testosteron suppresion 08/23 PSMA-PET/CT: SD and CR in the prostate and LNs, mixed response in bones with up to 5 bone mets in progress 12/23 patients started with abirateron (private) 12/23 patients started with osteoprotection (?)  Patient called me on 21.12.23 and he had an appointment with a doctor in Austria. He convinced him to perform PSMA-Lu which he wants to start in  01/24. The doctor told him that he should take ADT/Abi/PSMA-Lu together. I told him that this is highly experimental. Patients wants to think about it</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Telephone consultation</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-12-15T13:40:23.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Abiraterone was initially rejected, so we re-sent the proposal again.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Note</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-24T09:11:51.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Talked about process of ordering Abiraterone.  Wants to start Biphosphonate. Appointment at MedOnc scheduled</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Telephone Consultation 10 minutes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-22T10:05:41.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Again discussion about treatment options and why Apalutamid is not recommneded after failure of Enzalutamid. Patient prefers Abiraterone.  Again recommendation for genetical testing. Orthopedical consultation with Dr Pountos in-house, sees spine surgeon additionally in London, has contact to Prof Huddard at Royal Marsden</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Spontaneous consultation 07.11.23 with wife</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-11-08T09:33:04.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient attended c/o pain in lower back that now settled completely. No findings on clinical examination, no neurology. CT and MRI not reported. Will review again once results become available.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Dr I Pountos Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-24T11:12:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  5th Zoladex 10.8mg done by AS (R)    &#45;-&gt; Next appointment: 17/01/2024.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-18T08:19:54.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSA: 334 ng/ml, Testosteron suppressed</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PSA, 10/23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-06T11:52:30.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">I told the patient that GESY is not covering Apalutamide. He will try to take it on his own cost and we will check PSA again in 2 moinths. Continue ADT injections.   I informed patient about regular liver and kidney test, blood pressure tests.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Telephone with patient for 15 minutes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-10-04T17:56:02.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">He wants to continue ADT and takes in parallel Apalutamid.  Discussion about alternatives: PSMA-Lu, Abiraterone (with ADT)  Talked to Prof Huddard and spine specialist (no current issues with bones regarding stabilisation)  Tomorrow: PSA and beginn Apa Will do liquid biopsy in RMH for molecular analyses</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Telephone with patient (30 minutes)</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-09-13T15:15:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visit 13.09.23 with wife    Discussion about Uro-TB decision: no oligometastatic concept indicated -&gt; proceed with systemic therapy. Discussed the options PSMA-Lu which the patient declined. Discussed chemo which the patient declined. Discussed another ARSI and patient wants to choose between Apalutamid and Abiraterone. I told him that Apalutamide and Enzalutamid have the same target and thus, we recommend Abiraterone. The concept of PARPi was also discussed.    Additionally, I strongly recommend to make some molecular analyses (e.g. BRCA). Patient doesn't want to perform biopsy but will ask at Royal Marsden for liquid biopsy.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-30T11:01:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visit 30.08.23 with wife    Current situation: oligopress and mCRPC in PSMA-PET under ADT+Enza  2001 Biopsy: confirmation of malignancy (Adeno-Ca of the prostate, Gleason score 5 (2+3) (no report submitted)  2001 2x Hypethermia as well as diverse alternative treatments  2018-21 Initiation of anti-androgen, Bicalutamide (initially 50 mg then 150 mg)  2021 Gradual PSA despite Bicalutamide  05/22 Ga68-PSMA PET/CT (Wiesbaden, Germany): highly PSMA expressing prostatic malignancy with SV invasion, and ECE with at least contact to the anterior rectal wall. Highly PSMA positive pelvic and retroperitoneal LNs, supradiaphragmatic LNs, and multiple bone lesions (Th3, Th12, 7th rib, L5)  05/22 MRI Pelvis: Prostate volume 43cc. PI-RADS V lesion within the posterior PZ extending just above the apex of the prostate.  11/22 PSA 248 ng/ml  11/22 ADT initiation with Goserelin 10.8 mg and Enzalutamide (GOC)  12/22   SBRT of T3 spine 30 Gy in 10 Gy  05/23 PSA 80 ng/ml under sufficient testosteron suppresion  08/23 PSA 128 ng/ml under sufficient testosteron suppresion  08/23 PSMA-PET/CT: SD and CR in the prostate and LNs, mixed response in bones with up to 5 bone mets in progress    Long discussion with patient about treatment options for newly diagnosed mCRPC after first line ADT+ENZA. Patient wants to quit ADT due to side effects. I discussed two general options: change of systemic therapy (including BRCA status for PARP inhibitors) vs continuing ADT+Enza and irradiate progredient lesions (experimental approach)    Pending: tumorbaord</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-01T16:51:40.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Hi Costas     Nice to hear from you. We have just started offering a liquid biopsy privately https://www.royalmarsden.nhs.uk/marsden360 but I haven’t used it yet. To be honest with the history below, the only potentially useful thing would be if we pick up a BRCA mutation, which is unlikely, but then potentially he could be offered Olaparib privately. Otherwise he would be recommended chemo or Lutetium, depending on funding.     I am sure we could offer the test for him, if he wants to travel over, but I am copying in my colleague Dr Reid in case she is able to see him, rather than me, as I am increasingly focussed on early disease. She is on leave this week, so if the patient wants to contact the Marsden private patients team in the meantime, we can start the registration process – the email for the team is privatepatients@rmh.nhs.uk     Kind regards     Alison</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Email Prof. Alison Tree (Royal Marsden London), 01.08.23</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-01T13:53:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Zamboglou,Constantinos  Visit 01.08.2023 with wife    PSA: 149 ng/ml under sufficient testosteron suppression    MRI vetrebrae: stable disease (patient also talked to spine surgeon in UK and he told him that everythinkg is fine)    Proc: PSMA-PET imaging and molecular testing (patient wants to go to Royal Marsden for molecular testing from liquid biopsy)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-08-01T09:51:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Savva,Antria  4th Zoladex 10.8mg done by CC (L) as Dr. CZ ordered.    &#45;-&gt; Next injection: 24/10/2023.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-23T14:29:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Menelaou,Paraskevi  Enzalutamide started: 01/01/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-17T12:56:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Menelaou,Paraskevi  3rd zoladex 10.8mg done by AS (R)    &#45;-&gt; next appointment: 09/08/2023</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-05-17T12:14:03.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Patient is in excellent condition, ECOG 0, pain VATs 0, active and makes sports.  Was in London for spine surgeon: no further therapy needed and for Prof Huddard: no changes in treatment concept needed. Takes 3 monthly GnRH injections and Enza.  No laboratory values present (patients wants to send them to us) but renal and kidney function seems to be fine. PSA at approx. 80  Proc: continue therapy and consider Enza mono (according to EMBARK, I told them that we have to wait for the full paper), FU in London and at GOC, when PSA is &lt;20 ng/ml consider re-PSMA</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">FU with wife 17.05.2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-04-04T13:43:22.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Επικοινώνησα με την συνάδελφο Παντελίτσα Παναγιώτου σχετικά με την αίτηση έγκρισης φαρμάκου (ENZALUTAMIDE) από τις φαρμακευτικές υπηρεσίες και την ενημέρωσα ότι η προηγούμενη έγκριση λήγει στις 01/01/2023, ούτως ώστε να γίνει η αίτηση συνέχισης εμπρόθεσμα.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Secretary Note - MO</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-03-03T14:52:29.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Visit with wife  Discussed current status of disease and treatment options (including triplet therapy and RT of the prostate). Patient refuses to take chemotherapy and wants to continue with ADT+Enza (he bought the medicament from UK). He wants to think about the prostate RT. Alterantively, he might undergo &quot;electrotherapy&quot; as local treatment in Germany. HE also wants to have his BRCA status assessed via liquif biopsy in London. I discussed the alternative of tissue based genomic testing.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Visit 03.03.2023</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-02-17T14:27:59.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Zoladex 10.8mg done today (Left Side)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Zoladex 10.8mg</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-26T16:05:34.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Στάλθηκε έντυπο στις Φαρμακευτικές Υπηρεσίες Λευκωσίας για έναρξης αγωγής με το φάρμακο ENZALUTAMIDE- Δρ. Τσαβαρής</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Φαρμακευτικές Υπηρεσίες Λευκωσίας</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2023-01-12T16:18:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">O AΣΘΕΝΗΣ ΣΕ ΑΡΙΣΤΗ ΚΛΙΝΙΚΗ-HIGH VOLUME PROSTATE CANCER Ο ΑΣΘΕΝΗΣ ΔΕΝ ΕΠΙΘΥΜΕΙ ΝΑ ΛΑΒΕΙ ΧΗΜΕΙΟΘΕΡΑΠΕΙΑ ΑΝΑΦΕΡΕΙ ΟΤΙ ΠΗΡΕ ΜΟΝΟΣ ΤΟΥ ΤΟ ΦΑΡΜΑΚΟ Τb ΕΝΖΑLUΤΑΜΙDE AΠO THN AΓΓΛΙΑ!!!  ΕΚΚΡΕΜΟΤΗΤΕΣ: -ΠΡΟΓΓΡΑΜΜΑΤΙΣΜΟΣ ΓΙΑ ΒΙΟΨΙΑ ΠΡΟΣΤΑΤΗ (ΕΣΤΑΛΗ Ε-MAIL) -ONOMAΣΤΙΚΟ ΓΙΑ ΕΝΖALUTAMIDE 160mg (ΣΥΝΤΑΧΘΗΚΕ)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MEDICAL NOTE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-12T13:40:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Strouthos,Iosif  Review of RT-plan T3. Patient already purchased Enzalutamide and initiated treatment.  PSMA-PET/CT was suggested. Based on exam's result the modification of treatment.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-12T13:15:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Bikou,Konstantina  First fraction consultation    Very good matching. No questions, wanted to talk with Dr IS.  Continue with RT.</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-07T09:14:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Strouthos,Iosif  Consultation on 05/12/22  GESY Patient / Referral from Dr. O. Tsavaris    Diagnosis: Prostate Ca ID: 2001  Localization: Bilobar  Histology: Invasive adenocarcinoma of the prostate  Classification: cT3a cN1 cM1 (metastatic disease)  Metastases: LYM (Pelvic, retroperitoneal, supradiaphragmatic LNs), OSS (Th3, Th12, Rt 7th rib, L5)  PSA:  238 ng/ml    Secondary Diagnoses:  None    Previous treatment/Course of disease:  2001 Biopsy: confirmation of malignancy, Gleason score 5 (2+3) (no report submitted)  2001 2x Hypethermia as well as diverse alternative treatments  2018-21 Initiation of anti-androgen, Bicalutamide (initially 50 mg then 150 mg)  2021 Gradual PSA despite Bicalutamide  05/22 Ga68-PSMA PET/CT (Wiesbaden, Germany): highly PSMA expressing prostatic malignancy with SV invasion, and ECE with at least contact to the anterior rectal wall. Highly PSMA positive pelvic and retroperitoneal LNs, supradiaphragmatic LNs, and multiple bone lesions (Th3, Th12, 7th rib, L5)  05/22 MRI Pelvis: Prostate volume 43cc. PI-RADS V lesion within the posterior PZ extending just above the apex of the prostate.  11/22 ADT initiation with Goserelin 10.8 mg (GOC)    Family history:  None    Treatment concept:  Currently oligometastatic setting  RTx of the primary plus SABR of the T3 lesion  In parallel ADT +/- ARAT    Clinical examination:  ECOG 1 VAS 0    Medication:      Tumorboard: UroTB      Pending issues:  1.Planning CT  2.PSMA-PET/CT    Follow-up:  MO</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-12-07T09:06:00.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">BY: Strouthos,Iosif  Consultation on 05/12/22  GESY Patient / Referral from Dr. O. Tsavaris    Diagnosis: Prostate Ca ID: 05/22  Localization: Bilobar  Histology: Invasive adenocarcinoma of the prostate  Classification: cT3a cN1 cM1 (metastatic disease)  Metastases: Pelvic, retroperitoneal, supradiaphragmatic LNs, osseous (Th3, Th12, Rt 7th rib, L5)  PSA:  238 ng/ml    Secondary Diagnoses:  None    Previous treatment/Course of disease:  2000s Biopsy: confirmation of malignancy (no report submitted)  2018-21 Initiation of anti-androgen, Bicalutamide (initially 50 mg then 150 mg)  2021 Gradual PSA despite Bicalutamide  05/22 Ga68-PSMA PET/CT (Wiesbaden, Germany): highly PSMA expressing prostatic malignancy with SV invasion, and ECE with at least contact to the anterior rectal wall. Highly PSMA positive pelvic and retroperitoneal LNs, supradiaphragmatic LNs, and multiple bone lesions (Th3, Th12, 7th rib, L5)  05/22 MRI Pelvis: Prostate volume 43cc. PI-RADS V lesion within the posterior PZ extending just above the apex of the prostate.  11/22 ADT initiation with Goserelin 10.8 mg (GOC)    Family history:  None    Treatment concept:  Currently oligometastatic setting  RTx of the primary plus SABR of the T3 lesion  In parallel ADT +/- ARAT    Clinical examination:  ECOG 1 VAS 0    Medication:      Tumorboard: UroTB      Pending issues:  1.Planning CT  2.PSMA-PET/CT    Follow-up:  MO</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MOSAIQ Progress Notes</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-25T17:05:20.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">O AΣΘΕΝΗΣ ΜΕ ΣΑΦΗ ΣΤΟΙΧΕΙΑ ΔΙΑΤΑΡΑΧΗΣ ΤΗΣ ΠΡΟΣΩΠΙΚΟΤΗΤΑΣ/ΕΠΗΡΕΑΣΜΕΝΗΣ ΨΥΧΙΚΗΣ ΣΦΑΙΡΑΣ ΠΑΣΧΕΙ ΑΠΟ ΜΕΤΑΣΤΑΤΙΚΟ ΚΑΡΚΙΝΟ ΠΡΟΣΤΑΤΗ(PSA&gt;300) OΡΜΟΝΟΑΝΘΕΚΤΙΚΟ????(ΕΛΑΜΒΑΝΕ ΚΑΤΑ ΤΟ ΔΟΚΟΥΝ Tb BICALUTAMIDE 150mgX1)  MRI ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ+ ΛΕΚΑΝΗΣ:ΠΟΛΛΑΠΛΕΣ Β΄ ΕΝΤΟΠΙΣΕΙΣ ΣΤΗ ΠΕΡΙΟΧΗ ΤΟΥ Θ3 ΣΥΜΠΙΕΣΗ ΤΟΥ ΝΩΤΙΑΙΟΥ ΜΥΕΛΟΥ( ΕΚΤΙΜΗΘΗΚΕ ΑΠΟ ΔΡ ΠΑΤΖΑΡΑ) ΕΝΗΜΕΡΩΘΗΚΕ Ο ΔΡ ΣΤΡΟΥΘΟΣ ΓΙΑ ΑΜΕΣΗ ΕΝΑΡΞΗ ΑΚΤΙΝΟΒΟΛΙΑΣ ΤΟΠΙΚΑ  ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ: -ΠΛΗΡΗ ΣΤΑΔΙΟΠΟΙΗΣΗ ΜΕ PSMA/PET ή ΣΥΜΒΑΤΙΚΗ ΑΠΕΙΚΟΝΙΣΗ. -ΒΙΟΨΙΑ ΓΙΑ ΜΟΡΙΑΚΟ ΑΝΑΛΥΣΗ ΤΟΥ ΟΓΚΟΥ. -ΑΚΤΙΝΟΒΟΛΙΑ ΘΩΡΑΚΙΚΗΣ ΜΟΙΡΑΣ ΣΠΟΝΔΥΛΙΚΗΣ ΣΤΗΛΗΣ</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">ΜΕDICAL NOTE</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">20041410</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PATIENT 3</Data></Cell>
+    <Cell ss:StyleID="s66"/>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">M</Data></Cell>
+    <Cell ss:StyleID="s65"/>
+    <Cell ss:StyleID="s67"><Data ss:Type="DateTime">2022-11-25T14:23:53.000</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">First Time Zoladex 10.8mg done today (Right Side)</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Zoladex 10.8mg</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Unsynced/>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>9</ActiveRow>
+     <ActiveCol>1</ActiveCol>
+     <RangeSelection>R10C2:R46C2</RangeSelection>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <AutoFilter x:Range="R9C1:R46C9"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

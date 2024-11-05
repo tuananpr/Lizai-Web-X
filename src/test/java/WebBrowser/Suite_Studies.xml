@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Studies">
+    <test name= "CreateStudies">
+        <classes>
+            <class name="WebBrowser.Studies_Test"/>
+            <methods>
+                <include name = "Create_MyStudy" priority="1"/>
+            </methods>
+        </classes>
+    </test>
+
+<!--    <test name="EditMyStudy">-->
+<!--        <classes>-->
+<!--            <class name="WebBrowser.Studies_Test"/>-->
+<!--            <methods>-->
+<!--                <include name = "Edit_MyStudy_Name" priority="2"/>-->
+<!--            </methods>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <test name="Uploadfile">
+        <classes>
+            <class name="WebBrowser.Studies_Test"/>
+            <methods>
+                <include name="Upload_Files" priority="3"/>
+            </methods>
+        </classes>
+    </test>
+
+    <test name="Uploadfolder">
+        <classes>
+            <class name="WebBrowser.Studies_Test"/>
+            <methods>
+                <include name="Upload_Folder" priority="4"/>
+            </methods>
+        </classes>
+    </test>
+
+<!--    <test name="UploadfilefromETL">-->
+<!--        <classes>-->
+<!--            <class name="WebBrowser.Studies_Test"/>-->
+<!--            <methods>-->
+<!--                <include name="Upload_ETL" priority="5"/>-->
+<!--            </methods>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+    <test name="Deletefile">
+        <classes>
+            <class name="WebBrowser.Studies_Test"/>
+            <methods>
+                <include name="Delete_File" priority="6"/>
+            </methods>
+        </classes>
+    </test>
+</suite>

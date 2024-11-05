@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Connection Configuration">
+    <test name= "Create_DicomWeb_ConnectorConfig">
+        <classes>
+            <class name="WebBrowser.ConnectionConfig_Test"/>
+            <methods>
+                <include name = "Create_DicomWeb_ConnectorConfig" priority="1" />
+                <include name = "Delete_ConnectionConfig" priority="2" />
+            </methods>
+        </classes>
+    </test>
+</suite>

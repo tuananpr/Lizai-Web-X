@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Clone_Data_Atlantis_XT">
+
+    <test name="Signin">
+        <classes>
+            <class name="WebBrowser.SignIn_Test">
+                <methods>
+                    <include name="Signin_Admin" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="PatientRepositories">
+        <classes>
+            <class name="WebBrowser.PatientRepositories_Test">
+                <methods>
+                    <include name="Create_CloneData_1Patient" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="DataRepositories">
+        <classes>
+            <class name="WebBrowser.DataRepositories_Test">
+                <methods>
+                    <include name="UploadFoler_Patient3" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="Atlantis">
+        <classes>
+            <class name="WebBrowser.Atlantis_Test">
+                <methods>
+                    <include name="Create_Conversation_Patient1" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test name="XT">
+        <classes>
+            <class name="WebBrowser.XT_Test">
+                <methods>
+                    <include name="Create_NewTask_Upload_Prostate_Cancer" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>
+
+
