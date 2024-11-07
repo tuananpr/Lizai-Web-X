@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test SignIn]" verbose="0">
+  <test thread-count="5" name="Signin(failed)" verbose="0">
+    <classes>
+      <class name="WebBrowser.SignIn_Test">
+        <methods>
+          <include name="setup"/>
+          <include name="Signin_Admin"/>
+        </methods>
+      </class> <!-- WebBrowser.SignIn_Test -->
+    </classes>
+  </test> <!-- Signin(failed) -->
+</suite> <!-- Failed suite [Test SignIn] -->

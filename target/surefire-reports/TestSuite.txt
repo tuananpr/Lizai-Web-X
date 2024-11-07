@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 0.532 s <<< FAILURE! - in TestSuite
+WebBrowser.SignIn_Test.setup  Time elapsed: 0.368 s  <<< FAILURE!
+java.lang.AssertionError:  is not supported yet.
+	at WebBrowser.SignIn_Test.setup(SignIn_Test.java:16)
+

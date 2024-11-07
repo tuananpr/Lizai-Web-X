@@ -1,0 +1,4 @@
+# Created at 2024-11-07T09:53:12.721
+Boot Manifest-JAR contains absolute paths in classpath 'L:\LizAI Project\Lizai-Web-X\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
